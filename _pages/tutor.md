@@ -10,6 +10,7 @@ Math Subjects | Calculus I/II/III, AP Calculus AB/BC, AP Statistics, Pre-Calculu
 Ages | High school and college, but willing to take on highly advanced younger students  
 Instruction Formats | one-on-one, group (up to 4), in-home, online
 
+
 <b>Agencies</b>
 
 Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~5 students  
