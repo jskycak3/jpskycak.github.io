@@ -16,6 +16,9 @@ author_profile: true
 * <font size="2">Presented on cutting-edge analytical methods such as Topological Data Analysis. </font><font size="2" color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(link)</a></font>
 
 ### Research Intern
+*<font size="2">Jan 2018 - May 2018 | Freelance</font>*  
+*<font size="2">May 2017 - Jan 2018 | Salaried</font>*  
+*<font size="2">Jan 2016 - May 2017 | Intern</font>*
 *<font size="2">Jan 2018 - May 2018 | Los Alamos National Laboratory</font>*  
 <font size="2">Implemented spiking neurons in a deep neural network, in attempt to emulate brain waves.</font>  
 *<font size="2">May 2017 - Jan 2018 | University of Notre Dame</font>*  
