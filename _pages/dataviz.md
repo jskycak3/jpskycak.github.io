@@ -12,8 +12,8 @@ author_profile: true
 *<font size="2">Jan 2016 - May 2017 | Intern</font>*</br>
 
 * Developed a random forest model to predict customer churn with 80% precision.</br>
-* Generated hierarchical clustering visualizations to discover sales funnels and advertising opportunities. <font color="blue">[(link)](https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf)</font></br>
-* Presented on cutting-edge analytical methods such as Topological Data Analysis. <font color="blue">[(link)](https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf)</font></br>
+* Generated hierarchical clustering visualizations to discover sales funnels and advertising opportunities. [<font color="blue">(link)</font>](https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf)</br>
+* Presented on cutting-edge analytical methods such as Topological Data Analysis. [<font color="blue">(link)</font>](https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf)</br>
 
 ## <font color="green">EDUCATION</font>
 
