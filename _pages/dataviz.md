@@ -22,3 +22,6 @@ author_profile: true
 
 ## <font color="green">EDUCATION</font>
 
+### MS, Computer Science | Georgia Institute of Technology | 2020
+
+### BS, Mathematics | University of Notre Dame | 2018
