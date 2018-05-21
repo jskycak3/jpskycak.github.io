@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Data Science"
-    url: /datascience/
+  - title: "Analytics"
+    url: /analytics/
     
   - title: "Math & Test Prep"
     url: /math_testprep/
