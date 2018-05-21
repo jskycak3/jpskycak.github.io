@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Justin Skycak"
 title_separator          : "-"
 name                     : &name "Justin Skycak"
-description              : &description "Visualizer of High-Dimensional Data"
+description              : &description "Analytics, Education, and Music Portfolios"
 url                      : https://jpskycak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jpskycak/jpskycak.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Justin Skycak"
   avatar           : "jpskycak.png"
-  bio              : "Visualizer of High-Dimensional Data"
+  bio              : "Analytics, Education, and Music Portfolios"
   location         : "Pasadena, CA"
   employer         :
   googlescholar    :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jpskycak"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UCeBL7LfVtp-ggpieBXSMeTg"
   wikipedia        :
 
 
