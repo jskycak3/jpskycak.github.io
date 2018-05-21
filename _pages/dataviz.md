@@ -20,10 +20,10 @@ author_profile: true
 Implemented spiking neurons in a deep neural network, in attempt to emulate brain waves.
 
 *<font size="2">May 2017 - Jan 2018 | University of Notre Dame</font>*  
-Improved data transmission in a CERN particle detector by identifying optimal combinations of light-transmitting materials.
+Improved data transmission in a CERN particle detector by identifying optimal combinations of light-transmitting materials. [<font color="blue">(link)</font>](https://jpskycak.github.io/files/skycak-nd-particledetector.pdf)
 
 *<font size="2">Jan 2016 - May 2017 | Indiana University South Bend</font>*
-Improved sensors in a Fermilab dark matter detector by developing a material to reduce signal loss. Intel ISEF finalist.
+Improved sensors in a Fermilab dark matter detector by developing a material to reduce signal loss. Intel ISEF finalist. [<font color="blue">(link)</font>](https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf)
 
 ## <font color="green">EDUCATION</font>
 
