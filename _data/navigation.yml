@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Analytics"
-    url: /analytics/
+  - title: "Data Visualization"
+    url: /dataviz/
     
-  - title: "Math & Test Prep"
-    url: /math_testprep/
+  - title: "Math & Test Prep Tutoring"
+    url: /tutor/
     
-  - title: "Dreamzilla"
-    url: /dreamzilla/
+  - title: "Dreamzilla Music"
+    url: /music/
     
   #- title: "Publications"
   #  url: /publications/
