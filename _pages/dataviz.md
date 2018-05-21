@@ -17,11 +17,9 @@ author_profile: true
 
 ### Research Intern
 *<font size="2">Jan 2018 - May 2018 | Los Alamos National Laboratory</font>*  
-<font size="2">Implemented spiking neurons in a deep neural network, in attempt to emulate brain waves.</font>
-
+<font size="2">Implemented spiking neurons in a deep neural network, in attempt to emulate brain waves.</font>  
 *<font size="2">May 2017 - Jan 2018 | University of Notre Dame</font>*  
-<font size="2">Improved data transmission in a CERN particle detector by identifying optimal combinations of light-transmitting materials. </font><font size="2" color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(link)</a></font>
-
+<font size="2">Improved data transmission in a CERN particle detector by identifying optimal combinations of light-transmitting materials. </font><font size="2" color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(link)</a></font>  
 *<font size="2">Jan 2016 - May 2017 | Indiana University South Bend</font>*  
 <font size="2">Improved sensors in a Fermilab dark matter detector by developing a material to reduce signal loss. Intel ISEF finalist. </font><font size="2" color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(link)</a></font>
 
