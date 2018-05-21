@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## <font color="green">EXPERIENCE</font>
 
-### Aunalytics | Data Scientist </br>
+### Data Scientist @ Aunalytics</br>
 *<font size="2">Jan 2018 - May 2018 | Freelance</font>*</br>
 *<font size="2">May 2017 - Jan 2018 | Salaried</font>*</br>
 *<font size="2">Jan 2016 - May 2017 | Intern</font>*</br>
@@ -17,6 +17,8 @@ author_profile: true
 
 ## <font color="green">EDUCATION</font>
 
-### MS, Computer Science | Georgia Institute of Technology | 2020
+### MS, Computer Science @ Georgia Institute of Technology</br>
+*2018 - 2020*
 
-### BS, Mathematics | University of Notre Dame | 2018
+### BS, Mathematics @ University of Notre Dame</br>
+*2014 - 2018*
