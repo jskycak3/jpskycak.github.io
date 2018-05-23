@@ -5,14 +5,11 @@ permalink: /music/
 author_profile: true
 ---
 
-<audio
-  src="http://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg"
-  autoplay>
-  Your browser does not support the <code>audio</code> element.
-</audio>
-
 <b>Remixes (2017)</b>  
- | <font color="green">Unlike Me</font> | <font color="blue"><a href="files/jpskycak-unlike_me_remix.wav">(link)</a></font>  
+ | <font color="green">Unlike Me</font> | <font color="blue"><a href="files/jpskycak-unlike_me_remix.mp3">(link)</a></font>  
+ 
+ http://www.jpskycak.com/music/files/jpskycak-unlike_me_remix.wav
+ 
  
 <b>Eastern EDM (2017)</b>  
  | <font color="green">Come At Me</font> | <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>  
