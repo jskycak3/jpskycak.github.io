@@ -6,9 +6,24 @@ author_profile: true
 ---
 
 Favorites in bold
-100% original productions in green
-Containing copyright-able samples
+100% original productions in green (many contain copyright-able vocal or horn samples)
+ 
+  
+<b>Scores for a Film</b>
 
+<b>Eastern EDM</b>
+2017 | <font color="green">Come At Me</font> | Mourning <font color="blue"><a href="files/eastedm-come_at_me.mp3">(link)</a></font>  
+<b>Score for a Fantasy</b>
+2017 | <font color="green">Lost the Battle</font> | <font color="blue"><a href="files/psychmed-scatterbrain.mp3">(link)</a></font>  
+
+<b>Psychedelic Meditation</b>
+2017 | <font color="green">Scatterbrain</font> | <font color="blue"><a href="files/psychmed-scatterbrain.mp3">(link)</a></font>  
+2017 | <font color="green">Loss</font> | <font color="blue"><a href="files/psychmed-loss.mp3">(link)</a></font>  
+
+<b>Meh</b>
+2016 | <font color="green">Strut</font> | <font color="blue"><a href="files/corny-strut.mp3">(link)</a></font> 
+2016 | <font color="green">Monster</font> | <font color="blue"><a href="files/corny-monster.mp3">(link)</a></font> 
+2016 | <font color="green">Bright</font> | <font color="blue"><a href="files/corny-bright.mp3">(link)</a></font> 
 
 
 
