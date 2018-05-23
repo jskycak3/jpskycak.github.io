@@ -5,17 +5,15 @@ permalink: /music/
 author_profile: true
 ---
 
-<b>Remixes (2017)</b>
- | <font color="green">Unlike Me</font> | Unlike Me <font color="blue"><a href="files/jpskycak-unlike_me_remix.wav">(link)</a></font> 
- | <font color="green">Bounce</font> | Bounce <font color="blue"><a href="files/jpskycak-bounce.wav">(link)</a></font> 
- | <font color="green">Naissi</font> | Naissi <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>
+<b>Remixes (2017)</b>  
+ | <font color="green">Unlike Me</font> | <font color="blue"><a href="files/jpskycak-unlike_me_remix.wav">(link)</a></font>  
  
-<b>Eastern EDM (2017)</b>
- | <font color="green">Come At Me</font> | Come At Me <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font> 
- | <font color="green">Bounce</font> | Bounce <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font> 
- | <font color="green">Naissi</font> | Naissi <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font> 
+<b>Eastern EDM (2017)</b>  
+ | <font color="green">Come At Me</font> | <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>  
+ | <font color="green">Bounce</font> | <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>  
+ | <font color="green">Naissi</font> | <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>  
 
-<b>Score for a Medieval Fantasy (2017)</b>
+<b>Score for a Medieval Fantasy (2017)</b>  
  | <font color="green">Uh-oh</font> | <font color="blue"><a href="files/jpskycak-uhoh.wav">(link)</a></font>  
  | <font color="green">What if?</font> | <font color="blue"><a href="files/jpskycak-whatif.wav">(link)</a></font>  
  | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <font color="blue"><a href="files/jpskycak-thunderstorm_intro.wav">(link)</a></font>  
@@ -28,16 +26,15 @@ author_profile: true
  | <font color="green">Freezing to Death</font> | <font color="blue"><a href="files/jpskycak-freezing_to_death.wav">(link)</a></font>  
  | <font color="green">Jungle Dance</font> | <font color="blue"><a href="files/jpskycak-jungle_dance.wav">(link)</a></font> 
 
-<b>High on Jazz (2017)</b>
+<b>High on Jazz (2017)</b>  
  | <font color="green">Jazzy Trip</font> | <font color="blue"><a href="files/jpskycak-jazzy_trip.wav">(link)</a></font>  
- | <font color="green">Higher than Heaven</font> | <font color="blue"><a href="files/jpskycak-higher_than_heaven.wav">(link)</a></font> 
+ | <font color="green">Higher than Heaven</font> | <font color="blue"><a href="files/jpskycak-higher_than_heaven.wav">(link)</a></font>  
 
-<b>Psychedelic Meditation (2017)</b>
+<b>Psychedelic Meditation (2017)</b>  
  | <font color="green">Scatterbrain</font> | <font color="blue"><a href="files/jpskycak-scatterbrain.wav">(link)</a></font>  
  | <font color="green">Loss</font> | <font color="blue"><a href="files/jpskycak-loss.wav">(link)</a></font>   
 
-
-<b>Uncategorized</b>
+<b>Uncategorized</b>  
  | <font color="green">Strut</font> | <font color="blue"><a href="files/jpskycak-strut.wav">(link)</a></font>  
  | <font color="green">Monster</font> | <font color="blue"><a href="files/jpskycak-monster.wav">(link)</a></font>  
  | <font color="green">Bright</font> | <font color="blue"><a href="files/jpskycak-bright.wav">(link)</a></font>  
