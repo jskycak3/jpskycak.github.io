@@ -1,9 +1,20 @@
 ---
 layout: archive
-title: "Dreamzilla Music"
+title: "Music Production"
 permalink: /music/
 author_profile: true
 ---
+
+Favorites in bold
+100% original productions in green
+Containing copyright-able samples
+
+
+
+
+2017 | <font color="green">Bounce</font> | Eastern EDM <font color="blue"><a href="https://www.youtube.com/watch?v=n5HYg88dlno">(link)</a></font>  
+
+
 
 2017 | <font color="green">Bounce</font> | Eastern EDM <font color="blue"><a href="https://www.youtube.com/watch?v=n5HYg88dlno">(link)</a></font>  
 2017 | <font color="green">Naissi</font> | Eastern EDM <font color="blue"><a href="https://www.youtube.com/watch?v=80c0wDLY1vk">(link)</a></font>  
