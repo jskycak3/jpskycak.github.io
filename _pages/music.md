@@ -14,6 +14,16 @@ Still getting organized...
 
 -----
 
+2018 | <font color="green">360Giving Challenge</font> | Visualized grant funding data to show who has funded what themes throughout the years. <font color="blue"><a href="https://jpskycak.github.io/360Giving-Challenge">(link)</a></font>  
+2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining topological data analysis and demonstrating its applications in data visualization. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(link)</a></font>  
+2016 | <font color="green">Aunalytics</font> | Generated hierarchical clustering visualizations to discover a sales funnel for a banking client. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(link)</a></font>
+
+-------
+
+2018 | <font color="green">360Giving Challenge</font> | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining topological data analysis and demonstrating its applications in data visualization. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(link)</a></font>  
+2016 | <font color="green">Aunalytics</font> | Generated hierarchical clustering visualizations to discover a sales funnel for a banking client. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(link)</a></font>
+
 
 <b>Remixes (2017)</b>  
  | <font color="green">Unlike Me</font> | <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">(link)</a></font>  
