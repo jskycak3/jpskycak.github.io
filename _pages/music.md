@@ -8,9 +8,9 @@ author_profile: true
 Still getting organized...
 
 <b>Remixes</b>  
-| Unlike Me | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-| asdf | asdf  
-| asdf | asdf  
+| Unlike Me | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio> | asdf | asdf |  
+| asdf | asdf | asdf | asdf |  
+| asdf | asdf | asdf | asdf |  
 
 -----
 
