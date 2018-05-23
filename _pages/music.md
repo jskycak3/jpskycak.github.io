@@ -8,14 +8,19 @@ author_profile: true
 Still getting organized...
 
 
+<audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>
+
+---------
+
 <label for="t-rex-roar">
         What does the <del>fox</del> <ins>T. rex</ins> say?
     </label>
 
-<audio id="t-rex-roar" controls src="http://soundbible.com/mp3/Tyrannosaurus%20Rex%20Roar-SoundBible.com-807702404.mp3">Your browser does not support the <code>audio</code> element.</audio>
+<b>Remixes</b>
+| Unlike Me | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+| asdf | asdf  
+| asdf | asdf  
 
-
-<audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>
 
 <b>Remixes (2017)</b>  
  | <font color="green">Unlike Me</font> | <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">(link)</a></font>  
