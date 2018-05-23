@@ -36,14 +36,13 @@ Still getting organized...
  | <font color="green">Scouting</font> | <font color="blue"><a href="files/jpskycak-scouting.wav">(link)</a></font>  
  | <font color="green">Freezing to Death</font> | <font color="blue"><a href="files/jpskycak-freezing_to_death.wav">(link)</a></font>  
  | <font color="green">Jungle Dance</font> | <font color="blue"><a href="files/jpskycak-jungle_dance.wav">(link)</a></font> 
+ 
 
-<b>High on Jazz (2016)</b>  
- | <font color="green">Jazzy Trip</font> | <font color="blue"><a href="files/jpskycak-jazzy_trip.wav">(link)</a></font>  
- | <font color="green">Higher than Heaven</font> | <font color="blue"><a href="files/jpskycak-higher_than_heaven.wav">(link)</a></font>  
-
-<b>Psychedelic Meditation (2016)</b>  
+<b>Meditation (2016)</b>  
  | <font color="green">Scatterbrain</font> | <font color="blue"><a href="files/jpskycak-scatterbrain.wav">(link)</a></font>  
- | <font color="green">Loss</font> | <font color="blue"><a href="files/jpskycak-loss.wav">(link)</a></font>   
+ | <font color="green">Loss</font> | <font color="blue"><a href="files/jpskycak-loss.wav">(link)</a></font>  
+ | <font color="green">Jazzy Trip</font> | <font color="blue"><a href="files/jpskycak-jazzy_trip.wav">(link)</a></font>  
+ | <font color="green">Jazzy Reflections</font> | <font color="blue"><a href="files/jpskycak-jazzy_reflections.wav">(link)</a></font> 
 
 <b>Uncategorized (2015)</b>  
  | <font color="green">Strut</font> | <font color="blue"><a href="files/jpskycak-strut.wav">(link)</a></font>  
