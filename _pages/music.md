@@ -5,36 +5,45 @@ permalink: /music/
 author_profile: true
 ---
 
-Favorites in bold
-100% original productions in green (many contain copyright-able vocal or horn samples)
+<b>Remixes (2017)</b>
+ | <font color="green">Unlike Me</font> | Unlike Me <font color="blue"><a href="files/jpskycak-unlike_me_remix.wav">(link)</a></font> 
+ | <font color="green">Bounce</font> | Bounce <font color="blue"><a href="files/jpskycak-bounce.wav">(link)</a></font> 
+ | <font color="green">Naissi</font> | Naissi <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>
  
-  
-<b>Scores for a Film</b>
+<b>Eastern EDM (2017)</b>
+ | <font color="green">Come At Me</font> | Come At Me <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font> 
+ | <font color="green">Bounce</font> | Bounce <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font> 
+ | <font color="green">Naissi</font> | Naissi <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font> 
 
-<b>Eastern EDM</b>
-2017 | <font color="green">Come At Me</font> | Mourning <font color="blue"><a href="files/eastedm-come_at_me.mp3">(link)</a></font>  
-<b>Score for a Fantasy</b>
-2017 | <font color="green">Lost the Battle</font> | <font color="blue"><a href="files/psychmed-scatterbrain.mp3">(link)</a></font>  
+<b>Score for a Medieval Fantasy (2017)</b>
+ | <font color="green">Uh-oh</font> | <font color="blue"><a href="files/jpskycak-uhoh.wav">(link)</a></font>  
+ | <font color="green">What if?</font> | <font color="blue"><a href="files/jpskycak-whatif.wav">(link)</a></font>  
+ | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <font color="blue"><a href="files/jpskycak-thunderstorm_intro.wav">(link)</a></font>  
+ | <font color="green">Emerging from Chrysalis</font> | <font color="blue"><a href="files/jpskycak-emerging_from_chrysalis.wav">(link)</a></font>  
+ | <font color="green">Fairytale Blacksmith</font> | <font color="blue"><a href="files/jpskycak-fairytale_blacksmith.wav">(link)</a></font>  
+ | <font color="green">Wanderlust</font> | <font color="blue"><a href="files/jpskycak-wanderlust.wav">(link)</a></font>  
+ | <font color="green">Deep Thoughts</font> | <font color="blue"><a href="files/jpskycak-deep_thoughts.wav">(link)</a></font>  
+ | <font color="green">Preparations</font> | <font color="blue"><a href="files/jpskycak-preparations.wav">(link)</a></font>
+ | <font color="green">Scouting</font> | <font color="blue"><a href="files/jpskycak-scouting.wav">(link)</a></font>
+ | <font color="green">Freezing to Death</font> | <font color="blue"><a href="files/jpskycak-freezing_to_death.wav">(link)</a></font>  
+ | <font color="green">Jungle Dance</font> | <font color="blue"><a href="files/jpskycak-jungle_dance.wav">(link)</a></font> 
 
-<b>Psychedelic Meditation</b>
-2017 | <font color="green">Scatterbrain</font> | <font color="blue"><a href="files/psychmed-scatterbrain.mp3">(link)</a></font>  
-2017 | <font color="green">Loss</font> | <font color="blue"><a href="files/psychmed-loss.mp3">(link)</a></font>  
+<b>High on Jazz (2017)</b>
+ | <font color="green">Jazzy Trip</font> | <font color="blue"><a href="files/jpskycak-jazzy_trip.wav">(link)</a></font>  
+ | <font color="green">Higher than Heaven</font> | <font color="blue"><a href="files/jpskycak-higher_than_heaven.wav">(link)</a></font> 
 
-<b>Meh</b>
-2016 | <font color="green">Strut</font> | <font color="blue"><a href="files/corny-strut.mp3">(link)</a></font> 
-2016 | <font color="green">Monster</font> | <font color="blue"><a href="files/corny-monster.mp3">(link)</a></font> 
-2016 | <font color="green">Bright</font> | <font color="blue"><a href="files/corny-bright.mp3">(link)</a></font> 
-
+<b>Psychedelic Meditation (2017)</b>
+ | <font color="green">Scatterbrain</font> | <font color="blue"><a href="files/jpskycak-scatterbrain.wav">(link)</a></font>  
+ | <font color="green">Loss</font> | <font color="blue"><a href="files/jpskycak-loss.wav">(link)</a></font>   
 
 
-2017 | <font color="green">Bounce</font> | Eastern EDM <font color="blue"><a href="https://www.youtube.com/watch?v=n5HYg88dlno">(link)</a></font>  
-
-
-
-2017 | <font color="green">Bounce</font> | Eastern EDM <font color="blue"><a href="https://www.youtube.com/watch?v=n5HYg88dlno">(link)</a></font>  
-2017 | <font color="green">Naissi</font> | Eastern EDM <font color="blue"><a href="https://www.youtube.com/watch?v=80c0wDLY1vk">(link)</a></font>  
-2017 | <font color="green">Scatterbrain</font> | Psychedelic <font color="blue"><a href="https://www.youtube.com/watch?v=eLxMZ-22B7Q">(link)</a></font>  
-2017 | <font color="green">Unlike Me</font> | Remix of original by Kate Havnevik <font color="blue"><a href="https://www.youtube.com/watch?v=Ce8Hv_vvWAA">(link)</a></font>  
-2016 | <font color="green">Come at Me</font> | Eastern EDM <font color="blue"><a href="https://www.youtube.com/watch?v=NKDDihHws7k">(link)</a></font>   
-2016 | <font color="green">Wanderlust</font> | Fantasy/adventure symphony <font color="blue"><a href="https://www.youtube.com/watch?v=x5TGoqTT0lc">(link)</a></font>   
-2016 | <font color="green">Freezing to Death</font> | Sorrowful film score <font color="blue"><a href="https://www.youtube.com/watch?v=YgMHxYDyuGQ">(link)</a></font>   
+<b>Uncategorized</b>
+ | <font color="green">Strut</font> | <font color="blue"><a href="files/jpskycak-strut.wav">(link)</a></font>  
+ | <font color="green">Monster</font> | <font color="blue"><a href="files/jpskycak-monster.wav">(link)</a></font>  
+ | <font color="green">Bright</font> | <font color="blue"><a href="files/jpskycak-bright.wav">(link)</a></font>  
+ | <font color="green">Excitement_Hairball</font> | <font color="blue"><a href="files/jpskycak-excitement_hairball.wav">(link)</a></font>  
+ | <font color="green">I'm Not Here</font> | <font color="blue"><a href="files/jpskycak-im_not_here.wav">(link)</a></font>  
+ | <font color="green">Piano Talks</font> | <font color="blue"><a href="files/jpskycak-piano_talks.wav">(link)</a></font>  
+ | <font color="green">I'm Sorry Dave</font> | <font color="blue"><a href="files/jpskycak-im_sorry_dave.wav">(link)</a></font>  
+ | <font color="green">The Truth About Endings</font> | <font color="blue"><a href="files/jpskycak-the_truth_about_endings.wav">(link)</a></font>  
+ | <font color="green">That Frequency</font> | <font color="blue"><a href="files/jpskycak-that_frequency.wav">(link)</a></font>   
