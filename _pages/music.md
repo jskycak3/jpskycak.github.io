@@ -9,14 +9,7 @@ author_profile: true
         What does the <del>fox</del> <ins>T. rex</ins> say?
     </label>
 
-    <br/>
-
-    <audio
-        id="t-rex-roar"
-        controls
-        src="http://soundbible.com/mp3/Tyrannosaurus%20Rex%20Roar-SoundBible.com-807702404.mp3">
-        Your browser does not support the <code>audio</code> element.
-    </audio>
+<audio id="t-rex-roar" controls src="http://soundbible.com/mp3/Tyrannosaurus%20Rex%20Roar-SoundBible.com-807702404.mp3">Your browser does not support the <code>audio</code> element.</audio>
 
 <b>Remixes (2017)</b>  
  | <font color="green">Unlike Me</font> | <font color="blue"><a href="files/jpskycak-unlike_me_remix.mp3">(link)</a></font>  
@@ -37,8 +30,8 @@ author_profile: true
  | <font color="green">Fairytale Blacksmith</font> | <font color="blue"><a href="files/jpskycak-fairytale_blacksmith.wav">(link)</a></font>  
  | <font color="green">Wanderlust</font> | <font color="blue"><a href="files/jpskycak-wanderlust.wav">(link)</a></font>  
  | <font color="green">Deep Thoughts</font> | <font color="blue"><a href="files/jpskycak-deep_thoughts.wav">(link)</a></font>  
- | <font color="green">Preparations</font> | <font color="blue"><a href="files/jpskycak-preparations.wav">(link)</a></font>
- | <font color="green">Scouting</font> | <font color="blue"><a href="files/jpskycak-scouting.wav">(link)</a></font>
+ | <font color="green">Preparations</font> | <font color="blue"><a href="files/jpskycak-preparations.wav">(link)</a></font>  
+ | <font color="green">Scouting</font> | <font color="blue"><a href="files/jpskycak-scouting.wav">(link)</a></font>  
  | <font color="green">Freezing to Death</font> | <font color="blue"><a href="files/jpskycak-freezing_to_death.wav">(link)</a></font>  
  | <font color="green">Jungle Dance</font> | <font color="blue"><a href="files/jpskycak-jungle_dance.wav">(link)</a></font> 
 
