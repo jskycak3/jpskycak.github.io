@@ -8,7 +8,7 @@ author_profile: true
 <b>Remixes (2017)</b>  
  | <font color="green">Unlike Me</font> | <font color="blue"><a href="files/jpskycak-unlike_me_remix.mp3">(link)</a></font>  
  
- http://www.jpskycak.com/music/files/jpskycak-unlike_me_remix.wav
+ http://www.jpskycak.com/music/files/jpskycak-unlike_me_remix.mp3
  
  
 <b>Eastern EDM (2017)</b>  
