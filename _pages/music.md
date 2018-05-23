@@ -5,19 +5,36 @@ permalink: /music/
 author_profile: true
 ---
 
+Still getting organized...
+
+
 <label for="t-rex-roar">
         What does the <del>fox</del> <ins>T. rex</ins> say?
     </label>
 
 <audio id="t-rex-roar" controls src="http://soundbible.com/mp3/Tyrannosaurus%20Rex%20Roar-SoundBible.com-807702404.mp3">Your browser does not support the <code>audio</code> element.</audio>
 
+
+<audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>
+
 <b>Remixes (2017)</b>  
- | <font color="green">Unlike Me</font> | <font color="blue"><a href="files/jpskycak-unlike_me_remix.mp3">(link)</a></font>  
+ | <font color="green">Unlike Me</font> | <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">(link)</a></font>  
+ 
+ 1
  
  https://github.com/jpskycak/jpskycak.github.io/blob/master/files/jpskycak-unlike_me_remix.mp3
  
+ 2
+ 
+ https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3
+ 
+ 3
+ 
  ![](https://github.com/jpskycak/jpskycak.github.io/blob/master/files/jpskycak-unlike_me_remix.mp3)
  
+ 4
+ 
+ ![](https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3)
  
 <b>Eastern EDM (2017)</b>  
  | <font color="green">Come At Me</font> | <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>  
