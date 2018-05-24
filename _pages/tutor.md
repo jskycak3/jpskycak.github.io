@@ -5,7 +5,7 @@ permalink: /tutor/
 author_profile: true
 ---
 
-I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only pass their class, but also understand and connect with the subject matter. I also offer enrichment for advanced students who find joy in math.
+I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only excel in their classes and tests, but also understand and connect with the subject matter. I also offer enrichment for advanced students who find joy in math.
 
 <b>Info</b>
 
