@@ -7,6 +7,8 @@ author_profile: true
 
 I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only pass their class, but also understand and connect with the subject matter. I also offer enrichment for advanced students who find joy in math.
 
+<b>Info</b>
+
 Test Prep | SAT (personal: 1540/1600), ACT (personal: 34/36), GMAT (personal: 770/800), GRE, CHSPE  
 Math Subjects | Calculus I/II/III, AP Calculus AB/BC, AP Statistics, Pre-Calculus, Algebra 2  
 Ages | High school and college, but willing to take on highly advanced younger students  
@@ -19,6 +21,11 @@ Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 5 students / 2
 Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 20 students / 100 hours | Classroom, one-on-one 
 Sept 2017 - Present | <font color="green">Study.com</font> | ~ 1500 solutions / 300 hours | Solutions writing
 Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 300 students / 2,500 hours | Group, one-on-one  
+
+<b>Academic Credentials</b>
+
+MS, Computer Science | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (exp)   
+BS, Mathematics | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
 
 <b>Testimonials</b>
 
