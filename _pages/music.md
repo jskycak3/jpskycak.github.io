@@ -25,6 +25,7 @@ Eastern EDM | <font color="green">Bounce</font> | <audio controls src="https://j
 Eastern EDM | <font color="green">Naissi</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>    
 Meditation | <font color="green">Jazzy Reflections</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_reflections.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Meditation | <font color="green">Jazzy Trip</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_trip.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Psychedelic | <font color="green">Jungle Dance</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jungle_dance.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scatterbrain.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 <b>Score for a Medieval Fantasy (2017)</b>  
@@ -32,7 +33,6 @@ Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="htt
 Exposition | <font color="green">Fairytale Blacksmith</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fairytale_blacksmith.mp3">Your browser does not support the <code>audio</code> element.</audio> 
 Rising Action | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-thunderstorm_intro.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Rising Action | <font color="green">Wanderlust</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-wanderlust.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Rising Action | <font color="green">Jungle Dance</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jungle_dance.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Rising Action | <font color="green">Uh-oh</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-uhoh.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Rising Action | <font color="green">Deep Thoughts</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-deep_thoughts.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Climax | <font color="green">Freezing to Death</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-freezing_to_death.mp3">Your browser does not support the <code>audio</code> element.</audio>  
