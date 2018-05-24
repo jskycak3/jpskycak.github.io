@@ -17,7 +17,7 @@ I also offer enrichment for advanced students who find joy in math.
  | <font color="green">Test Prep</font> | SAT (personal: 1540/1600), ACT (personal: 34/36), GMAT (personal: 770/800), GRE, CHSPE  
  | <font color="green">Math Subjects</font> | Algebra 2, Pre-Calculus, AP Statistics, AP Calculus AB/BC, Calculus I/II/III, Enrichment  
  | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
- | <font color="green">Instruction Formats</font> | One-on-one, group, classroom, in-home, online
+ | <font color="green">Instruction Formats</font> | One-on-one, group, classroom
 
 <b>Experience</b>
 
