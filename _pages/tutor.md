@@ -24,8 +24,8 @@ Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 300 students / 2
 
 <b>Academic Credentials</b>
 
-MS, Computer Science | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (exp)   
-BS, Mathematics | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
+MS | Computer Science | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (exp)   
+BS | Mathematics | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
 
 <b>Testimonials</b>
 
