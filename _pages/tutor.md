@@ -5,7 +5,7 @@ permalink: /tutor/
 author_profile: true
 ---
 
-I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example, <font color="blue"><a href="https://jpskycak.github.io/jpskycak-ian.pdf">here</a></font> is a lesson I made for a student who was interested in XXXXXX, and needed to understand the math and physics behind an egg drop experiment.
+I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example, <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">here</a></font> is a lesson I made for a student who was interested in XXXXXX, and needed to understand the math and physics behind an egg drop experiment.
 
 I also offer enrichment for advanced students who find joy in math.
 
