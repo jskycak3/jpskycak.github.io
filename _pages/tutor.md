@@ -5,6 +5,8 @@ permalink: /tutor/
 author_profile: true
 ---
 
+I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only pass their class, but also understand and connect with the subject matter. I also offer enrichment for advanced students who find joy in math.
+
 Test Prep | SAT (personal: 1540/1600), ACT (personal: 34/36), GMAT (personal: 770/800), GRE, CHSPE  
 Math Subjects | Calculus I/II/III, AP Calculus AB/BC, AP Statistics, Pre-Calculus, Algebra 2  
 Ages | High school and college, but willing to take on highly advanced younger students  
