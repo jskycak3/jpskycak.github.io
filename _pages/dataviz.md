@@ -5,9 +5,10 @@ permalink: /dataviz/
 author_profile: true
 ---
 
-I’m furthering my education and experience in data visualization while studying a Master's in Computer Science with Georgia Tech.
+I’m furthering my education and experience in data visualization while studying a Master's in Computer Science with Georgia Tech.  
 
 <b>Selected Works</b>  
+
 Practice | 2018 | <font color="green">360Giving Challenge</font> | Used animated scatter plots to show which grant funding agencies funded which themes throughout the years. <font color="blue"><a href="https://jpskycak.github.io/360Giving-Challenge">(site)</a></font>  
 Practice | 2016 | <font color="green">Aunalytics</font> | Generated hierarchical clustering visualizations of banking service usage and discovered a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 Theory | 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
