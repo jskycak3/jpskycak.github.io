@@ -5,10 +5,10 @@ permalink: /tutor/
 author_profile: true
 ---
 
-I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example:  
-<ul><li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">Here</a></font> is a lesson I made for a student who was interested in *Lord of the Rings* and *Star Wars*, and needed to understand the math and physics behind an egg drop experiment.</li>  
+I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example:
+<ul><li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">Here</a></font> is a lesson I made for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>, and needed to understand the math and physics behind an egg drop experiment.</li>  
 <li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_primer.pdf">Here</a></font> is a primer I made which focuses on building intuition behind core concepts in calculus.</li>  
-<li>Here are some lessons I made on applications of calculus.</li>  </ul>
+<li>Here are some lessons I made on applications of calculus.</li></ul>
 
 I also offer enrichment for advanced students who find joy in math.
 
