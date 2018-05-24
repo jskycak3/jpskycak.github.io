@@ -5,14 +5,17 @@ permalink: /tutor/
 author_profile: true
 ---
 
-I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example, <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">here</a></font> is a lesson I made for a student who was interested in *Lord of the Rings* and *Star Wars*, and needed to understand the math and physics behind an egg drop experiment.
+I've tutored hundreds of students for thousands of hours. Because I tailor homework help and test prep to students' special interests and individual learning styles, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example:
+ * <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">Here</a></font> is a lesson I made for a student who was interested in *Lord of the Rings* and *Star Wars*, and needed to understand the math and physics behind an egg drop experiment.
+ * <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_primer.pdf">Here</a></font> is a primer I made which focuses on building intuition behind core concepts in calculus.
+ * Here are some lessons I made on applications of calculus.
 
 I also offer enrichment for advanced students who find joy in math.
 
 <b>Info</b>
 
  | <font color="green">Test Prep</font> | SAT (personal: 1540/1600), ACT (personal: 34/36), GMAT (personal: 770/800), GRE, CHSPE  
- | <font color="green">Math Subjects</font> | Calculus I/II/III, AP Calculus AB/BC, AP Statistics, Pre-Calculus, Algebra 2  
+ | <font color="green">Math Subjects</font> | Algebra 2, Pre-Calculus, AP Statistics, AP Calculus AB/BC, Calculus I/II/III, Enrichment  
  | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
  | <font color="green">Instruction Formats</font> | One-on-one, group, classrom, in-home, online
 
@@ -20,8 +23,8 @@ I also offer enrichment for advanced students who find joy in math.
 
 Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~ 5 students / 50 hours | Classroom, group, one-on-one  
 Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 5 students / 25 hours | One-on-one  
-Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 20 students / 100 hours | Classroom, one-on-one 
-Sept 2017 - Present | <font color="green">Study.com</font> | ~ 1500 solutions / 300 hours | Solutions writing
+Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 20 students / 100 hours | Classroom, one-on-one  
+Sept 2017 - Present | <font color="green">Study.com</font> | ~ 1500 solutions / 300 hours | Solutions writing    
 Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 300 students / 2,500 hours | Group, one-on-one  
 
 <b>Academic Credentials</b>
