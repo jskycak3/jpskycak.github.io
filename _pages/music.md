@@ -7,23 +7,21 @@ author_profile: true
 
 Still getting organized -- most links are broken. Come back tomorrow!
 
-<b>Selected Works</b>  
+<b>Selected Works</b>
 
 2017 | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining topological data analysis and demonstrating its applications in data visualization. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(link)</a></font>  
-2016 | <font color="green">Aunalytics</font> | Generated hierarchical clustering visualizations to discover a sales funnel for a banking client. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(link)</a></font>
+2017 | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<b>Singles</b>  
+<b>Singles</b>
 
 2017 | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining topological data analysis and demonstrating its applications in data visualization. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(link)</a></font>  
-2016 | <font color="green">Aunalytics</font> | Generated hierarchical clustering visualizations to discover a sales funnel for a banking client. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(link)</a></font>
+2017 | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<b>Eastern EDM (2017)</b>  
+<b>Eastern EDM (2017)</b>
 
-2017 | <font color="green">Come At Me</font> | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-2017 | <font color="green">Bounce</font> | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-2016 | <font color="green">Naissi</font> | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+2017 | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+2017 | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+2016 | <font color="green">Naissi</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 
  --------------
