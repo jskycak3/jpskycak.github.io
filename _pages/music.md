@@ -7,12 +7,20 @@ author_profile: true
 
 Still getting organized -- most links are broken. Come back tomorrow!
 
-<b>Remixes</b>  
-2017 | <font color="green">Unlike Me (Remix)</font> | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+<b>Selected Works</b>  
+
+2017 | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining topological data analysis and demonstrating its applications in data visualization. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(link)</a></font>  
+2016 | <font color="green">Aunalytics</font> | Generated hierarchical clustering visualizations to discover a sales funnel for a banking client. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(link)</a></font>
+
+<b>Singles</b>  
+
+2017 | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining topological data analysis and demonstrating its applications in data visualization. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(link)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated hierarchical clustering visualizations to discover a sales funnel for a banking client. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(link)</a></font>
 
 <b>Eastern EDM (2017)</b>  
+
 2017 | <font color="green">Come At Me</font> | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 2017 | <font color="green">Bounce</font> | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 2016 | <font color="green">Naissi</font> | <audio id="t-rex-roar" controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -22,11 +30,13 @@ Still getting organized -- most links are broken. Come back tomorrow!
 
  
 <b>Eastern EDM (2017)</b>  
+
  | <font color="green">Come At Me</font> | <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>  
  | <font color="green">Bounce</font> | <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>  
  | <font color="green">Naissi</font> | <font color="blue"><a href="files/jpskycak-come_at_me.wav">(link)</a></font>  
 
 <b>Score for a Medieval Fantasy (2017)</b>  
+
  | <font color="green">Uh-oh</font> | <font color="blue"><a href="files/jpskycak-uhoh.wav">(link)</a></font>  
  | <font color="green">What if?</font> | <font color="blue"><a href="files/jpskycak-whatif.wav">(link)</a></font>  
  | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <font color="blue"><a href="files/jpskycak-thunderstorm_intro.wav">(link)</a></font>  
@@ -41,12 +51,14 @@ Still getting organized -- most links are broken. Come back tomorrow!
  
 
 <b>Meditation (2016)</b>  
+
  | <font color="green">Scatterbrain</font> | <font color="blue"><a href="files/jpskycak-scatterbrain.wav">(link)</a></font>  
  | <font color="green">Loss</font> | <font color="blue"><a href="files/jpskycak-loss.wav">(link)</a></font>  
  | <font color="green">Jazzy Trip</font> | <font color="blue"><a href="files/jpskycak-jazzy_trip.wav">(link)</a></font>  
  | <font color="green">Jazzy Reflections</font> | <font color="blue"><a href="files/jpskycak-jazzy_reflections.wav">(link)</a></font> 
 
 <b>Uncategorized (2015)</b>  
+
  | <font color="green">Strut</font> | <font color="blue"><a href="files/jpskycak-strut.wav">(link)</a></font>  
  | <font color="green">Monster</font> | <font color="blue"><a href="files/jpskycak-monster.wav">(link)</a></font>  
  | <font color="green">Bright</font> | <font color="blue"><a href="files/jpskycak-bright.wav">(link)</a></font>  
