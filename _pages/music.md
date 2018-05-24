@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-Still getting organized -- most links are broken. Come back tomorrow!
+I produce music for fun. My orchestral songs are built from scratch using single instrument notes, while my electronic songs make heavy use of sliced-up royalty-free loops.
 
 <b>Selected Works</b>
 
