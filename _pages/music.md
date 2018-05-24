@@ -44,7 +44,7 @@ Resolution | <font color="green">Preparations</font> | <audio controls src="http
 <b>Singles (2016)</b>  
 
 Electronic | <font color="green">I'm Sorry Dave</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-im_sorry_dave.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Electronic | <font color="green">That Frequency</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-that_frequency.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Electronic | <font color="green">That Frequency</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-that_frequency_jpskycak.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <font color="green">I'm Not Here</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-im_not_here.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <font color="green">Piano Talks</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-piano_talks.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 EDM | <font color="green">Monster</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-monster.mp3">Your browser does not support the <code>audio</code> element.</audio>  
