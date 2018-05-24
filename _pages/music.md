@@ -10,7 +10,10 @@ Still getting organized -- most links are broken. Come back tomorrow!
 <b>Selected Works</b>
 
 Singles | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Singles | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Eastern EDM | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Eastern EDM | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+
+---
 
 <b>Singles (2017)</b>
 
@@ -18,6 +21,10 @@ Remix | <font color="green">Unlike Me (Remix)</font> | <audio controls src="http
 Eastern EDM | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <font color="green">Naissi</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Meditation | <font color="green">Loss</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-loss.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Meditation | <font color="green">Jazzy Reflections</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_reflections.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Meditation | <font color="green">Jazzy Trip</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_trip.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scatterbrain.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 <b>Score for a Medieval Fantasy (2017)</b>  
 
@@ -36,10 +43,6 @@ Eastern EDM | <font color="green">Naissi</font> | <audio controls src="https://j
 
 <b>Meditation (2016)</b>  
 
- | <font color="green">Scatterbrain</font> | <font color="blue"><a href="files/jpskycak-scatterbrain.wav">(link)</a></font>  
- | <font color="green">Loss</font> | <font color="blue"><a href="files/jpskycak-loss.wav">(link)</a></font>  
- | <font color="green">Jazzy Trip</font> | <font color="blue"><a href="files/jpskycak-jazzy_trip.wav">(link)</a></font>  
- | <font color="green">Jazzy Reflections</font> | <font color="blue"><a href="files/jpskycak-jazzy_reflections.wav">(link)</a></font> 
 
 <b>Uncategorized (2015)</b>  
 
