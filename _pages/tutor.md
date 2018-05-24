@@ -9,10 +9,10 @@ I've tutored hundreds of students for thousands of hours. Because I tailor homew
 
 <b>Info</b>
 
-Test Prep | SAT (personal: 1540/1600), ACT (personal: 34/36), GMAT (personal: 770/800), GRE, CHSPE  
-Math Subjects | Calculus I/II/III, AP Calculus AB/BC, AP Statistics, Pre-Calculus, Algebra 2  
-Ages | High school and college, but willing to take on highly advanced younger students  
-Instruction Formats | One-on-one, group, classrom, in-home, online
+ | <font color="green">Test Prep</font> | SAT (personal: 1540/1600), ACT (personal: 34/36), GMAT (personal: 770/800), GRE, CHSPE  
+ | <font color="green">Math Subjects</font> | Calculus I/II/III, AP Calculus AB/BC, AP Statistics, Pre-Calculus, Algebra 2  
+ | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
+ | <font color="green">Instruction Formats</font> | One-on-one, group, classrom, in-home, online
 
 <b>Agencies</b>
 
@@ -24,8 +24,8 @@ Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 300 students / 2
 
 <b>Academic Credentials</b>
 
-MS | Computer Science | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (exp) | Specialization in Machine Learning  
-BS | Mathematics | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
+ | <font color="green">MS</font> | <font color="green">Computer Science</font> | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (exp) | Specialization in Machine Learning  
+ | <font color="green">BS</font> | <font color="green">Mathematics</font> | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
 
 <b>Testimonials</b>
 
