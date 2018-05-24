@@ -24,8 +24,8 @@ Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 300 students / 2
 
 <b>Academic Credentials</b>
 
- | <font color="green">MS</font> | <font color="green">Computer Science</font> | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (exp) | Specialization in Machine Learning  
- | <font color="green">BS</font> | <font color="green">Mathematics</font> | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
+ | <font color="green">MS</font> | Computer Science | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (exp) | Specialization in Machine Learning  
+ | <font color="green">BS</font> | Mathematics | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
 
 <b>Testimonials</b>
 
