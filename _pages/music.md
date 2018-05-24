@@ -17,17 +17,6 @@ Singles (2017) | <font color="green">Bounce</font> | <audio controls src="https:
 
 ---
 
-<b>Singles (2017)</b>
-
-Remix | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
-Eastern EDM | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Eastern EDM | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Eastern EDM | <font color="green">Naissi</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>    
-Meditation | <font color="green">Jazzy Reflections</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_reflections.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Meditation | <font color="green">Jazzy Trip</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_trip.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Psychedelic | <font color="green">Jungle Dance</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jungle_dance.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scatterbrain.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-
 <b>Score for a Medieval Fantasy (2017)</b>  
 
 Exposition | <font color="green">Fairytale Blacksmith</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fairytale_blacksmith.mp3">Your browser does not support the <code>audio</code> element.</audio> 
@@ -40,6 +29,17 @@ Climax | <font color="green">Loss</font> | <audio controls src="https://jpskycak
 Climax | <font color="green">Emerging from Chrysalis</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-emerging_from_chrysalis.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Falling Action | <font color="green">Scouting</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scouting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Resolution | <font color="green">Preparations</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-preparations.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+
+<b>Singles (2017)</b>
+
+Remix | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
+Eastern EDM | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Eastern EDM | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Eastern EDM | <font color="green">Naissi</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>    
+Meditation | <font color="green">Jazzy Reflections</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_reflections.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Meditation | <font color="green">Jazzy Trip</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_trip.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Psychedelic | <font color="green">Jungle Dance</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jungle_dance.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scatterbrain.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 <b>Singles (2016)</b>  
 
