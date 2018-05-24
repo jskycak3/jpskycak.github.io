@@ -14,10 +14,15 @@ author_profile: true
 2016 | <font color="green">Aunalytics</font> | Gave a department-wide presentation explaining topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(link)</a></font> 
 2015 | <font color="green">University of Notre Dame</font> | Conducted numerical experiments on an open problem in mathematics and used basic visualizations to present the results. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-scientia.pdf">(link)</a></font>  
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a particle detector and used basic visualizations to present the project. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(link)</a></font>  
-2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a particle detector and used basic visualizations to present the project. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(link)</a></font>   
+2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a particle detector and used basic visualizations to present the project. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(link)</a></font> 
+2013 | <font color="green">Indiana University South Bend</font> | <details open><summary>IUSB Project</summary><br>Here it is! <embed src="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf" width="800px" height="500px" /><details>  
 
 
-<embed src="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf" width="800px" height="600px" />
+<embed src="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf" width="800px" height="500px" />
 
-
-<embed src="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf" />
+<details open>
+<summary>IUSB Project</summary>
+<br>
+Here it is!
+<embed src="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf" width="800px" height="500px" />
+<details>
