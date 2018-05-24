@@ -12,7 +12,7 @@ I've tutored hundreds of students for thousands of hours. Because I tailor homew
 
 I also offer enrichment for advanced students who find joy in math.
 
-<b>Info</b>
+<b>Specifics</b>
 
  | <font color="green">Test Prep</font> | SAT (personal: 1540/1600), ACT (personal: 34/36), GMAT (personal: 770/800), GRE, CHSPE  
  | <font color="green">Math Subjects</font> | Algebra 2, Pre-Calculus, AP Statistics, AP Calculus AB/BC, Calculus I/II/III, Enrichment  
@@ -27,7 +27,7 @@ Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 20 students / 
 Sept 2017 - Present | <font color="green">Study.com</font> | ~ 1500 solutions / 300 hours | Solutions writing    
 Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 300 students / 2,500 hours | Group, one-on-one  
 
-<b>Academic Credentials</b>
+<b>Credentials</b>
 
  | <font color="green">MS</font> | Computer Science | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (exp) | Specialization in Machine Learning  
  | <font color="green">BS</font> | Mathematics | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
