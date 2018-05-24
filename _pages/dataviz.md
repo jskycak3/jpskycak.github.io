@@ -18,3 +18,6 @@ author_profile: true
 
 
 <embed src="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf" width="800px" height="600px" />
+
+
+<embed src="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf" />
