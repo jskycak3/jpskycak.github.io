@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Justin, and I’m an incoming student in Georgia Tech's MS in Computer Science. I'm focusing on furthering my education and experience in analytics and data visualization. I also tutor math and test prep and produce music.
+Hi! My name is Justin, and I’m an incoming student in Georgia Tech's MS in Computer Science. I'm working on a data visualization portfolio. I also tutor math and test prep and produce music.
