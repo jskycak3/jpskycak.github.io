@@ -15,7 +15,7 @@ I also offer enrichment for advanced students who find joy in math.
 <b>Specialties</b>
 
  | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, Calculus I/II/III, Enrichment  
- | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE
+ | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
  | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
  | <font color="green">Instruction Formats</font> | One-on-one, group, classroom  
 
