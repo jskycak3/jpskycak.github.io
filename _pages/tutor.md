@@ -14,7 +14,7 @@ I also offer enrichment for advanced students who find joy in math.
 
 <b>Specialties</b>
 
- | <font color="green">Math Subjects</font> | Algebra 2, Pre-Calculus, AP Statistics, AP Calculus AB/BC, Calculus I/II/III, Enrichment  
+ | <font color="green">Math Subjects</font> | Algebra 2, Geometry, Pre-Calculus, AP Statistics, AP Calculus AB/BC, Calculus I/II/III, Enrichment  
  | <font color="green">Test Prep</font> | SAT (personal: 1540/1600), ACT (personal: 34/36), GMAT (personal: 770/800), GRE, CHSPE  
  | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
  | <font color="green">Instruction Formats</font> | One-on-one, group, classroom  
@@ -32,7 +32,7 @@ Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 300 students / 2
  | <font color="green">MS</font> | Computer Science | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (in progress) | Specialization in Machine Learning  
  | <font color="green">BS</font> | Mathematics | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
 
-<b>Testimonials</b>
+<b>Reviews</b>
 
  | <font color="green">Sufyan Z.</font> | Precalculus, AP Calculus | When I took precalculus and Calculus AB, I really struggled. I had difficulty grasping concepts, whether it was either the difficulty of the class, the teacher and teaching method, or just really bad note-taking. I'd leave every calculus class in a state of confusion. That is, until I went and got tutored by Justin. Justin offers a great one-on-one tutoring experience, and I always knew that he could clear up any confusion from my lesson we learned that day. On homework, his expertise had no limit, remembering any methods and theorems like Newton's method or Fundamental Theorem of Calculus. If I couldn't understand a concept, he would write out an example, and explain it in a very comprehensible manner. I understood calculus thanks to Justin, something I wouldn't be able to do on my own. He's a great tutor, and I would highly recommend his services.  
  | <font color="green">Sara D.</font> | Calculus I/II | Justin clearly illustrates mathematical concepts while working through examples with his students. He is flexible and available, intelligent and understanding, and teaches new material by extending concepts and examples that are already familiar. Justin’s services helped me excel in calculus at the university level, and I would highly recommend his services to anyone struggling with math!   
