@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-I produce music for fun. My orchestral songs are built from scratch using single instrument notes, while my electronic songs often make use of sliced-up royalty-free loops. I'm moving towards film scoring.
+I produce music for fun. My orchestral songs are built from scratch using single instrument notes, while my electronic songs often make use of sliced-up royalty-free loops.  
 
 <b>Selected Works</b>
 
