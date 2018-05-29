@@ -12,7 +12,7 @@ I’m working on a data visualization portfolio while studying a Master's in Com
 In Progress | <font color="green">360Giving Challenge</font> | Used animated scatter plots to show which grant funding agencies funded which themes throughout the years. <font color="blue"><a href="https://jpskycak.github.io/360Giving-Challenge">(site)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated hierarchical clustering visualizations of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 
-<b>Background</b>
+<b>Related Background</b>
 
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>    
 2016 | <font color="green">Aunalytics</font> | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
