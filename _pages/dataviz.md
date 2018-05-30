@@ -3,9 +3,7 @@ layout: archive
 title: "Data Visualization"
 permalink: /dataviz/
 author_profile: true
----
-
-I’m working on a data visualization portfolio while studying a Master's in Computer Science through Georgia Tech.  
+--- 
 
 <b>Visualizations</b>  
 
