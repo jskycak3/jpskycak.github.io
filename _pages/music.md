@@ -9,13 +9,17 @@ I produce music for fun. My orchestral songs are built from scratch using single
 
 <b>Selected Works</b>
 
-Singles (2017) | <font color="green">Unlike Me - Kate Havnevik (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Remixes (2018) | <font color="green">Unlike Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Score for a Medieval Fantasy (2017) | <font color="green">Freezing to Death</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-freezing_to_death.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Score for a Medieval Fantasy (2017) | <font color="green">Wanderlust</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-wanderlust.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2017) | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2017) | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 ---
+
+<b>Remixes (2018)</b>  
+
+Kate Havnevik | <font color="green">Unlike Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
 
 <b>Score for a Medieval Fantasy (2017)</b>  
 
@@ -32,7 +36,6 @@ Resolution | <font color="green">Preparations</font> | <audio controls src="http
 
 <b>Singles (2017)</b>
 
-Remix | <font color="green">Unlike Me (Remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
 Eastern EDM | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <font color="green">Naissi</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>    
