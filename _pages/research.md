@@ -21,7 +21,7 @@ As a college upperclassman, I worked full-time as a data scientist at a nearby c
 
 <b>Undergraduate Research (2013-2016)</b>
 
-I got my feet wet in physics research as a high-schooler, working at nearby universities in the evenings. In college, I used simulation and numerical methods to explore problems in neuroscience and math.  
+I got my feet wet in physics research as a high-schooler, working at nearby universities in the evenings. As a college underclassman, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
 2016 | <font color="green">University of Notre Dame</font> | Began laying mathematical foundations for the simulation results of 2015. Solved a special case, but the project was cut short when I took an industry job in data science. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp2.pdf">(partial writeup)</a></font>  
 2015 | <font color="green">University of Notre Dame</font> | For a final project, used game theory to analyze the effectiveness of social distancing advice in epidemics. Course Instructor: Vijay Gupta. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(writeup)</a></font>  
