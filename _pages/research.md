@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 --- 
 
-As I complete my Masters in Computer Science with Georgia Tech, I'm hoping to gain experience applying data science to problems in health and life science.
+As I complete my Masters in Computer Science with Georgia Tech, I will gain experience applying data science to problems in health, life science, and education.
 
 <b>Selected Projects</b>
 
