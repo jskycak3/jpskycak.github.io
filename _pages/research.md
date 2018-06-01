@@ -23,6 +23,7 @@ As a college upperclassman, I worked full-time as a data scientist at a nearby c
 
 I got my feet wet in physics research as a high-schooler, working at nearby universities in the evenings. I liked analyzing data more than collecting it, so in college, I focused on math.  
 
+2015 | <font color="green">University of Notre Dame</font> | Used game theory to analyze the effectiveness of social distancing advice in epidemics. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(article)</a></font>  
 2015 | <font color="green">University of Notre Dame</font> | Conducted numerical experiments on an open problem in mathematics. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-scientia.pdf">(article)</a></font>  
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
 2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(poster)</a></font>  
