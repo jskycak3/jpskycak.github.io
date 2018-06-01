@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 --- 
 
+<b>Selected Projects</b>
+
+2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
+2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
+2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
+
+---
+
 <b>Masters Research</b>
 
 To begin in August!
@@ -27,5 +35,5 @@ I got my feet wet in physics research as a high-schooler, working at nearby univ
 2015 | <font color="green">University of Notre Dame</font> | For a final project, used game theory to analyze the effectiveness of social distancing advice in epidemics. Course Instructor: Vijay Gupta. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(writeup)</a></font>  
 2015 | <font color="green">University of Notre Dame</font> | Conducted numerical experiments on an open problem in mathematics. Advisor: Jeff Diller. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-scientia.pdf">(article)</a></font>  
 2015 | <font color="green">University of Notre Dame</font> | Gave a talk presenting simulation results of how cyclic neuronal networks ought to change, under a particular theory of neural plasticity, in response to periodic stimulation. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp.pdf">(slides)</a></font>  
-2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(science fair poster)</a></font>  
-2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. Advisor: Ilan Levine. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(science fair poster)</a></font>  
+2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
+2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. Advisor: Ilan Levine. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(poster)</a></font>  
