@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 --- 
 
-I've done projects in physics, neuroscience, math, and business. I've enjoyed my time in each discipline, and am still exploring in search of the right fit.
+As I complete my Masters in Computer Science with Georgia Tech, I'm hoping to gain experience applying data science to problems in health and life science.
 
 <b>Selected Projects</b>
 
