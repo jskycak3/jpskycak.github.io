@@ -169,7 +169,7 @@ kramdown:
 
 # Collections
 collections:
-  dataviz:
+  data:
     output: true
     permalink: /:collection/:path/
   tutor:
@@ -197,7 +197,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: dataviz
+      type: data
     values:
       layout: single
       author_profile: true
