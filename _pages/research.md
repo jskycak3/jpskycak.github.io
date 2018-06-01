@@ -11,6 +11,8 @@ author_profile: true
 
 <b>Industry Data Science (2016-2018)</b>
 
+During my junior and senior years of undergrad, I had the opportunity to simultaneously work full-time as a data scientist. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).
+
 2018 | <font color="green">360Giving Challenge</font> | Classified grants into high-level themes based on titles and descriptions, and used animated scatter plots to show which donors funded which themes throughout the years. <font color="blue"><a href="https://jpskycak.github.io/360Giving-Challenge">(site)</a></font>  
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>    
 2016 | <font color="green">Aunalytics</font> | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
