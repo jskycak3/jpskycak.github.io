@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 Hi! My name is Justin.
-<ul><li>I’m an incoming student in Georgia Tech's MS in Computer Science, and I'm working on a data visualization portfolio.</li>
+<ul><li>I’m an incoming student in Georgia Tech's MS in Computer Science. I've done research projects in physics, neuroscience, math, and business, and am still exploring in search of the right fit.</li>
 <li>On the side, I tutor math and produce music.</li></ul>
