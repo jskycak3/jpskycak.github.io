@@ -21,9 +21,10 @@ As a college upperclassman, I worked full-time as a data scientist at a nearby c
 
 <b>Undergraduate Research (2013-2015)</b>
 
-I got my feet wet in physics research as a high-schooler, working at nearby universities in the evenings. I liked analyzing data more than collecting it, so in college, I focused on math.  
+I got my feet wet in physics research as a high-schooler, working at nearby universities in the evenings. In college, I used simulation and numerical methods to explore problems in neuroscience and math.
 
 2015 | <font color="green">University of Notre Dame</font> | For a final project, used game theory to analyze the effectiveness of social distancing advice in epidemics. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(writeup)</a></font>  
 2015 | <font color="green">University of Notre Dame</font> | Conducted numerical experiments on an open problem in mathematics. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-scientia.pdf">(article)</a></font>  
+2015 | <font color="green">University of Notre Dame</font> | Gave a talk presenting simulation results of how cyclic neuronal networks ought to change, under a particular theory of neural plasticity, in response to periodic stimulation. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp.pdf">(slides)</a></font>  
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(science fair poster)</a></font>  
 2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(science fair poster)</a></font>  
