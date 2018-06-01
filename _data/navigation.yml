@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Data Visualization"
-    url: /dataviz/
+  - title: "Data Science"
+    url: /data/
     
   - title: "Math Tutoring"
     url: /tutor/
