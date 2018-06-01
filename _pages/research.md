@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 --- 
 
+I've done projects in physics, neuroscience, math, and business. I've enjoyed my time in each discipline, and am still exploring in search of the right fit.
+
 <b>Selected Projects</b>
 
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
@@ -13,7 +15,7 @@ author_profile: true
 
 ---
 
-<b>Masters Research</b>
+<b>Masters Research (2018-2020)</b>
 
 To begin in August!
 
