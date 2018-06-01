@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 --- 
 
-As I complete my Masters in Computer Science with Georgia Tech, I will gain experience applying data science to problems in health and education.
+I've done research in physics, neuroscience, math, and business. I'm looking to move toward projects in health and education.
 
 <b>Selected Projects</b>
 
