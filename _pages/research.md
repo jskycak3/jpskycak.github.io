@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 --- 
 
-I've done research in physics, neuroscience, math, and business. I'm looking to move toward projects in health and education.
+I've done research in physics, neuroscience, math, and business.
 
 <b>Selected Projects</b>
 
