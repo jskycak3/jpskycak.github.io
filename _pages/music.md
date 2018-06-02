@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-I produce music for fun. The tracks I'm most proud of are in bold. Of those, I've selected a few to show off:
+I produce music for fun. The tracks I'm most proud of are in bold. Of those, I've selected a few of my favorites.
 
 <b>Selected Works</b>
 
