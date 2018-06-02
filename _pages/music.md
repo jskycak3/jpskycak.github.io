@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-I produce music for fun. My orchestral songs are built from scratch using single instrument notes, while my electronic songs often make use of sliced-up royalty-free loops.  
+I produce music for fun. , while my electronic songs often make use of sliced-up royalty-free loops.  
 
 <b>Selected Works</b>
 
@@ -22,6 +22,8 @@ Singles (2017) | <font color="green">Bounce</font> | <audio controls src="https:
 Kate Havnevik | <font color="green">Unlike Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
 
 <b>Score for a Medieval Fantasy (2017)</b>  
+
+The songs were made from scratch in Linux Multimedia Studio (LMMS), using single instrument notes (Philharmonic Orchestra samples + LMMS default library). The only exception is the fireplace background sound in <i>Fairytale Blacksmith</i>, which was taken from Looperman.com. 
 
 Exposition | <font color="green">Fairytale Blacksmith</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fairytale_blacksmith.mp3">Your browser does not support the <code>audio</code> element.</audio> 
 Rising Action | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-thunderstorm_intro.mp3">Your browser does not support the <code>audio</code> element.</audio>  
