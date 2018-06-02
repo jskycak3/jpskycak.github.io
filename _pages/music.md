@@ -19,7 +19,9 @@ Singles (2017) | <font color="green">Bounce</font> | <audio controls src="https:
 
 <b>Remixes (2018)</b>  
 
-Kate Havnevik | <font color="green">Unlike Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
+Made in Linux Multimedia Studio using the original songs and loops from Looperman.com.
+
+Kate Havnevik | <b><font color="green">Unlike Me</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
 
 <b>Score for a Medieval Fantasy (2017)</b>  
 
