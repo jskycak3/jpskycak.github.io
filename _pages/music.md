@@ -14,6 +14,7 @@ Score for a Medieval Fantasy (2017) | <font color="green">Freezing to Death</fon
 Score for a Medieval Fantasy (2017) | <font color="green">Wanderlust</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-wanderlust.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2017) | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2017) | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Singles (2015) | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 ---
 
@@ -69,7 +70,7 @@ Pop | <font color="green">The Truth About Endings</font> | <audio controls src="
 Made in Audacity using original recordings.
 
 Electronic | <font color="green">Instrumental A1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Electronic | <font color="green">Instrumental A2</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Electronic | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <font color="green">Instrumental A3</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A3.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 <b>Singles (2015)</b>
