@@ -27,7 +27,7 @@ Kate Havnevik | <b><font color="green">Unlike Me</font></b> | <audio controls sr
 
 <b>Score for a Medieval Fantasy (2017)</b>  
 
-Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra.
+Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra. Going forward, I decided to work on some remixes.
 
 Exposition | <font color="green">Fairytale Blacksmith</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fairytale_blacksmith.mp3">Your browser does not support the <code>audio</code> element.</audio> 
 Rising Action | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-thunderstorm_intro.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -42,7 +42,7 @@ Resolution | <font color="green">Preparations</font> | <audio controls src="http
 
 <b>Singles (2017)</b>
 
-Made in Linux Multimedia Studio using loops from Looperman.com.
+Made in Linux Multimedia Studio using loops from Looperman.com. Going forward, I decided to build from scratch, using single-note samples rather than slicing up loops. I also decided to organize them into a story.
 
 Eastern EDM | <b><font color="green">Come At Me</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <b><font color="green">Bounce</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -54,7 +54,7 @@ Psychedelic | <b><font color="green">Scatterbrain</font></b> | <audio controls s
 
 <b>Singles (2016)</b>  
 
-Made in Linux Multimedia Studio using loops from Looperman.com.
+Made in Linux Multimedia Studio using loops from Looperman.com. Going forward, I tried to use more tasteful percussion.
 
 Electronic | <b><font color="green">I'm Sorry Dave</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-im_sorry_dave.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="green">That Frequency</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-that_frequency_jpskycak.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -68,7 +68,7 @@ Pop | <font color="green">The Truth About Endings</font> | <audio controls src="
 
 <b>Singles (2015)</b>
 
-Made in Audacity using original recordings.
+Made in Audacity using original recordings. Going forward, I started using a digital audio workstation called Linux Multimedia Studio so I could introduce more instruments and give a more produced feel.
 
 Electronic | <font color="green">Instrumental A1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -76,7 +76,7 @@ Electronic | <font color="green">Instrumental A3</font> | <audio controls src="h
 
 <b>Improvisational Experiments (2015)</b>
 
-Raw recordings using a looper.
+Raw recordings using a looper. Going forward, I cut out vocals, tried to "tame" the experiments into pseudo-songs, and used Audacity to give a more produced feel.
 
 Solo over Improv Pattern | <b><font color="green">Hope</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Solo over Improv Pattern | <font color="green">Acoustic + Electric</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-acoustic+electric.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -90,9 +90,9 @@ Improv Pattern + Vocal | <font color="green">Confusion</font> | <audio controls 
 
 <b>Covers (2014)</b>
 
-Raw recordings.
+Raw recordings. There's one original -- I forced myself to give songwriting a shot, and the result was a weird story about love, relativity, and fate. In the next project, I decided to focus on sound rather than lyrics.
 
 Iron and Wine (orig. The Postal Service) | <b><font color="green">Such Great Heights</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-such_great_heights.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Iron and Wine | <font color="green">Love Vigilantees</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_vigilantees.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 The White Stripes | <font color="green">Love Interruption</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_interruption.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Original -- Forced myself to give songwriting a shot, and the result was a weird story about love, relativity, and fate. | <font color="green">The Time Traveler</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-the_time_traveler.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Original | <font color="green">The Time Traveler</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-the_time_traveler.mp3">Your browser does not support the <code>audio</code> element.</audio>  
