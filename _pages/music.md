@@ -5,9 +5,11 @@ permalink: /music/
 author_profile: true
 ---
 
-I produce music for fun. The tracks I'm most proud of in each project are in bold. Here are some of my favorites.
+I produce music for fun. The tracks I'm most proud of in each project are in bold.
 
 <b>Selected Works</b>
+
+Here are some of my favorites!
 
 Remixes (2018) | <font color="green">Unlike Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Score for a Medieval Fantasy (2017) | <font color="green">Freezing to Death</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-freezing_to_death.mp3">Your browser does not support the <code>audio</code> element.</audio>  
