@@ -11,7 +11,7 @@ I produce music for fun. The tracks I'm most proud of in each project are in bol
 
 Here are some of my favorites!
 
-Remixes (2018) | <font color="green">Unlike Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Singles (2017) | <font color="green">Unlike Me - Kate Havnevik (remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Score for a Medieval Fantasy (2017) | <font color="green">Freezing to Death</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-freezing_to_death.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Score for a Medieval Fantasy (2017) | <font color="green">Wanderlust</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-wanderlust.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2017) | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -21,15 +21,13 @@ Improvisational Experiments (2015) | <font color="green">Hope</font> | <audio co
 
 ---
 
-<b>Remixes (2018)</b>  
+<b>Classical Crossover (2018)</b>  
 
-Made in Linux Multimedia Studio using the original songs, single-note samples from the Philharmonic Orchestra, and loops from Looperman.com.
-
-Kate Havnevik | <b><font color="green">Unlike Me</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
+In progress!
 
 <b>Score for a Medieval Fantasy (2017)</b>  
 
-Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra.
+Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra. In the next project, I wanted to include more familiar sounds, so I made instrumental versions of popular songs.
 
 Exposition | <font color="green">Fairytale Blacksmith</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fairytale_blacksmith.mp3">Your browser does not support the <code>audio</code> element.</audio> 
 Rising Action | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-thunderstorm_intro.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -46,6 +44,7 @@ Resolution | <font color="green">Preparations</font> | <audio controls src="http
 
 Made in Linux Multimedia Studio using loops from Looperman.com. For the next project, I decided to build from scratch, using single-note samples rather than slicing up loops. I also decided to organize them into a story.
 
+Remix | <b><font color="green">Unlike Me - Kate Havnevik (remix)</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
 Eastern EDM | <b><font color="green">Come At Me</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <b><font color="green">Bounce</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <font color="green">Naissi</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>    
