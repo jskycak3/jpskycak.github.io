@@ -96,14 +96,6 @@ Raw recordings.
 
 Raw recordings.
 
-Christina Perri | <font color="green">Arms</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-arms.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-The Red Hot Chili Peppers | <font color="green">Californication</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-californication.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-The White Stripes | <font color="green">Fell in Love with a Girl</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fell_in_love_with_a_girl.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Iron and Wine | <font color="green">Jezebel</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jezebel.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-The Black Keys | <font color="green">Little Black Submarines</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-little_black_submarines.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-The White Stripes | <font color="green">Love Interruption</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_interruption.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Iron and Wine | <font color="green">Love Vigilantees</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_vigilantees.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-The White Stripes | <font color="green">Doorbell</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-my_doorbell.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-The Alternate Routes | <font color="green">Nothing More</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-nothing_more.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Iron and Wine (orig. The Postal Service) | <font color="green">Such Great Heights</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-such_great_heights.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-
+Iron and Wine | <font color="green">Love Vigilantees</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_vigilantees.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+The White Stripes | <font color="green">Love Interruption</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_interruption.mp3">Your browser does not support the <code>audio</code> element.</audio>  
