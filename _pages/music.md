@@ -95,6 +95,6 @@ Improv Pattern + Vocal | <font color="green">Confusion</font> | <audio controls 
 Raw recordings. There's one original -- I forced myself to give songwriting a shot, and the result was a weird story about love, relativity, and fate. In the next project, I decided to focus on sound rather than lyrics.
 
 Iron and Wine (orig. The Postal Service) | <b><font color="green">Such Great Heights</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-such_great_heights.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Iron and Wine | <font color="green">Love Vigilantees</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_vigilantees.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Iron and Wine | <font color="green">Love Vigilantes</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_vigilantees.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 The White Stripes | <font color="green">Love Interruption</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_interruption.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Original | <font color="green">The Time Traveler</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-the_time_traveler.mp3">Your browser does not support the <code>audio</code> element.</audio>  
