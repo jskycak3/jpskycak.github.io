@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-I produce music for fun. The tracks I'm most proud of are in bold. Of those, I've selected a few of my favorites.
+I produce music for fun. The tracks I'm most proud of in each project are in bold. Here are some of my favorites.
 
 <b>Selected Works</b>
 
@@ -14,8 +14,8 @@ Score for a Medieval Fantasy (2017) | <font color="green">Freezing to Death</fon
 Score for a Medieval Fantasy (2017) | <font color="green">Wanderlust</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-wanderlust.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2017) | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2017) | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Singles (2015) | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improvisational Experiments (2015) | <b><font color="green">Hope</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Singles (2015) | <font color="green">Instrumental A2</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improvisational Experiments (2015) | <font color="green">Hope</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 ---
 
