@@ -88,7 +88,7 @@ Improv Pattern | <font color="green">Instability</font> | <audio controls src="h
 Improv Pattern + Vocal | <font color="green">Waiting</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-waiting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv Pattern + Vocal | <font color="green">Confusion</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-confusion.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<b>Singer-Songwriter (2014)</b>
+<b>Covers and Phoebe-Buffay-Like Songs (2014)</b>
 
 Raw recordings.
 
