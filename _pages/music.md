@@ -99,7 +99,7 @@ Raw recordings.
 
 Raw recordings.
 
-Christina Perri | <b><font color="green">Arms</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-arms.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Christina Perri | <font color="green">Arms</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-arms.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 The Red Hot Chili Peppers | <font color="green">Californication</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-californication.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 The White Stripes | <font color="green">Fell in Love with a Girl</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fell_in_love_with_a_girl.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Iron and Wine | <font color="green">Jezebel</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jezebel.mp3">Your browser does not support the <code>audio</code> element.</audio>  
