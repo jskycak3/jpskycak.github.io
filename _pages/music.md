@@ -56,7 +56,7 @@ Psychedelic | <b><font color="green">Scatterbrain</font></b> | <audio controls s
 
 <b>Singles (2016)</b>  
 
-Made in Linux Multimedia Studio using loops from Looperman.com. Going forward, I tried to use more tasteful percussion.
+Made in Linux Multimedia Studio using loops from Looperman.com. Going forward, I tried to make the songs more cohesive.
 
 Electronic | <b><font color="green">I'm Sorry Dave</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-im_sorry_dave.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="green">That Frequency</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-that_frequency_jpskycak.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -70,7 +70,7 @@ Pop | <font color="green">The Truth About Endings</font> | <audio controls src="
 
 <b>Singles (2015)</b>
 
-Made in Audacity using original recordings. Going forward, I started using a digital audio workstation called Linux Multimedia Studio so I could introduce more instruments and give a more produced feel.
+Made in Audacity using original recordings. Going forward, I started using a digital audio workstation called Linux Multimedia Studio so I could introduce more instruments and get a more produced feel.
 
 Electronic | <font color="green">Instrumental A1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -78,7 +78,7 @@ Electronic | <font color="green">Instrumental A3</font> | <audio controls src="h
 
 <b>Improvisational Experiments (2015)</b>
 
-Raw recordings using a looper. Going forward, I cut out vocals, tried to "tame" the experiments into pseudo-songs, and used Audacity to give a more produced feel.
+Raw recordings using a looper. Going forward, I cut out vocals, tried to tame the experiments into songs, and used Audacity to give a more produced feel.
 
 Solo over Improv Pattern | <b><font color="green">Hope</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Solo over Improv Pattern | <font color="green">Acoustic + Electric</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-acoustic+electric.mp3">Your browser does not support the <code>audio</code> element.</audio>  
