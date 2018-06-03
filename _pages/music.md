@@ -29,7 +29,7 @@ Kate Havnevik | <b><font color="green">Unlike Me</font></b> | <audio controls sr
 
 <b>Score for a Medieval Fantasy (2017)</b>  
 
-Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra. Going forward, I decided to work on some remixes.
+Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra.
 
 Exposition | <font color="green">Fairytale Blacksmith</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fairytale_blacksmith.mp3">Your browser does not support the <code>audio</code> element.</audio> 
 Rising Action | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-thunderstorm_intro.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -44,7 +44,7 @@ Resolution | <font color="green">Preparations</font> | <audio controls src="http
 
 <b>Singles (2017)</b>
 
-Made in Linux Multimedia Studio using loops from Looperman.com. Going forward, I decided to build from scratch, using single-note samples rather than slicing up loops. I also decided to organize them into a story.
+Made in Linux Multimedia Studio using loops from Looperman.com. For the next project, I decided to build from scratch, using single-note samples rather than slicing up loops. I also decided to organize them into a story.
 
 Eastern EDM | <b><font color="green">Come At Me</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <b><font color="green">Bounce</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -56,7 +56,7 @@ Psychedelic | <b><font color="green">Scatterbrain</font></b> | <audio controls s
 
 <b>Singles (2016)</b>  
 
-Made in Linux Multimedia Studio using loops from Looperman.com. Going forward, I tried to make the songs more cohesive.
+Made in Linux Multimedia Studio using loops from Looperman.com. In the next project, I tried to make the songs more cohesive.
 
 Electronic | <b><font color="green">I'm Sorry Dave</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-im_sorry_dave.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="green">That Frequency</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-that_frequency_jpskycak.mp3">Your browser does not support the <code>audio</code> element.</audio>  
