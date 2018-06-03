@@ -15,6 +15,7 @@ Score for a Medieval Fantasy (2017) | <font color="green">Wanderlust</font> | <a
 Singles (2017) | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2017) | <font color="green">Bounce</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles (2015) | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improvisational Experiments (2015) | <b><font color="green">Hope</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 ---
 
@@ -77,19 +78,15 @@ Electronic | <font color="green">Instrumental A3</font> | <audio controls src="h
 
 Raw recordings using a looper.
 
-Solo | <b><font color="green">Hope</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv | <font color="green">Brave</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-brave.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv | <font color="green">Acoustic + Electric</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-acoustic+electric.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv | <font color="green">Bassy Improv 1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bassyimprov1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv | <b><font color="green">Jazz 1</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazz_1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv | <b><font color="green">Improv 1</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-improv_1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv + Vocal | <font color="green">Waiting</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-waiting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv | <font color="green">Instability</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instability.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv + Vocal | <font color="green">Confusion</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-confusion.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv + Vocal | <font color="green">Creation</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-creation.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv + Vocal | <font color="green">Quirky</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-quirky.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv + Vocal | <font color="green">Ambition</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-ambition.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv + Vocal | <font color="green">Sweet Jealousy</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-sweet_jealousy.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Solo over Improv Pattern | <b><font color="green">Hope</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Solo over Improv Pattern | <font color="green">Acoustic + Electric</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-acoustic+electric.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Solo over Improv Pattern | <font color="green">Bassy Improv 1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bassyimprov1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improv Pattern | <b><font color="green">Jazz 1</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazz_1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improv Pattern | <b><font color="green">Improv 1</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-improv_1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improv Pattern | <font color="green">Brave</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-brave.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improv Pattern | <font color="green">Instability</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instability.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improv Pattern + Vocal | <font color="green">Waiting</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-waiting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improv Pattern + Vocal | <font color="green">Confusion</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-confusion.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 <b>Phoebe-Buffay-Themed Song Writing (2015)</b>
 
