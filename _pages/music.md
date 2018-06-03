@@ -21,7 +21,7 @@ Improvisational Experiments (2015) | <b><font color="green">Hope</font></b> | <a
 
 <b>Remixes (2018)</b>  
 
-Made in Linux Multimedia Studio using the original songs and loops from Looperman.com.
+Made in Linux Multimedia Studio using the original songs, single-note samples from the Philharmonic Orchestra, and loops from Looperman.com.
 
 Kate Havnevik | <b><font color="green">Unlike Me</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
 
