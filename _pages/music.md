@@ -88,14 +88,18 @@ Improv Pattern | <font color="green">Instability</font> | <audio controls src="h
 Improv Pattern + Vocal | <font color="green">Waiting</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-waiting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv Pattern + Vocal | <font color="green">Confusion</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-confusion.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<b>Phoebe-Buffay-Themed Song Writing (2015)</b>
+<b>Singer-Songwriter (2014)</b>
 
 Raw recordings.
 
-<b>Covers (2014)</b>
-
-Raw recordings.
-
-Iron and Wine (orig. The Postal Service) | <font color="green">Such Great Heights</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-such_great_heights.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Iron and Wine (orig. The Postal Service) | <b><font color="green">Such Great Heights</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-such_great_heights.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Iron and Wine | <font color="green">Love Vigilantees</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_vigilantees.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 The White Stripes | <font color="green">Love Interruption</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_interruption.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+
+Original | <font color="green">As Long as There's Still You and Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-as_long_as_theres_still_you_and_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Original | <font color="green">Change</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-change.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Original | <font color="green">Modern Vows</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-modern_vows.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Original | <font color="green">Ships</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-ships.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Original | <font color="green">So Long My Dream</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-so_long_my_dream.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Original | <font color="green">Your Decision</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-your_decision.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Original | <font color="green">The Time Traveler</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-the_time_traveler.mp3">Your browser does not support the <code>audio</code> element.</audio>  
