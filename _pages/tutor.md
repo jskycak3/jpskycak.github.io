@@ -10,22 +10,25 @@ I've tutored hundreds of students for thousands of hours. Because I tailor each 
 <li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_primer.pdf">Here</a></font> is a primer I made which focuses on building intuition behind core concepts in calculus.</li>  
 <li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_connections.pdf">Here</a></font> are some lessons I made to connect calculus to the real world -- not only science, technology, and engineering; but also history, philosophy, business, art, and athletics!</li></ul>
 
+In addition to presenting the subject matter in an interesting way, I also maintain a comfortable learning environment where my students can learn to overcome problems without feeling embarrassed. My first high-school job was as a counselor at Children's Dispensary, a program for special-needs and undernourished kids, where I often had to calm children prone to explosive behavior (e.g. violence, screaming, running away) and assist those prone to hygiene issues. (_Here_ is a slideshow of pictures with the kids! I'm behind the camera for much of it.)
+
 I also offer enrichment for curious, advanced students who find joy in math.
 
 <b>Specialties</b>
 
- | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, Calculus I/II/III, Enrichment  
+ | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
  | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
  | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
  | <font color="green">Instruction Formats</font> | One-on-one, group, classroom  
 
 <b>Experience</b>
 
-Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~ 5 students / 50 hours | Classroom, group, one-on-one  
-Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 5 students / 25 hours | One-on-one  
-Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 20 students / 100 hours | Classroom, one-on-one  
-Sept 2017 - Present | <font color="green">Study.com</font> | ~ 1500 solutions / 300 hours | Solutions writing    
-Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 300 students / 2,500 hours | Group, one-on-one  
+Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~ 50 hours (5 students) | Classroom teaching and group / one-on-one tutoring in math (SAT, ACT, College Calculus I/II)  
+Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 25 hours (5 students) | One-on-one tutoring in math (GRE, CHSPE, AP Calculus AB/BC)  
+Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 100 hours (20 students) | Classroom teaching and one-on-one tutoring in math / SAT / ACT  
+Sept 2017 - Present | <font color="green">Study.com</font> | ~ 300 hours (1500 solutions) | Online content writing (math solutions in Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Differential Equations, Linear Algebra)  
+Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 2,500 hours (300 students) | Group / one-on-one tutoring in math  (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II)
+June 2010 - Dec 2012 | <font color="green">Children's Dispensary</font> | ~ 700 hours (100 kids) | Group supervision / teaching / activities  
 
 <b>Education</b>
 
