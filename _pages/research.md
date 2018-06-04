@@ -17,11 +17,11 @@ I've done research in physics, neuroscience, math, and business.
 
 <b>Masters Research (2018-2020)</b>
 
-To begin in August!
+I'm doing a master's through Georgia Tech. Classes/projects begin in August!  
 
 <b>Industry Data Science (2016-2018)</b>
 
-As a college upperclassman, I worked full-time as a data scientist at a nearby company. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
+As an upperclassman at ND, I also worked full-time as a data scientist at a nearby company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
 
 2018 | <font color="green">360Giving Challenge</font> | Classified grants into high-level themes based on titles and descriptions, and used animated scatter plots to show which donors funded which themes throughout the years. <font color="blue"><a href="https://jpskycak.github.io/360Giving-Challenge">(site)</a></font>  
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
@@ -31,7 +31,7 @@ As a college upperclassman, I worked full-time as a data scientist at a nearby c
 
 <b>Undergraduate Research (2013-2016)</b>
 
-I got my feet wet in physics research as a high-schooler, working at nearby universities in the evenings. As a college underclassman, I used simulation and numerical methods to explore problems in neuroscience and math.  
+I got my feet wet in physics research as a high-schooler, working on projects at IUSB and ND. As an underclassman at ND, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
 2016 | <font color="green">University of Notre Dame</font> | Began laying mathematical foundations for the simulation results of 2015. Solved a special case, but the project was cut short when I took an industry job in data science. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp2.pdf">(unfinished writeup)</a></font>  
 2016 | <font color="green">University of Notre Dame</font> | For a final project, used game theory to analyze the effectiveness of social distancing advice in epidemics. Course Instructor: Vijay Gupta. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(writeup)</a></font>  
