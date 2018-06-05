@@ -20,14 +20,14 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 Contact me at jpskycak@gmail.com to schedule a session. I am available all times listed except for those marked with an "x."  
 
- | | <b>Morning</b> (9am-12pm) | <b>Afternoon</b> (12pm-5pm) | <b>Evening</b> (5pm-10pm)  
- | <b>Monday, 6/4</b> |  |  |   
- | <b>Tuesday, 6/5</b> | 6/5 | x | x | x  
- | <b>Wednesday, 6/6</b> | 6/6 | x | x | x  
- | <b>Thursday, 6/7</b> | x | x | x 
- | <b>Friday, 6/9</b> |  |  |   
- | <b>Saturday, 6/10</b> | x | x | x  
- | <b>Sunday, 6/11</b> |  |  |   
+ | | <font color="green">Morning (9am-12pm)</font> | <font color="green">Afternoon (12pm-5pm)</font> | <font color="green">Evening (5pm-10pm)</font>  
+ | <font color="green">Monday (6/4)</font> |  |  |   
+ | <font color="green">Tuesday (6/5)</font> | x | x | x  
+ | <font color="green">Wednesday (6/6</font> | x | x | x  
+ | <font color="green">Thursday (6/7</font> | x | x | x 
+ | <font color="green">Friday (6/9</font> |  |  |   
+ | <font color="green">Saturday (6/10</font> | x | x | x  
+ | <font color="green">Sunday (6/11)</font> |  |  |   
 
 <b>Specialties</b>
 
