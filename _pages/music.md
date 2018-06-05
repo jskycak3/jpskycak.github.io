@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Music Production"
+title: "Music Projects"
 permalink: /music/
 author_profile: true
 ---
