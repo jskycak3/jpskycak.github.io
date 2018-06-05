@@ -16,6 +16,13 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 I also offer enrichment for curious, advanced students who find joy in math.
 
+<b>Specialties</b>
+
+ | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
+ | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
+ | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
+ | <font color="green">Instruction Formats</font> | One-on-one, group, classroom  
+
 <b>Availability</b>
 
 Contact me at jpskycak@gmail.com to schedule a session. I am available all times listed except for those marked with an "x."  
@@ -29,13 +36,6 @@ Contact me at jpskycak@gmail.com to schedule a session. I am available all times
  | <font color="green">Fri 6/9</font> |  |  |   
  | <font color="green">Sat 6/10</font> | x | x | x  
  | <font color="green">Sun 6/11</font> |  |  |   
-
-<b>Specialties</b>
-
- | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
- | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
- | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
- | <font color="green">Instruction Formats</font> | One-on-one, group, classroom  
 
 <b>Experience</b>
 
