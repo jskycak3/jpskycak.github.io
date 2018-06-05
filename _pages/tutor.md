@@ -13,11 +13,7 @@ I've tutored hundreds of students for thousands of hours. Because I tailor each 
 In addition to presenting the subject matter in an interesting way, I also maintain a comfortable learning environment where my students can learn to overcome problems without feeling embarrassed. My first part-time job was as a counselor at Children's Dispensary, a program for special-needs and undernourished kids, where I often had to calm children prone to explosive behavior (e.g. violence, screaming, running away) and assist those prone to hygiene issues.
 
 <details><summary>Here is a holiday slideshow I made for the kids' families!</summary>
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
-</details>
-
-<details><summary>Here is a holiday slideshow I made for the kids' families!</summary>
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://jpskycak.github.io/files/jpskycak-childrens_dispensary.wmv)
+<video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.wmv" width="320" height="200" controls preload></video>
 </details>
 
 I also offer enrichment for curious, advanced students who find joy in math.
