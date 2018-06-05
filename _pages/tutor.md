@@ -20,15 +20,15 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 Contact me at jpskycak@gmail.com to schedule a session. I am available all times listed except for those marked with an "x."  
 
- | | <font color="green">Morning (9am-12pm)</font> | <font color="green">Afternoon (12pm-5pm)</font> | <font color="green">Evening (5pm-10pm)</font> |  
+ | | <font color="green">Morning (9-12)</font> | <font color="green">Afternoon (12-5)</font> | <font color="green">Evening (5-10)</font> |  
  | |: ------------- :|: ---------- :|: ----------- :|
- | <font color="green">Monday (6/4)</font> |  |  |   
- | <font color="green">Tuesday (6/5)</font> | x | x | x  
- | <font color="green">Wednesday (6/6</font> | x | x | x  
- | <font color="green">Thursday (6/7</font> | x | x | x 
- | <font color="green">Friday (6/9</font> |  |  |   
- | <font color="green">Saturday (6/10</font> | x | x | x  
- | <font color="green">Sunday (6/11)</font> |  |  |   
+ | <font color="green">Mon 6/4</font> |  |  |   
+ | <font color="green">Tue 6/5</font> | x | x | x  
+ | <font color="green">Wed 6/6</font> | x | x | x  
+ | <font color="green">Thu 6/7</font> | x | x | x 
+ | <font color="green">Fri 6/9</font> |  |  |   
+ | <font color="green">Sat 6/10</font> | x | x | x  
+ | <font color="green">Sun 6/11</font> |  |  |   
 
 <b>Specialties</b>
 
