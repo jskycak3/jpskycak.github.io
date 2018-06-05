@@ -47,10 +47,10 @@ Remix | <b><font color="green">Unlike Me - Kate Havnevik (remix)</font></b> | <a
 Eastern EDM | <b><font color="green">Come At Me</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <b><font color="green">Bounce</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bounce.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Eastern EDM | <font color="green">Naissi</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-naissi.mp3">Your browser does not support the <code>audio</code> element.</audio>    
-Meditation | <font color="green">Jazzy Reflections</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_reflections.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Meditation | <b><font color="green">Jazzy Reflections</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_reflections.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Meditation | <font color="green">Jazzy Trip</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_trip.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Psychedelic | <font color="green">Jungle Dance</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jungle_dance.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Psychedelic | <b><font color="green">Scatterbrain</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scatterbrain.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scatterbrain.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 <b>Singles (2016)</b>  
 
@@ -82,7 +82,7 @@ Solo over Improv Pattern | <b><font color="green">Hope</font></b> | <audio contr
 Solo over Improv Pattern | <font color="green">Acoustic + Electric</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-acoustic+electric.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Solo over Improv Pattern | <font color="green">Bassy Improv 1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-bassyimprov1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv Pattern | <b><font color="green">Jazz 1</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazz_1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improv Pattern | <b><font color="green">Improv 1</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-improv_1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improv Pattern | <font color="green">Improv 1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-improv_1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv Pattern | <font color="green">Brave</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-brave.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv Pattern | <font color="green">Instability</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instability.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv Pattern + Vocal | <font color="green">Waiting</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-waiting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
