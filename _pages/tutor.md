@@ -20,8 +20,8 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 Contact me at jpskycak@gmail.com to schedule a session. I am available all times listed except for those marked with an "x."  
 
- | | <font color="green">Morning (9-12)</font> | <font color="green">Afternoon (12-5)</font> | <font color="green">Evening (5-10)</font> |  
- | |: ------------- :|: ---------- :|: ----------- :|
+ | This Week | Morning (9-12) | Afternoon (12-5) | Evening (5-10) | Next Week | Morning (9-12) | Afternoon (12-5) | Evening (5-10) | Week After Next | Morning (9-12) | Afternoon (12-5) | Evening (5-10) |  
+ | |: ------------- :|: ---------- :|: ----------- :| |: ------------- :|: ---------- :|: ----------- :| |: ------------- :|: ---------- :|: ----------- :|  
  | <font color="green">Mon 6/4</font> |  |  |   
  | <font color="green">Tue 6/5</font> | x | x | x  
  | <font color="green">Wed 6/6</font> | x | x | x  
