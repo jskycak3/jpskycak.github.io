@@ -20,7 +20,7 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 Contact me at jpskycak@gmail.com to schedule a session. I am available all times listed except for those marked with an "x."  
 
- | | <b>Morning</b> (9am-12pm) | <b>Afternoon</b> (12pm-5pm) | Evening (5pm-10pm)  
+ | | <b>Morning</b> (9am-12pm) | <b>Afternoon</b> (12pm-5pm) | <b>Evening</b> (5pm-10pm)  
  | <b>Monday, 6/4</b> |  |  |   
  | <b>Tuesday, 6/5</b> | 6/5 | x | x | x  
  | <b>Wednesday, 6/6</b> | 6/6 | x | x | x  
