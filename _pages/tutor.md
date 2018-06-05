@@ -16,6 +16,15 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 I also offer enrichment for curious, advanced students who find joy in math.
 
+<b>Availability</b>
+
+Contact me at jpskycak@gmail.com to schedule a session.
+
+ | | | Morning (9am-12pm) | Afternoon (12pm-5pm) | Evening (5pm-10pm)  
+ | Monday | 6/4 | open | open | open  
+ | Tuesday | 6/5 | x | x | x  
+ | Wednesday | 6/6 |  
+
 <b>Specialties</b>
 
  | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
