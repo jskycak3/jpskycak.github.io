@@ -26,7 +26,7 @@ In progress!
 
 <b>Score for a Medieval Fantasy (2017)</b>  
 
-Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra. In the next project, I wanted to include more familiar sounds, so I made instrumental versions of popular songs.
+Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra (with the exception of a fireplace crackling loop in <i>Fairytale Blacksmith</i> and a vocal loop in <i>Loss</i>). In the next project, I wanted to include more familiar sounds, so I made instrumental versions of popular songs.
 
 Exposition | <font color="green">Fairytale Blacksmith</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fairytale_blacksmith.mp3">Your browser does not support the <code>audio</code> element.</audio> 
 Rising Action | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-thunderstorm_intro.mp3">Your browser does not support the <code>audio</code> element.</audio>  
