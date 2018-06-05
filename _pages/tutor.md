@@ -13,7 +13,7 @@ I've tutored hundreds of students for thousands of hours. Because I tailor each 
 In addition to presenting the subject matter in an interesting way, I also maintain a comfortable learning environment where my students can learn to overcome problems without feeling embarrassed. My first part-time job was as a counselor at Children's Dispensary, a program for special-needs and undernourished kids, where I often had to calm children prone to explosive behavior (e.g. violence, screaming, running away) and assist those prone to hygiene issues.
 <details><summary>Click the triangle to see some pictures from Children's Dispensary!</summary>
 This is a holiday slideshow I made for the kids' families.
-<video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.wmv" width="320" height="200" controls preload></video></details>
+<video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details>  
 
 I also offer enrichment for curious, advanced students who find joy in math.
 
