@@ -5,6 +5,7 @@ permalink: /tutor/
 author_profile: true
 ---
 <center><b><font color="blue"><a href="http://www.jpskycak.com/tutor/#bio">Bio</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#availability">Availability</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#experience">Experience</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#education">Education</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></font></b></center>
+
 ## [Bio](#bio)
 
 I've tutored hundreds of students for thousands of hours. Because I tailor each lesson to the learning style and personal interests of the student, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example:
@@ -18,6 +19,8 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 I also offer enrichment for curious, advanced students who find joy in math.  
 
+<font size="8" color="blue"><a href="http://www.jpskycak.com/tutor/#bio">back to top</a></font>
+
 ## [Specialties](#specialties)
 
  | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
@@ -27,7 +30,7 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 ## [Availability](#availability)
 
-Contact me at jpskycak@gmail.com to schedule a session. Here is my availability for the next few weeks. An "a" means I am available during that time slot.
+Here is my availability for the next few weeks -- an "a" means I am available during that time slot. You can contact me at jpskycak@gmail.com to schedule a session.  
 
 | 6/4-6/11         | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
