@@ -4,8 +4,7 @@ title: "Math Tutoring"
 permalink: /tutor/
 author_profile: true
 ---
-<center><b><font color="blue"><a href="http://www.jpskycak.com/tutor/#bio">Bio</a> • <a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a> • Availability • Experience • Education • Reviews</font></b></center> 
-
+<center><b><font color="blue"><a href="http://www.jpskycak.com/tutor/#bio">Bio</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#availability">Availability</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#experience">Experience</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#education">Education</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></font></b></center>
 ## [Bio](#bio)
 
 I've tutored hundreds of students for thousands of hours. Because I tailor each lesson to the learning style and personal interests of the student, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example:
