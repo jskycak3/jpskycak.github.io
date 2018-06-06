@@ -7,7 +7,7 @@ author_profile: true
 
 I've done research in physics, neuroscience, math, and business.
 
-<b>Selected Projects</b>
+<b>[Selected Projects](#selected)</b>
 
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
@@ -15,11 +15,11 @@ I've done research in physics, neuroscience, math, and business.
 
 ---
 
-<b>Master's Research (2018-2020)</b>
+<b>[Master's Research (2018-2020)](#masters)</b>
 
 I'm doing a master's through Georgia Tech. Classes/projects begin in August 2018!  I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
 
-<b>Industry Data Science (2016-2018)</b>
+<b>[Data Science Consulting (2016-2018)](#industry)</b>
 
 As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a nearby company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
 
@@ -29,11 +29,11 @@ As an upperclassman at Notre Dame, I also worked full-time as a data scientist a
 2016 | <font color="green">Aunalytics</font> | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 
-<b>Undergraduate Research (2013-2016)</b>
+<b>[Undergraduate Research (2013-2016)](#undergrad)</b>
 
 I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
-2016 | <font color="green">University of Notre Dame</font> | Began laying mathematical foundations for the simulation results of 2015. Solved a special case, but the project was cut short when I took an industry job in data science. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp2.pdf">(unfinished writeup)</a></font>  
+2016 | <font color="green">University of Notre Dame</font> | Began laying mathematical foundations for the simulation results of 2015. Solved a special case, but the project was cut short when I took a job in data science consulting. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp2.pdf">(unfinished writeup)</a></font>  
 2016 | <font color="green">University of Notre Dame</font> | For a final project, used game theory to analyze the effectiveness of social distancing advice in epidemics. Course Instructor: Vijay Gupta. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(writeup)</a></font>  
 2015 | <font color="green">Los Alamos National Lab</font> | Implemented spiking neurons in a deep neural network, in attempt to emulate brain waves. Advisor: Garrett Kenyon. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-lanl.pdf">(work summary)</a></font>  
 2015 | <font color="green">University of Notre Dame</font> | Conducted numerical experiments on an open problem in mathematics. Advisor: Jeff Diller. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-scientia.pdf">(article)</a></font>  
