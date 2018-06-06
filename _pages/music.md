@@ -28,7 +28,7 @@ Improvisational Experiments (2015) | <font color="green">Hope</font> | <audio co
 
 ## [Score for a Medieval Fantasy](#score)
 
-2016-17. Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra (with the exception of a fireplace crackling loop in <i>Fairytale Blacksmith</i> and a vocal loop in <i>Loss</i>). In the next project, I wanted to include more familiar sounds, so I made instrumental versions of popular songs.
+<i>2016-17.</i> Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra (with the exception of a fireplace crackling loop in <i>Fairytale Blacksmith</i> and a vocal loop in <i>Loss</i>). In the next project, I wanted to include more familiar sounds, so I made instrumental versions of popular songs.
 
 Exposition | <font color="green">Fairytale Blacksmith</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-fairytale_blacksmith.mp3">Your browser does not support the <code>audio</code> element.</audio> 
 Rising Action | <font color="green">Thunderstorm (intro to Wanderlust)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-thunderstorm_intro.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -43,7 +43,7 @@ Resolution | <font color="green">Preparations</font> | <audio controls src="http
 
 ## [Singles 17](#singles17)
 
-2017. Made in Linux Multimedia Studio using loops from Looperman.com. For the next project, I decided to build from scratch, using single-note samples rather than slicing up loops. I also decided to organize them into a story.
+<i>2017.</i> Made in Linux Multimedia Studio using loops from Looperman.com. For the next project, I decided to build from scratch, using single-note samples rather than slicing up loops. I also decided to organize them into a story.
 
 Remix | <b><font color="green">Unlike Me - Kate Havnevik (remix)</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>   
 Eastern EDM | <b><font color="green">Come At Me</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -56,7 +56,7 @@ Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="htt
 
 ## [Singles 16](#singles16)
 
-2016. Made in Linux Multimedia Studio using loops from Looperman.com. In the next project, I tried to make the songs more cohesive.
+<i>2016.</i> Made in Linux Multimedia Studio using loops from Looperman.com. In the next project, I tried to make the songs more cohesive.
 
 Electronic | <b><font color="green">I'm Sorry Dave</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-im_sorry_dave.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="green">That Frequency</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-that_frequency_jpskycak.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -70,7 +70,7 @@ Pop | <font color="green">The Truth About Endings</font> | <audio controls src="
 
 ## [Singles 15](#singles15)
 
-2015. Made in Audacity using original recordings. Going forward, I started using a digital audio workstation called Linux Multimedia Studio so I could introduce more instruments and get a more produced feel.
+<i>2015.</i> Made in Audacity using original recordings. Going forward, I started using a digital audio workstation called Linux Multimedia Studio so I could introduce more instruments and get a more produced feel.
 
 Electronic | <font color="green">Instrumental A1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -78,7 +78,7 @@ Electronic | <font color="green">Instrumental A3</font> | <audio controls src="h
 
 ## [Improvisational Experiments](#improv)
 
-2015. Raw recordings using a looper. Going forward, I cut out vocals, tried to tame the experiments into songs, and used Audacity to give a more produced feel.
+<i>2015.</i> Raw recordings using a looper. Going forward, I cut out vocals, tried to tame the experiments into songs, and used Audacity to give a more produced feel.
 
 Solo over Improv Pattern | <b><font color="green">Hope</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Solo over Improv Pattern | <font color="green">Acoustic + Electric</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-acoustic+electric.mp3">Your browser does not support the <code>audio</code> element.</audio>  
@@ -92,7 +92,7 @@ Improv Pattern + Vocal | <font color="green">Confusion</font> | <audio controls 
 
 ## [Covers](#cover)
 
-2014. Raw recordings. There's one original -- I forced myself to give songwriting a shot, and the result was a weird story about love, relativity, and fate. In the next project, I decided to focus on sound rather than lyrics.
+<i>2014.</i> Raw recordings. There's one original -- I forced myself to give songwriting a shot, and the result was a weird story about love, relativity, and fate. In the next project, I decided to focus on sound rather than lyrics.
 
 Iron and Wine (orig. The Postal Service) | <b><font color="green">Such Great Heights</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-such_great_heights.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Iron and Wine | <font color="green">Love Vigilantes</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_vigilantees.mp3">Your browser does not support the <code>audio</code> element.</audio>  
