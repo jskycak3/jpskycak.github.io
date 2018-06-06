@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Music</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">Classical Crossover</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score">Score for a Medieval Fantasy</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles 17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles 16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles 15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv">Improvisational Experiments</a> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers">Covers</a></font></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">Classical Crossover</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score">Score for a Medieval Fantasy</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv">Improvisational Experiments</a> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers">Covers</a></font></font></b></center>
 
 ## [Selected](#selected)
 
@@ -45,7 +45,7 @@ Resolution | <font color="green">Preparations</font> | <audio controls src="http
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Singles 17](#singles17)
+## [Singles17](#singles17)
 
 <i>2017.</i> Made in Linux Multimedia Studio using loops from Looperman.com. For the next project, I decided to build from scratch, using single-note samples rather than slicing up loops. I also decided to organize them into a story.
 
@@ -60,7 +60,7 @@ Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="htt
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Singles 16](#singles16)
+## [Singles16](#singles16)
 
 <i>2016.</i> Made in Linux Multimedia Studio using loops from Looperman.com. In the next project, I tried to make the songs more cohesive.
 
@@ -76,7 +76,7 @@ Pop | <font color="green">The Truth About Endings</font> | <audio controls src="
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Singles 15](#singles15)
+## [Singles15](#singles15)
 
 <i>2015.</i> Made in Audacity using original recordings. Going forward, I started using a digital audio workstation called Linux Multimedia Studio so I could introduce more instruments and get a more produced feel.
 
