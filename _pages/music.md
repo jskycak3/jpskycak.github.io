@@ -20,11 +20,9 @@ Singles 16 | <font color="green">Come At Me</font> | <audio controls src="https:
 Singles 15 | <font color="green">Instrumental A2</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improvisational Experiments | <font color="green">Hope</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
----
-
 ## [Classical Crossover](#crossover)
 
-2018-present. In progress!
+<i>2018-present.</i> In progress!
 
 ## [Score for a Medieval Fantasy](#score)
 
