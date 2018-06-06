@@ -4,6 +4,9 @@ title: ""
 permalink: /tutor/
 author_profile: true
 ---
+
+# [<center>Math Tutoring</center>](#top)
+
 <center><b><font color="blue"><a href="http://www.jpskycak.com/tutor/#bio">Bio</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#availability">Availability</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#experience">Experience</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#education">Education</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></font></b></center>
 
 ## [Bio](#bio)
@@ -18,8 +21,7 @@ In addition to presenting the subject matter in an interesting way, I also maint
 <ul style="list-style-type:none"><li><details><summary>Click the triangle to see a photo slideshow I put together for one of CD's holiday programs!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul>   
 
 I also offer enrichment for curious, advanced students who find joy in math.  
-
-<font size="3" color="blue"><a href="http://www.jpskycak.com/tutor/#bio">back to top</a></font>
+<font size="2" color="blue"><a href="http://www.jpskycak.com/tutor/#bio">back to top</a></font>
 
 ## [Specialties](#specialties)
 
