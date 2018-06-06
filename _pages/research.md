@@ -17,15 +17,13 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
 
----
+## [Master's Research](#masters)
 
-## [Master's Research • 2018-20](#masters)
+<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
 
-I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
+## [Data Science Consulting](#consulting)
 
-## [Data Science Consulting • 2016-18](#consulting)
-
-As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
+<i>2016-18.</i>As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
 
 2018 | <font color="green">360Giving Challenge</font> | Classified grants into high-level themes based on titles and descriptions, and used animated scatter plots to show which donors funded which themes throughout the years. <font color="blue"><a href="https://jpskycak.github.io/360Giving-Challenge">(site)</a></font>  
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
@@ -33,9 +31,9 @@ As an upperclassman at Notre Dame, I also worked full-time as a data scientist a
 2016 | <font color="green">Aunalytics</font> | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 
-## [Undergraduate Research • 2013-16](#undergrad)
+## [Undergraduate Research](#undergrad)
 
-I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
+<i>2013-16.</i> I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
 2016 | <font color="green">University of Notre Dame</font> | Began laying mathematical foundations for the simulation results of 2015. Solved a special case, but the project was cut short when I took a job in data science consulting. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp2.pdf">(unfinished writeup)</a></font>  
 2016 | <font color="green">University of Notre Dame</font> | For a final project, used game theory to analyze the effectiveness of social distancing advice in epidemics. Course Instructor: Vijay Gupta. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(writeup)</a></font>  
