@@ -27,15 +27,23 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 Contact me at jpskycak@gmail.com to schedule a session. Here is my availability for the next few weeks:
 
- | This Week | Morning (9-12) | Afternoon (12-5) | Evening (5-10) | Next Week | Morning (9-12) | Afternoon (12-5) | Evening (5-10) | Week After Next | Morning (9-12) | Afternoon (12-5) | Evening (5-10) |  
- | |: ------------- :|: ---------- :|: ----------- :| |: ------------- :|: ---------- :|: ----------- :| |: ------------- :|: ---------- :|: ----------- :|  
- | <font color="green">Mon 6/4</font> | open | open | open | <font color="green">Mon 6/11</font> | open | open | open | <font color="green">Mon 6/18</font> | open | open | open  
- | <font color="green">Tue 6/5</font> | x | x | x | <font color="green">Tue 6/12</font> | open | open | open | <font color="green">Tue 6/19</font> | open | open | open  
- | <font color="green">Wed 6/6</font> | x | x | x | <font color="green">Wed 6/13</font> | x | x | x | <font color="green">Wed 6/20</font> | x | x | x  
- | <font color="green">Thu 6/7</font> | x | x | x | <font color="green">Thu 6/14</font> | x | x | x | <font color="green">Thu 6/21</font> | x | x | x  
- | <font color="green">Fri 6/8</font> | open | open | open | <font color="green">Fri 6/15</font> | open | open | open | <font color="green">Fri 6/22</font> | open | open | open  
- | <font color="green">Sat 6/9</font> | x | x | x | <font color="green">Sat 6/16</font> | x | x | x | <font color="green">Sat 6/23</font> | x | x | x  
- | <font color="green">Sun 6/10</font> | open | open | open | <font color="green">Sun 6/17</font> | open | open | open | <font color="green">Sun 6/24</font> | open | open | open  
+| 6/4-6/11         | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
+| ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
+| Morning (9-12)   | open   | x      | x      | x      | open   | x      | open   |  
+| Afternoon (12-5) | open   | x      | x      | x      | open   | x      | open   |  
+| Evening (5-10)   | open   | x      | x      | x      | open   | x      | open   |  
+
+| 6/12-6/19        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
+| ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
+| Morning (9-12)   | open   | open   | x      | open   | open   | x      | open   |  
+| Afternoon (12-5) | open   | open   | x      | open   | open   | x      | open   |  
+| Evening (5-10)   | open   | open   | x      | open   | open   | x      | open   |  
+
+| 6/13-6/20        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
+| ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
+| Morning (9-12)   | open   | open   | x      | open   | open   | x      | open   |  
+| Afternoon (12-5) | open   | open   | x      | open   | open   | x      | open   |  
+| Evening (5-10)   | open   | open   | x      | open   | open   | x      | open   |  
 
 <b>Experience</b>
 
