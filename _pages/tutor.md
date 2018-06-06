@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Math Tutoring"
+title: ""
 permalink: /tutor/
 author_profile: true
 ---
@@ -19,7 +19,7 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 I also offer enrichment for curious, advanced students who find joy in math.  
 
-<font size="8" color="blue"><a href="http://www.jpskycak.com/tutor/#bio">back to top</a></font>
+<font size="3" color="blue"><a href="http://www.jpskycak.com/tutor/#bio">back to top</a></font>
 
 ## [Specialties](#specialties)
 
