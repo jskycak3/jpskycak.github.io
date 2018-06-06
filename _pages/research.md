@@ -19,11 +19,11 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 
 ---
 
-## [Master's Research (2018-2020)](#masters)
+## [Master's Research • 2018-20](#masters)
 
 I'm doing a master's through Georgia Tech. Classes/projects begin in August 2018!  I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
 
-## [Data Science Consulting (2016-2018)](#consulting)
+## [Data Science Consulting • 2016-18](#consulting)
 
 As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
 
@@ -33,7 +33,7 @@ As an upperclassman at Notre Dame, I also worked full-time as a data scientist a
 2016 | <font color="green">Aunalytics</font> | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 
-## [Undergraduate Research (2013-2016)](#undergrad)
+## [Undergraduate Research • 2013-16](#undergrad)
 
 I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
