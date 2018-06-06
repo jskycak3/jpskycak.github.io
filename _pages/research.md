@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Research</center>](#top)
 
-<center><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font></b></center>
 
 ## [Selected](#selected)
 
