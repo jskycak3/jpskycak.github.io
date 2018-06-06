@@ -5,6 +5,7 @@ permalink: /tutor/
 author_profile: true
 ---
 
+### [Bio](#bio)
 <center><b><font color="blue">Bio</font> • Specialties • Availability • Experience • Education • Reviews</b></center>  
 
 I've tutored hundreds of students for thousands of hours. Because I tailor each lesson to the learning style and personal interests of the student, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example:
@@ -17,6 +18,8 @@ In addition to presenting the subject matter in an interesting way, I also maint
 <ul style="list-style-type:none"><li><details><summary>Click the triangle to see a photo slideshow I put together for one of CD's holiday programs!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul>   
 
 I also offer enrichment for curious, advanced students who find joy in math.  
+
+### [Specialties](#specialties)
 
 <center><b>Bio • <font color="blue">Specialties</font> • Availability • Experience • Education • Reviews</b></center>  
 
