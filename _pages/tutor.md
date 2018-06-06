@@ -16,7 +16,7 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 I also offer enrichment for curious, advanced students who find joy in math.
 
-<b>Specialties</b>
+<b>[Specialties](#specialties)</b>
 
  | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
  | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
