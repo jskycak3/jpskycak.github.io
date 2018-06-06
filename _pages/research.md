@@ -19,13 +19,13 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
-## [Master's Research](#masters)
+## [Master's](#masters)
 
 <i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
-## [Data Science Consulting](#consulting)
+## [Consulting](#consulting)
 
 <i>2016-18.</i>As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
 
@@ -37,7 +37,7 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
-## [Undergraduate Research](#undergrad)
+## [Undergrad](#undergrad)
 
 <i>2013-16.</i> I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
