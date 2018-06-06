@@ -22,7 +22,7 @@ Improvisational Experiments (2015) | <font color="green">Hope</font> | <audio co
 
 ---
 
-## [Classical Crossover (2018)](#crossover)
+## [Classical Crossover \(2018\)](#crossover)
 
 In progress!
 
