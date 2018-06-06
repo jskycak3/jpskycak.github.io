@@ -35,25 +35,41 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 ## [Availability](#availability)
 
-Here is my availability for this week, next week, and the week after. An "a" means I am available during that time slot. You can contact me at jpskycak@gmail.com to schedule a session.  
+Here is my availability for this week and next week. I am available during any empty time slot (an "x" means I am already booked during that slot). You can contact me at jpskycak@gmail.com to schedule a session.  
 
-| 6/4-6/10         | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
-| ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | a      | a      | a      |        | a      |        | a      |  
-| Afternoon (12-5) | a      |        | a      |        | a      |        | a      |  
-| Evening (5-10)   | a      | a      |        |        | a      |        | a      |  
+| 6/4-6/10  | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
+| --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
+| 9am       |        |        |        | x      |        | x      |        |  
+| 10am      |        |        |        | x      |        | x      |        |  
+| 11am      |        |        |        | x      |        | x      |        | 
+| 12pm      |        |        |        | x      |        | x      |        | 
+| 1pm       |        | x      |        | x      |        | x      |        | 
+| 2pm       |        | x      |        | x      |        | x      |        | 
+| 3pm       |        |        |        | x      |        | x      |        | 
+| 4pm       |        |        |        | x      |        | x      |        | 
+| 5pm       |        |        | x      | x      |        | x      |        | 
+| 6pm       |        |        |        | x      |        | x      |        | 
+| 7pm       |        |        |        | x      |        | x      |        | 
+| 8pm       |        |        |        | x      | x      | x      |        | 
+| 9pm       |        |        |        | x      | x      | x      |        | 
+| 10pm      |        |        |        | x      | x      | x      |        |  
 
-| 6/11-6/17        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
-| ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | a      | a      | a      |        | a      |        | a      |  
-| Afternoon (12-5) | a      | a      | a      | a      | a      |        | a      |  
-| Evening (5-10)   | a      | a      |        | a      | a      |        | a      |  
-
-| 6/18-6/24        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
-| ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | a      | a      | a      |        | a      |        | a      |  
-| Afternoon (12-5) | a      | a      | a      | a      | a      |        | a      |  
-| Evening (5-10)   | a      | a      |        | a      | a      |        | a      |  
+| 6/11-6/17 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
+| --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
+| 9am       |        |        |        | x      |        | x      |        |  
+| 10am      |        |        |        | x      |        | x      |        |  
+| 11am      |        |        |        | x      |        | x      |        | 
+| 12pm      |        |        |        |        |        | x      |        | 
+| 1pm       |        |        |        |        |        | x      |        | 
+| 2pm       |        |        |        |        |        | x      |        | 
+| 3pm       |        |        |        |        |        | x      |        | 
+| 4pm       |        |        |        |        |        | x      |        | 
+| 5pm       |        |        | x      |        |        | x      |        | 
+| 6pm       |        |        |        |        |        | x      |        | 
+| 7pm       |        |        |        |        |        | x      |        | 
+| 8pm       |        |        |        |        |        | x      |        | 
+| 9pm       |        |        |        |        |        | x      |        | 
+| 10pm      |        |        |        |        |        | x      |        |  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
