@@ -5,7 +5,7 @@ permalink: /tutor/
 author_profile: true
 ---
 
-<b><font color="blue">Bio</font> • Specialties • Availability • Experience • Education • Reviews</b>  
+<center><b><font color="blue">Bio</font> • Specialties • Availability • Experience • Education • Reviews</b></center>  
 
 I've tutored hundreds of students for thousands of hours. Because I tailor each lesson to the learning style and personal interests of the student, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example:
 <ul><li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">Here</a></font> is a lesson I made for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>, and needed to understand the math and physics behind an egg drop experiment.</li>  
@@ -16,9 +16,9 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 <ul style="list-style-type:none"><li><details><summary>Click the triangle to see a photo slideshow I put together for one of CD's holiday programs!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul>   
 
-I also offer enrichment for curious, advanced students who find joy in math.
+I also offer enrichment for curious, advanced students who find joy in math.  
 
-<b>Bio • <font color="blue">Specialties</font> • Availability • Experience • Education • Reviews</b>  
+<center><b>Bio • <font color="blue">Specialties</font> • Availability • Experience • Education • Reviews</b></center>  
 
  | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
  | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
