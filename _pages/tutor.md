@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Math Tutoring</center>](#top)
 
-<center><font color="blue"><a href="http://www.jpskycak.com/tutor/#bio">Bio</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#availability">Availability</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#experience">Experience</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#education">Education</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></font></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/tutor/#bio">Bio</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#availability">Availability</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#experience">Experience</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#education">Education</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></font></b></center>
 
 ## [Bio](#bio) <span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
 
@@ -29,7 +29,7 @@ I also offer enrichment for curious, advanced students who find joy in math.
  | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
  | <font color="green">Instruction Formats</font> | One-on-one, group, classroom  
 
-## [Availability](#availability) <span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
+## [Availability](#availability)
 
 Here is my availability for the next few weeks -- an "a" means I am available during that time slot. You can contact me at jpskycak@gmail.com to schedule a session.  
 
@@ -51,7 +51,7 @@ Here is my availability for the next few weeks -- an "a" means I am available du
 | Afternoon (12-5) | a      | a      |        |        | a      |        | a      |  
 | Evening (5-10)   | a      | a      |        |        | a      |        | a      |  
 
-## [Experience](#experience) <span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
+## [Experience](#experience)
 
 Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~ 50 hours (5 students) | Classroom teaching and group / one-on-one tutoring in math (SAT, ACT, College Calculus I/II)  
 Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 25 hours (5 students) | One-on-one tutoring in math (GRE, CHSPE, AP Calculus AB/BC)  
