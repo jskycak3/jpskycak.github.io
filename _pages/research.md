@@ -21,7 +21,7 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 
 ## [Master's Research • 2018-20](#masters)
 
-I'm doing a master's through Georgia Tech. Classes/projects begin in August 2018!  I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
+I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
 
 ## [Data Science Consulting • 2016-18](#consulting)
 
