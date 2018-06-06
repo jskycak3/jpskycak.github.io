@@ -9,7 +9,7 @@ author_profile: true
 
 <center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font></b></center>
 
-## [Selected Projects](#selected)
+## [Selected](#selected)
 
 I've done research in physics, neuroscience, math, and business. Here are some of my favorites!
 
