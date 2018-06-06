@@ -39,21 +39,21 @@ Here is my availability for this week, next week, and the week after. An "a" mea
 
 | 6/4-6/10         | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | a      |        |        |        | a      |        | a      |  
-| Afternoon (12-5) | a      |        |        |        | a      |        | a      |  
-| Evening (5-10)   | a      |        |        |        | a      |        | a      |  
+| Morning (9-12)   | a      | a      | a      |        | a      |        | a      |  
+| Afternoon (12-5) | a      |        | a      |        | a      |        | a      |  
+| Evening (5-10)   | a      | a      |        |        | a      |        | a      |  
 
 | 6/11-6/17        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | a      | a      |        |        | a      |        | a      |  
-| Afternoon (12-5) | a      | a      |        |        | a      |        | a      |  
-| Evening (5-10)   | a      | a      |        |        | a      |        | a      |  
+| Morning (9-12)   | a      | a      | a      |        | a      |        | a      |  
+| Afternoon (12-5) | a      | a      | a      | a      | a      |        | a      |  
+| Evening (5-10)   | a      | a      |        | a      | a      |        | a      |  
 
 | 6/18-6/24        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | a      | a      |        |        | a      |        | a      |  
-| Afternoon (12-5) | a      | a      |        |        | a      |        | a      |  
-| Evening (5-10)   | a      | a      |        |        | a      |        | a      |  
+| Morning (9-12)   | a      | a      | a      |        | a      |        | a      |  
+| Afternoon (12-5) | a      | a      | a      | a      | a      |        | a      |  
+| Evening (5-10)   | a      | a      |        | a      | a      |        | a      |  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
