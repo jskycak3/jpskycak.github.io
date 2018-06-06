@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Research Projects"
+title: ""
 permalink: /research/
 author_profile: true
 --- 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected Projects</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font></b></center>
+
+# [<center>Research</center>](#top)
+
+<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font></b></center>
 
 ## [Selected Projects](#selected)
 
@@ -13,12 +16,14 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
+<font size="2" color="blue"><a href="http://www.jpskycak.com/research/#top">back to top</a></font>
 
 ---
 
 ## [Master's Research (2018-2020)](#masters)
 
 I'm doing a master's through Georgia Tech. Classes/projects begin in August 2018!  I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
+<font size="2" color="blue"><a href="http://www.jpskycak.com/research/#top">back to top</a></font>
 
 ## [Data Science Consulting (2016-2018)](#consulting)
 
@@ -29,6 +34,7 @@ As an upperclassman at Notre Dame, I also worked full-time as a data scientist a
 2017 | <font color="green">Aunalytics</font> | Presented a case-study of using topological data analysis to visualize Reddit data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-reddit.pdf">(slides)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
+<font size="2" color="blue"><a href="http://www.jpskycak.com/research/#top">back to top</a></font>
 
 ## [Undergraduate Research (2013-2016)](#undergrad)
 
@@ -41,3 +47,5 @@ I got my feet wet in physics research as a high-schooler, working on projects at
 2015 | <font color="green">University of Notre Dame</font> | Gave a talk presenting simulation results of how cyclic neuronal networks ought to change, under a particular theory of neural plasticity, in response to periodic stimulation. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp.pdf">(slides)</a></font>  
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
 2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. Advisor: Ilan Levine. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(poster)</a></font>  
+<font size="2" color="blue"><a href="http://www.jpskycak.com/research/#top">back to top</a></font>
+
