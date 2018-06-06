@@ -39,37 +39,37 @@ Here is my availability for this week and next week. I am available during any e
 
 | 6/4-6/10  | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| 9am       |        |        |        | x      |        | x      |        |  
-| 10am      |        |        |        | x      |        | x      |        |  
-| 11am      |        |        |        | x      |        | x      |        |  
-| 12pm      |        |        |        | x      |        | x      |        |  
-| 1pm       |        | x      |        | x      |        | x      |        |  
-| 2pm       |        | x      |        | x      |        | x      |        |  
-| 3pm       |        |        |        | x      |        | x      |        |  
-| 4pm       |        |        |        | x      |        | x      |        |  
-| 5pm       |        |        | x      | x      |        | x      |        |  
-| 6pm       |        |        |        | x      |        | x      |        |  
-| 7pm       |        |        |        | x      |        | x      |        |  
-| 8pm       |        |        |        | x      | x      | x      |        |  
-| 9pm       |        |        |        | x      | x      | x      |        |  
-| 10pm      |        |        |        | x      | x      | x      |        |  
+| 9-10am    |        |        |        | x      |        | x      |        |  
+| 10-11am   |        |        |        | x      |        | x      |        |  
+| 11am-12pm |        |        |        | x      |        | x      |        |  
+| 12-1pm    |        |        |        | x      |        | x      |        |  
+| 1-2pm     |        | x      |        | x      |        | x      |        |  
+| 2-3pm     |        | x      |        | x      |        | x      |        |  
+| 3-4pm     |        |        |        | x      |        | x      |        |  
+| 4-5pm     |        |        |        | x      |        | x      |        |  
+| 5-6pm     |        |        | x      | x      |        | x      |        |  
+| 6-7pm     |        |        |        | x      |        | x      |        |  
+| 7-8pm     |        |        |        | x      |        | x      |        |  
+| 8-9pm     |        |        |        | x      | x      | x      |        |  
+| 9-10pm    |        |        |        | x      | x      | x      |        |  
+| 10-11pm   |        |        |        | x      | x      | x      |        |  
 
 | 6/11-6/17 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| 9am       |        |        |        | x      |        | x      |        |  
-| 10am      |        |        |        | x      |        | x      |        |  
-| 11am      |        |        |        | x      |        | x      |        |  
-| 12pm      |        |        |        |        |        | x      |        |  
-| 1pm       |        |        |        |        |        | x      |        |  
-| 2pm       |        |        |        |        |        | x      |        |  
-| 3pm       |        |        |        |        |        | x      |        |  
-| 4pm       |        |        |        |        |        | x      |        |  
-| 5pm       |        |        | x      |        |        | x      |        |  
-| 6pm       |        |        |        |        |        | x      |        |  
-| 7pm       |        |        |        |        |        | x      |        |  
-| 8pm       |        |        |        |        |        | x      |        |  
-| 9pm       |        |        |        |        |        | x      |        |  
-| 10pm      |        |        |        |        |        | x      |        |  
+| 9-10am    |        |        |        | x      |        | x      |        |  
+| 10-11am   |        |        |        | x      |        | x      |        |  
+| 11am-12pm |        |        |        | x      |        | x      |        |  
+| 12-1pm    |        |        |        |        |        | x      |        |  
+| 1-2pm     |        |        |        |        |        | x      |        |  
+| 2-3pm     |        |        |        |        |        | x      |        |  
+| 3-4pm     |        |        |        |        |        | x      |        |  
+| 4-5pm     |        |        |        |        |        | x      |        |  
+| 5-6pm     |        |        | x      |        |        | x      |        |  
+| 6-7pm     |        |        |        |        |        | x      |        |  
+| 7-8pm     |        |        |        |        |        | x      |        |  
+| 8-9pm     |        |        |        |        |        | x      |        |  
+| 9-10pm    |        |        |        |        |        | x      |        |  
+| 10-11pm   |        |        |        |        |        | x      |        |  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
