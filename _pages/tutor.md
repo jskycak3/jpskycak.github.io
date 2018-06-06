@@ -5,7 +5,7 @@ permalink: /tutor/
 author_profile: true
 ---
 
-<b>[Bio](#bio)</b> <font color="blue"><b><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a> <a href="http://www.jpskycak.com/tutor/#availability">Availability</a> <a href="http://www.jpskycak.com/tutor/#experience">Experience</a> <a href="http://www.jpskycak.com/tutor/#Education">Education</a> <a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></b></font>  
+<b>[Bio](#bio)</b> <font color="blue"><b><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a> <a href="http://www.jpskycak.com/tutor/#availability">Availability</a> <a href="http://www.jpskycak.com/tutor/#experience">Experience</a> <a href="http://www.jpskycak.com/tutor/#education">Education</a> <a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></b></font>  
 
 I've tutored hundreds of students for thousands of hours. Because I tailor each lesson to the learning style and personal interests of the student, my students not only excel in their classes and tests, but also understand and connect with the subject matter. For example:
 <ul><li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">Here</a></font> is a lesson I made for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>, and needed to understand the math and physics behind an egg drop experiment.</li>  
