@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Math Tutoring</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/tutor/#bio">Bio</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#availability">Availability</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#experience">Experience</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#education">Education</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></font></b></center>
+<center><font color="blue"><a href="http://www.jpskycak.com/tutor/#bio">Bio</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#specialties">Specialties</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#availability">Availability</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#experience">Experience</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#education">Education</a></font> • <font color="blue"><a href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></font></center>
 
 ## [Bio](#bio) <span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
 
