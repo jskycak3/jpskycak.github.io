@@ -4,10 +4,11 @@ title: "Research Projects"
 permalink: /research/
 author_profile: true
 --- 
+<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected Projects</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font></b></center>
 
-I've done research in physics, neuroscience, math, and business.
+## [Selected Projects](#selected)
 
-<b>[Selected Projects](#selected)</b>
+I've done research in physics, neuroscience, math, and business. Here are some of my favorites!
 
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
@@ -15,13 +16,13 @@ I've done research in physics, neuroscience, math, and business.
 
 ---
 
-<b>[Master's Research (2018-2020)](#masters)</b>
+## [Master's Research (2018-2020)](#masters)
 
 I'm doing a master's through Georgia Tech. Classes/projects begin in August 2018!  I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
 
-<b>[Data Science Consulting (2016-2018)](#industry)</b>
+## [Data Science Consulting (2016-2018)](#consulting)
 
-As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a nearby company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
+As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
 
 2018 | <font color="green">360Giving Challenge</font> | Classified grants into high-level themes based on titles and descriptions, and used animated scatter plots to show which donors funded which themes throughout the years. <font color="blue"><a href="https://jpskycak.github.io/360Giving-Challenge">(site)</a></font>  
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
@@ -29,7 +30,7 @@ As an upperclassman at Notre Dame, I also worked full-time as a data scientist a
 2016 | <font color="green">Aunalytics</font> | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 
-<b>[Undergraduate Research (2013-2016)](#undergrad)</b>
+## [Undergraduate Research (2013-2016)](#undergrad)
 
 I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
