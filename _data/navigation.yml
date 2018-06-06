@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Research Projects"
+  - title: "Research"
     url: /research/
     
   - title: "Math Tutoring"
     url: /tutor/
     
-  - title: "Music Projects"
+  - title: "Music"
     url: /music/
     
   #- title: "Publications"
