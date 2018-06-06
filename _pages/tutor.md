@@ -22,7 +22,7 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 I also offer enrichment for curious, advanced students who find joy in math.  
 
-<span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Specialties](#specialties)
 
@@ -31,7 +31,7 @@ I also offer enrichment for curious, advanced students who find joy in math.
  | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
  | <font color="green">Instruction Formats</font> | One-on-one, group, classroom  
  
-<span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Availability](#availability)
 
@@ -55,7 +55,7 @@ Here is my availability for the next few weeks -- an "a" means I am available du
 | Afternoon (12-5) | a      | a      |        |        | a      |        | a      |  
 | Evening (5-10)   | a      | a      |        |        | a      |        | a      |  
 
-<span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Experience](#experience)
 
@@ -66,14 +66,14 @@ Sept 2017 - Present | <font color="green">Study.com</font> | ~ 300 hours (1500 s
 Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 2,500 hours (300 students) | Group / one-on-one tutoring in math  (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II)
 June 2010 - Dec 2012 | <font color="green">Children's Dispensary</font> | ~ 700 hours (100 kids) | Group supervision / teaching / activities  
 
-<span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Education](#education)
 
  | <font color="green">MS</font> | Computer Science | <font color="green">Georgia Institute of Technology</font> | 2018-2020 (in progress) | Specialization in Machine Learning  
  | <font color="green">BS</font> | Mathematics | <font color="green">University of Notre Dame</font> | 2014-2018 | Honors thesis on Topological Data Analysis  
  
-<span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Reviews](#reviews)
 
@@ -81,4 +81,4 @@ June 2010 - Dec 2012 | <font color="green">Children's Dispensary</font> | ~ 700 
  | <font color="green">Sara D.</font> | Calculus I/II | Justin clearly illustrates mathematical concepts while working through examples with his students. He is flexible and available, intelligent and understanding, and teaches new material by extending concepts and examples that are already familiar. Justin’s services helped me excel in calculus at the university level, and I would highly recommend his services to anyone struggling with math!   
  | <font color="green">Neal P.</font> | AP Calculus AB/BC | Justin was my math tutor for a year during the time I took AP calculus AB. I found the subject very hard even though I had lots of math background. Justin did a fantastic job of taking the complicated concepts I struggled with in calculus and made them simple. He used a lot of visual examples to help me not just understand the certain question I was doing, but also help me visualize the entire concept which in turn helped me do really well on the tests. Justin also was very focused even when I got frustrated, and he had many tricks up his sleeve to ensure that I knew what I was doing for the next test or homework assignment I had. He also kept it really fun during my tutoring sessions which made learning from him a completely enjoyable experience.  
 
-<span style="font-weight:normal;"><font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font></span>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
