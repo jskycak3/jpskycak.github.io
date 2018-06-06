@@ -25,25 +25,25 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 <b>Availability</b>
 
-Contact me at jpskycak@gmail.com to schedule a session. Here is my availability for the next few weeks:
+Contact me at jpskycak@gmail.com to schedule a session. Here is my availability for the next few weeks. An "a" means I am available during that time slot.
 
 | 6/4-6/11         | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | open | x | x | x | open | x | open |  
-| Afternoon (12-5) | open | x | x | x | open | x | open |  
-| Evening (5-10)   | open | x | x | x | open | x | open |  
+| Morning (9-12)   | a      |        |        |        | a      |        | a      |  
+| Afternoon (12-5) | a      |        |        |        | a      |        | a      |  
+| Evening (5-10)   | a      |        |        |        | a      |        | a      |  
 
 | 6/12-6/19        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | open   | open   | x      | open   | open   | x      | open   |  
-| Afternoon (12-5) | open   | open   | x      | open   | open   | x      | open   |  
-| Evening (5-10)   | open   | open   | x      | open   | open   | x      | open   |  
+| Morning (9-12)   | a      | a      |        |        | a      |        | a      |  
+| Afternoon (12-5) | a      | a      |        |        | a      |        | a      |  
+| Evening (5-10)   | a      | a      |        |        | a      |        | a      |  
 
 | 6/13-6/20        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | open   | open   | x      | open   | open   | x      | open   |  
-| Afternoon (12-5) | open   | open   | x      | open   | open   | x      | open   |  
-| Evening (5-10)   | open   | open   | x      | open   | open   | x      | open   |  
+| Morning (9-12)   | a      | a      |        |        | a      |        | a      |  
+| Afternoon (12-5) | a      | a      |        |        | a      |        | a      |  
+| Evening (5-10)   | a      | a      |        |        | a      |        | a      |  
 
 <b>Experience</b>
 
