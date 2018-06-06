@@ -29,9 +29,9 @@ Contact me at jpskycak@gmail.com to schedule a session. Here is my availability 
 
 | 6/4-6/11         | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| Morning (9-12)   | open   | x      | x      | x      | open   | x      | open   |  
-| Afternoon (12-5) | open   | x      | x      | x      | open   | x      | open   |  
-| Evening (5-10)   | open   | x      | x      | x      | open   | x      | open   |  
+| Morning (9-12)   | open | x | x | x | open | x | open |  
+| Afternoon (12-5) | open | x | x | x | open | x | open |  
+| Evening (5-10)   | open | x | x | x | open | x | open |  
 
 | 6/12-6/19        | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | ---------------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
