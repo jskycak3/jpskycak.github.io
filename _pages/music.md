@@ -22,7 +22,8 @@ Improvisational Experiments | <font color="green">Hope</font> | <audio controls 
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Classical Crossover](#crossover)
+[](#crossover)
+## Classical Crossover
 
 <i>2018-present.</i> In progress!
 
