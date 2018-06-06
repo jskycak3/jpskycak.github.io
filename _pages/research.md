@@ -27,7 +27,7 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 
 ## [Consulting](#consulting)
 
-<i>2016-18.</i>As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
+<i>2016-18.</i> As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between production models (such as a random forest to predict customer churn), exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and R&D (topological data analysis).  
 
 2018 | <font color="green">360Giving Challenge</font> | Classified grants into high-level themes based on titles and descriptions, and used animated scatter plots to show which donors funded which themes throughout the years. <font color="blue"><a href="https://jpskycak.github.io/360Giving-Challenge">(site)</a></font>  
 2017 | <font color="green">University of Notre Dame, Aunalytics</font> | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Advisors: Mark Behrens, Dave Cieslak. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(manuscript)</a></font>  
