@@ -17,9 +17,13 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
 
+<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
+
 ## [Master's Research](#masters)
 
 <i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
+
+<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
 ## [Data Science Consulting](#consulting)
 
@@ -30,6 +34,8 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 2017 | <font color="green">Aunalytics</font> | Presented a case-study of using topological data analysis to visualize Reddit data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-reddit.pdf">(slides)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
 2016 | <font color="green">Aunalytics</font> | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
+
+<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
 ## [Undergraduate Research](#undergrad)
 
@@ -42,3 +48,5 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 2015 | <font color="green">University of Notre Dame</font> | Gave a talk presenting simulation results of how cyclic neuronal networks ought to change, under a particular theory of neural plasticity, in response to periodic stimulation. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp.pdf">(slides)</a></font>  
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
 2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. Advisor: Ilan Levine. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(poster)</a></font>  
+
+<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
