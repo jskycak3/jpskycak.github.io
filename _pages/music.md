@@ -20,9 +20,13 @@ Singles 16 | <font color="green">Come At Me</font> | <audio controls src="https:
 Singles 15 | <font color="green">Instrumental A2</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improvisational Experiments | <font color="green">Hope</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
+<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+
 ## [Classical Crossover](#crossover)
 
 <i>2018-present.</i> In progress!
+
+<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [Score for a Medieval Fantasy](#score)
 
@@ -39,6 +43,8 @@ Climax | <font color="green">Emerging from Chrysalis</font> | <audio controls sr
 Falling Action | <font color="green">Scouting</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scouting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Resolution | <font color="green">Preparations</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-preparations.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
+<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+
 ## [Singles 17](#singles17)
 
 <i>2017.</i> Made in Linux Multimedia Studio using loops from Looperman.com. For the next project, I decided to build from scratch, using single-note samples rather than slicing up loops. I also decided to organize them into a story.
@@ -51,6 +57,8 @@ Meditation | <b><font color="green">Jazzy Reflections</font></b> | <audio contro
 Meditation | <font color="green">Jazzy Trip</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jazzy_trip.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Psychedelic | <font color="green">Jungle Dance</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jungle_dance.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Psychedelic | <font color="green">Scatterbrain</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scatterbrain.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+
+<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [Singles 16](#singles16)
 
@@ -66,6 +74,8 @@ Experimental EDM | <font color="green">Bright</font> | <audio controls src="http
 Experimental EDM | <font color="green">Excitement Hairball</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-excitement_hairball.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Pop | <font color="green">The Truth About Endings</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-the_truth_about_endings.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
+<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+
 ## [Singles 15](#singles15)
 
 <i>2015.</i> Made in Audacity using original recordings. Going forward, I started using a digital audio workstation called Linux Multimedia Studio so I could introduce more instruments and get a more produced feel.
@@ -73,6 +83,8 @@ Pop | <font color="green">The Truth About Endings</font> | <audio controls src="
 Electronic | <font color="green">Instrumental A1</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A1.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <font color="green">Instrumental A3</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A3.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+
+<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [Improvisational Experiments](#improv)
 
@@ -88,6 +100,8 @@ Improv Pattern | <font color="green">Instability</font> | <audio controls src="h
 Improv Pattern + Vocal | <font color="green">Waiting</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-waiting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv Pattern + Vocal | <font color="green">Confusion</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-confusion.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
+<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+
 ## [Covers](#cover)
 
 <i>2014.</i> Raw recordings. There's one original -- I forced myself to give songwriting a shot, and the result was a weird story about love, relativity, and fate. In the next project, I decided to focus on sound rather than lyrics.
@@ -96,3 +110,5 @@ Iron and Wine (orig. The Postal Service) | <b><font color="green">Such Great Hei
 Iron and Wine | <font color="green">Love Vigilantes</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_vigilantees.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 The White Stripes | <font color="green">Love Interruption</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_interruption.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Original | <font color="green">The Time Traveler</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-the_time_traveler.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+
+<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
