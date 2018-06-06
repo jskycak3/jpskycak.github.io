@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Music</center>](#top)
 
-<center><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">Classical Crossover</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score">Score for a Medieval Fantasy</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles2017">Singles (2017)</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles2016">Singles (2016)</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles2015">Singles (2015)</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv">Improvisational Experiments</a> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers">Covers</a></font></font></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">Classical Crossover</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score">Score for a Medieval Fantasy</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles2017">Singles (2017)</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles2016">Singles (2016)</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles2015">Singles (2015)</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv">Improvisational Experiments</a> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers">Covers</a></font></font></b></center>
 
 ## [Selected](#selected)
 
