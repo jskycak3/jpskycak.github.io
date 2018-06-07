@@ -22,7 +22,7 @@ Improvisational Experiments | <font color="green">Hope</font> | <audio controls 
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Crossover](#crossover)
+## [ClassicCrossover](#crossover)
 
 <i>2018-present.</i> In progress!
 
@@ -86,7 +86,7 @@ Electronic | <font color="green">Instrumental A3</font> | <audio controls src="h
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [ImprovisationalExperiments](#improv)
+## [ImprovExperiments](#improv)
 
 <i>2015.</i> Raw recordings using a looper. Going forward, I cut out vocals, tried to tame the experiments into songs, and used Audacity to give a more produced feel.
 
