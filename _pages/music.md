@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Music</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">Classical Crossover</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score">Score for a Medieval Fantasy</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv">Improvisational Experiments</a> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers">Covers</a></font></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">ClassicalCrossover</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score">ScoreForAMedievalFantasy</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv">ImprovisationalExperiments</a> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers">Covers</a></font></font></b></center>
 
 ## [Selected](#selected)
 
@@ -22,13 +22,13 @@ Improvisational Experiments | <font color="green">Hope</font> | <audio controls 
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Classical-Crossover](#crossover)
+## [ClassicalCrossover](#crossover)
 
 <i>2018-present.</i> In progress!
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Score-for-a-Medieval-Fantasy](#score)
+## [ScoreForAMedievalFantasy](#score)
 
 <i>2016-17.</i> Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra (with the exception of a fireplace crackling loop in <i>Fairytale Blacksmith</i> and a vocal loop in <i>Loss</i>). In the next project, I wanted to include more familiar sounds, so I made instrumental versions of popular songs.
 
@@ -86,7 +86,7 @@ Electronic | <font color="green">Instrumental A3</font> | <audio controls src="h
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Improvisational-Experiments](#improv)
+## [ImprovisationalExperiments](#improv)
 
 <i>2015.</i> Raw recordings using a looper. Going forward, I cut out vocals, tried to tame the experiments into songs, and used Audacity to give a more produced feel.
 
