@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Research</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <font color="blue"><a href="http://www.jpskycak.com/research/#highschool">HighSchool</a></font></b></center>
 
 ## [Selected](#selected)
 
@@ -39,7 +39,7 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 
 ## [Undergrad](#undergrad)
 
-<i>2013-16.</i> I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
+<i>2014-16.</i> As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
 2016 | <font color="green">University of Notre Dame</font> | Began laying mathematical foundations for previous neural simulation results. Solved a special case, but the project was cut short once I began working as a data scientist. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp2.pdf">(unfinished writeup)</a></font>  
 2016 | <font color="green">University of Notre Dame</font> | Gave a talk extending neural simulation results of 2015 to gain intuition for the more general case. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp1.pdf">(slides)</a></font>  
@@ -47,6 +47,13 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 2015 | <font color="green">Los Alamos National Lab</font> | Implemented spiking neurons in a deep neural network, in attempt to emulate brain waves. Advisor: Garrett Kenyon. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-lanl.pdf">(work summary)</a></font>  
 2015 | <font color="green">University of Notre Dame</font> | Conducted numerical experiments on an open problem in mathematics. Advisor: Jeff Diller. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-scientia.pdf">(article)</a></font>  
 2015 | <font color="green">University of Notre Dame</font> | Gave a talk presenting simulation results of how cyclic neuronal networks ought to change, under a particular theory of neural plasticity, in response to periodic stimulation. Advisor: Dervis Can Vural. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp.pdf">(slides)</a></font>  
+
+<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
+
+## [HighSchool](#highschool)
+
+<i>2013-14.</i> I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame.  
+
 2014 | <font color="green">University of Notre Dame</font> | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. Advisors: Dan Karmgard, Mark Vigneault. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
 2013 | <font color="green">Indiana University South Bend</font> | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. Advisor: Ilan Levine. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(poster)</a></font>  
 
