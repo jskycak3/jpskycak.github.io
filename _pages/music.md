@@ -22,13 +22,13 @@ Improvisational Experiments | <font color="green">Hope</font> | <audio controls 
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [ClassicalCrossover](#crossover)
+## [Crossover](#crossover)
 
 <i>2018-present.</i> In progress!
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [ScoreForAMedievalFantasy](#score)
+## [Score](#score)
 
 <i>2016-17.</i> Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra (with the exception of a fireplace crackling loop in <i>Fairytale Blacksmith</i> and a vocal loop in <i>Loss</i>). In the next project, I wanted to include more familiar sounds, so I made instrumental versions of popular songs.
 
