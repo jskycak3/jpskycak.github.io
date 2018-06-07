@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Research</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#highschool">HighSchool</a></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#precollege">Precollege</a></font></b></center>
 
 ## [Selected](#selected)
 
@@ -50,7 +50,7 @@ I've done research in physics, neuroscience, math, and business. Here are some o
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
-## [HighSchool](#highschool)
+## [Precollege](#precollege)
 
 <i>2013-14.</i> I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame.  
 
