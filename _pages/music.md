@@ -7,28 +7,28 @@ author_profile: true
 
 # [<center>Music</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">ClassicalCrossover</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score">ScoreForAMedievalFantasy</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv">ImprovisationalExperiments</a> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers">Covers</a></font></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">Singles18</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score17">Score17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv15">Improv15</a> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers14">Covers14</a></font></font></b></center>
 
 ## [Selected](#selected)
 
 I produce music for fun. The tracks I'm most proud of in each project are in bold. Here are some of my favorites!
 
-Score for a Medieval Fantasy | <font color="green">Freezing to Death</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-freezing_to_death.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Score for a Medieval Fantasy | <font color="green">Wanderlust</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-wanderlust.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Singles 17 | <font color="green">Unlike Me - Kate Havnevik (remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Singles 16 | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Singles 15 | <font color="green">Instrumental A2</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-Improvisational Experiments | <font color="green">Hope</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Score17 | <font color="green">Freezing to Death</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-freezing_to_death.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Score17 | <font color="green">Wanderlust</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-wanderlust.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Singles17 | <font color="green">Unlike Me - Kate Havnevik (remix)</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-unlike_me_remix.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Singles16 | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Singles15 | <font color="green">Instrumental A2</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
+Improv15 | <font color="green">Hope</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [ClassicCrossover](#crossover)
+## [Singles18](#singles18)
 
 <i>2018-present.</i> In progress!
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Score](#score)
+## [Score17](#score17)
 
 <i>2016-17.</i> Made in Linux Multimedia Studio using single-note samples from the Philharmonic Orchestra (with the exception of a fireplace crackling loop in <i>Fairytale Blacksmith</i> and a vocal loop in <i>Loss</i>). In the next project, I wanted to include more familiar sounds, so I made instrumental versions of popular songs.
 
@@ -86,7 +86,7 @@ Electronic | <font color="green">Instrumental A3</font> | <audio controls src="h
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [improvisational experiments](#improv)
+## [Improv15](#improv15)
 
 <i>2015.</i> Raw recordings using a looper. Going forward, I cut out vocals, tried to tame the experiments into songs, and used Audacity to give a more produced feel.
 
@@ -102,7 +102,7 @@ Improv Pattern + Vocal | <font color="green">Confusion</font> | <audio controls 
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [Covers](#cover)
+## [Covers14](#covers14)
 
 <i>2014.</i> Raw recordings. There's one original -- I forced myself to give songwriting a shot, and the result was a weird story about love, relativity, and fate. In the next project, I decided to focus on sound rather than lyrics.
 
