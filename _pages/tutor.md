@@ -62,14 +62,14 @@ Here is my availability for this week, next week, and the week after. I am avail
 | 12-1pm    | x      |        | x      | x      | x      | x      |        |  
 | 1-2pm     |        | x      |        | x      |        | x      |        |  
 | 2-3pm     |        | x      |        | x      |        | x      |        |  
-| 3-4pm     |        |        |        | x      |        | x      |        |  
-| 4-5pm     |        |        |        | x      |        | x      |        |  
-| 5-6pm     |        |        | x      | x      |        | x      |        |  
-| 6-7pm     |        |        |        | x      |        | x      | x      |  
-| 7-8pm     |        |        |        | x      |        | x      | x      |  
-| 8-9pm     |        |        |        | x      | x      | x      | x      |  
-| 9-10pm    |        |        |        | x      | x      | x      | x      |  
-| 10-11pm   |        |        |        | x      | x      | x      | x      |  
+| 3-4pm     |        |        |        |        |        | x      |        |  
+| 4-5pm     |        |        |        |        |        | x      |        |  
+| 5-6pm     |        |        | x      |        |        | x      |        |  
+| 6-7pm     |        |        |        |        |        | x      | x      |  
+| 7-8pm     |        |        |        |        |        | x      | x      |  
+| 8-9pm     |        |        |        |        | x      | x      | x      |  
+| 9-10pm    |        |        |        |        | x      | x      | x      |  
+| 10-11pm   |        |        |        |        | x      | x      | x      |  
 
 | 6/18-6/25 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
