@@ -37,23 +37,6 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 Here is my availability for this week, next week, and the week after. I am available during any empty time slot (an "x" means I am unavailable during that slot). You can contact me at jpskycak@gmail.com to schedule a session.  
 
-| 6/4-6/10  | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
-| --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| 9-10am    |        |        |        | x      |        | x      |        |  
-| 10-11am   |        |        |        | x      |        | x      |        |  
-| 11am-12pm |        |        |        | x      |        | x      |        |  
-| 12-1pm    |        |        |        | x      |        | x      |        |  
-| 1-2pm     |        | x      |        | x      |        | x      |        |  
-| 2-3pm     |        | x      |        | x      |        | x      |        |  
-| 3-4pm     |        |        |        | x      |        | x      |        |  
-| 4-5pm     |        |        |        | x      |        | x      |        |  
-| 5-6pm     |        |        | x      | x      |        | x      |        |  
-| 6-7pm     |        |        |        | x      |        | x      | x      |  
-| 7-8pm     |        |        |        | x      |        | x      | x      |  
-| 8-9pm     |        |        |        | x      | x      | x      | x      |  
-| 9-10pm    |        |        |        | x      | x      | x      | x      |  
-| 10-11pm   |        |        |        | x      | x      | x      | x      |  
-
 | 6/11-6/17 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
 | 9-10am    |        |        | x      | x      |        | x      |        |  
@@ -71,7 +54,7 @@ Here is my availability for this week, next week, and the week after. I am avail
 | 9-10pm    |        |        | x      |        | x      | x      | x      |  
 | 10-11pm   |        |        | x      |        | x      | x      | x      |  
 
-| 6/18-6/25 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
+| 6/18-6/24 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
 | 9-10am    |        |        |        | x      |        | x      |        |  
 | 10-11am   |        |        |        | x      |        | x      |        |  
@@ -82,6 +65,23 @@ Here is my availability for this week, next week, and the week after. I am avail
 | 3-4pm     |        |        |        |        |        | x      |        |  
 | 4-5pm     | x      |        |        |        |        | x      |        |  
 | 5-6pm     | x      |        | x      |        |        | x      |        |  
+| 6-7pm     |        |        |        |        |        | x      | x      |  
+| 7-8pm     |        |        |        |        |        | x      | x      |  
+| 8-9pm     |        |        |        |        | x      | x      | x      |  
+| 9-10pm    |        |        |        |        | x      | x      | x      |  
+| 10-11pm   |        |        |        |        | x      | x      | x      |  
+
+| 6/25-7/1  | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
+| --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
+| 9-10am    |        |        |        | x      |        | x      |        |  
+| 10-11am   |        |        |        | x      |        | x      |        |  
+| 11am-12pm |        |        |        | x      |        | x      |        |  
+| 12-1pm    |        |        |        |        |        |        |        |  
+| 1-2pm     |        |        |        |        |        |        |        |  
+| 2-3pm     |        |        |        |        |        |        |        |  
+| 3-4pm     |        |        |        |        |        |        |        |  
+| 4-5pm     | x      |        |        |        |        |        |        |  
+| 5-6pm     | x      |        | x      |        |        |        |        |  
 | 6-7pm     |        |        |        |        |        | x      | x      |  
 | 7-8pm     |        |        |        |        |        | x      | x      |  
 | 8-9pm     |        |        |        |        | x      | x      | x      |  
