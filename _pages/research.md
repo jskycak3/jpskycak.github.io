@@ -23,7 +23,8 @@ I've done research in physics, neuroscience, math, and business. The projects Iâ
 
 <i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
 
-In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Learning</font> | Independent | Explained how various algorithms in supervised machine learning function and relate to each other, to an audience who is familiar with the algorithms but does not yet intuit their underlying math and see how they fit together. <font color="blue"><a href="https://docs.google.com/document/d/1zHOIYDTrnJjwUFwhhHZL6YvMKHQLf9djOsTi3CXzm2g/edit?usp=sharing">(draft)</a></font>  
+In Progress | <font color="green">Programmable Self-Assembly into Non-Simply-Connected Shapes</font> | | Improving upon the self-assembly algorithm presented by Rubenstein, Cornejo, and Nagpal in the paper <i>Programmable self-assembly in a thousand-robot swarm</i>. Extending their algorithm to work on any 1-connected shape in general, including those having holes or cutouts.  
+In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Learning</font> | | Explained how various algorithms in supervised machine learning function and relate to each other, to an audience who is familiar with the algorithms but does not yet intuit their underlying math and see how they fit together. <font color="blue"><a href="https://docs.google.com/document/d/1zHOIYDTrnJjwUFwhhHZL6YvMKHQLf9djOsTi3CXzm2g/edit?usp=sharing">(draft)</a></font>  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
