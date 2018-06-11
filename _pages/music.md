@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Music</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#crossover">Singles18</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score17">Score17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv15">Improv15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers14">Covers14</a></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score17">Score17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv15">Improv15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers14">Covers14</a></font></b></center>
 
 ## [Selected](#selected)
 
@@ -19,12 +19,6 @@ Singles17 | <font color="green">Unlike Me - Kate Havnevik (remix)</font> | <audi
 Singles16 | <font color="green">Come At Me</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-come_at_me.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Singles15 | <font color="green">Instrumental A2</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv15 | <font color="green">Hope</font> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
-
-<font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
-
-## [Singles18](#singles18)
-
-<i>2018-present.</i> In progress!
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
