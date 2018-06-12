@@ -178,7 +178,7 @@ collections:
   music:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  teach:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -198,6 +198,13 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: teach
     values:
       layout: single
       author_profile: true
@@ -233,15 +240,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      #share: true
-      #comments: true
   # _publications
   - scope:
       path: ""
