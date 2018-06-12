@@ -30,6 +30,6 @@ In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Lea
 <i>2014-18.</i> As an underclassman at Notre Dame, I made a few documents for math tutoring which you can find on my <font color="blue"><a href="https://jpskycak.github.io/tutor/#bio">tutoring page</a></font>. I also made educational articles on neuroscience and computers, which are listed below.
 
 2015 | <font color="green">Computers, for the Confused</font> | Explained the basics of how computers work, from circuitry to the internet. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-computers_confused.pdf">(article)</a></font>  
-2015 | <b><font color="green">A Single-Sentence Snapshot of the Brain</font></b> | Explained the basic functional principles of how the brain computes. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-snapshot_brain.pdf">(article)</a></font>  
+2015 | <b><font color="green">The Brain in One Sentence</font></b> | Explained the basic functional principles of how the brain computes. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-brain_sentence.pdf">(article)</a></font>  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
