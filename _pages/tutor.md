@@ -92,8 +92,8 @@ Here is my availability for this week, next week, and the week after. I am avail
 
 ## [Experience](#experience)
 
-Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~ 50 hours (5 students) | Classroom teaching and group / one-on-one tutoring in math (SAT, ACT, College Calculus I/II)  
-Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 25 hours (5 students) | One-on-one tutoring in math (GRE, CHSPE, AP Calculus AB/BC)  
+Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~ 50 hours (10 students) | Classroom teaching and group / one-on-one tutoring in math (SAT, ACT, College Calculus I/II)  
+Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 50 hours (5 students) | One-on-one tutoring in math (GRE, CHSPE, AP Calculus AB/BC)  
 Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 100 hours (20 students) | Classroom teaching and one-on-one tutoring in math (Enrichment, SAT, ACT, Geometry, Precalculus, AP Calculus AB)  
 Sept 2017 - Present | <font color="green">Study.com</font> | ~ 300 hours (1500 solutions) | Online content writing (math solutions in Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Differential Equations, Linear Algebra)  
 Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 2,500 hours (300 students) | Group / one-on-one tutoring in math  (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II)
