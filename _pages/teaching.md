@@ -58,7 +58,7 @@ In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Lea
 
 ## [Precollege](#precollege)
 
-<i>2013-14.</i> In high school, I began tutoring math and made a few lesson packets.   
+<i>2013-14.</i> In high school, I began tutoring math and made a few lesson packets of my own.   
 
 2014 | <b><font color="green">The Physics Behind an Egg Drop: A Lively Story</font></b> | I made a lesson on the physics behind an egg drop experiment, for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">(packet)</a></font>  
 
