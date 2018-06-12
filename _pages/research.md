@@ -23,7 +23,7 @@ I've done research in physics, neuroscience, math, and business. The projects Iâ
 
 <i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
 
-In Progress | <font color="green">Programmable Self-Assembly into Non-Simply-Connected Shapes</font> | | Improving upon the self-assembly algorithm presented by Rubenstein, Cornejo, and Nagpal in the paper <i>Programmable self-assembly in a thousand-robot swarm</i>. Extending their algorithm to work on non-simply-connected shapes, i.e. those having holes or cutouts.  
+In Progress | <font color="green">Programmable Self-Assembly into Non-Simply-Connected 2D/3D Shapes</font> | | Improving upon the 2D self-assembly algorithm presented by Rubenstein, Cornejo, and Nagpal in the paper <i>Programmable self-assembly in a thousand-robot swarm</i>. Extending their algorithm to work on non-simply-connected shapes of 2 or 3 dimensions.  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
