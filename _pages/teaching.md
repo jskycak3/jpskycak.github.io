@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Teaching</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/teaching/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teaching/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teaching/#undergrad">Undergrad</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teaching/#precollege">Precollege</a></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/teaching/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teaching/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teaching/#undergrad">Undergrad</a></font></b></center>
 
 ## [Selected](#selected)
 
@@ -47,7 +47,7 @@ In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Lea
 
 <i>2014-17.</i> As an underclassman at Notre Dame, I made a few documents for math tutoring which you can find on my <font color="blue"><a href="https://jpskycak.github.io/tutoring/#bio">tutoring page</a></font>. I also made educational articles on neuroscience and computers, which are listed below.
 
-2015 | <b><font color="green">Computers, for the Confused</font></b> | Compiled some applications to connect calculus to the real world -- not only science, technology, and engineering; but also history, philosophy, business, art, and athletics! <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-computers_confused.pdf">(article)</a></font>  
-2015 | <b><font color="green">A Single-Sentence Snapshot of the Brain</font></b> | Made a primer which focuses on building intuition behind core concepts in calculus. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-snapshot_brain.pdf">(article)</a></font>  
+2015 | <b><font color="green">Computers, for the Confused</font></b> | Explained how computers work in simple terms, from circuitry to the internet. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-computers_confused.pdf">(article)</a></font>  
+2015 | <b><font color="green">A Single-Sentence Snapshot of the Brain</font></b> | Explained how computer. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-snapshot_brain.pdf">(article)</a></font>  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/teaching/#top">[ back to top ]</a></font>
