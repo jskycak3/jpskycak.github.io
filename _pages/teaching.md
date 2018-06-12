@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Teaching</center>](#top)
 
-<center><b><font color="blue"><font color="blue"><a href="http://www.jpskycak.com/teaching/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teaching/#undergrad">Undergrad</a></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/teaching/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teaching/#undergrad">Undergrad</a></font></b></center>
 
 ## [Master's](#masters)
 
