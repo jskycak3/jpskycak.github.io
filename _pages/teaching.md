@@ -17,7 +17,7 @@ I've done research in physics, neuroscience, math, and business. The projects Iâ
 2016 | <font color="green">Code Profiles of Activity Clusters</font> | Advisor: Dave Cieslak (Aunalytics) | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 2014 | <font color="green">Optimizing Scintillation and Light Transmission for Use in a High Energy Particle Detector</font> | Advisors: Dan Karmgard, Mark Vigneault (Notre Dame) | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
 
-<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/teaching/#top">[ back to top ]</a></font>
 
 ## [Master's](#masters)
 
@@ -26,7 +26,7 @@ I've done research in physics, neuroscience, math, and business. The projects Iâ
 In Progress | <font color="green">Programmable Self-Assembly into Non-Simply-Connected Shapes</font> | | Improving upon the self-assembly algorithm presented by Rubenstein, Cornejo, and Nagpal in the paper <i>Programmable self-assembly in a thousand-robot swarm</i>. Extending their algorithm to work on non-simply-connected shapes, i.e. those having holes or cutouts.  
 In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Learning</font> | | Explained how various algorithms in supervised machine learning function and relate to each other, to an audience who is familiar with the algorithms but does not yet intuit their underlying math and see how they fit together. <font color="blue"><a href="https://docs.google.com/document/d/1zHOIYDTrnJjwUFwhhHZL6YvMKHQLf9djOsTi3CXzm2g/edit?usp=sharing">(draft)</a></font>  
 
-<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/teaching/#top">[ back to top ]</a></font>
 
 ## [Consulting](#consulting)
 
@@ -41,7 +41,7 @@ In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Lea
 2016 | <font color="green">Topological Data Analysis: Theory, Practice, Software, and Potential</font> | Independent R&D at Aunalytics | Gave a talk explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">(slides)</a></font>  
 2016 | <b><font color="green">Code Profiles of Activity Clusters</font></b> | Advisor: Dave Cieslak (Aunalytics) | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
 
-<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/teaching/#top">[ back to top ]</a></font>
 
 ## [Undergrad](#undergrad)
 
@@ -54,13 +54,12 @@ In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Lea
 2015 | <b><font color="green">Numerical Investigation of the 3n+1 Problem and its Continuous Extension</font></b> | Advisor: Jeff Diller (Notre Dame) | Conducted numerical experiments on an open problem in mathematics. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-scientia.pdf">(article)</a></font>  
 2015 | <font color="green">Network Motif-Inspired Evolution of Hodgkin-Huxley Neuronal Networks with Spike-Timing Dependent Plasticity</font> | Advisor: Dervis Can Vural (Notre Dame) | Gave a talk presenting simulation results of how cyclic neuronal networks ought to change, under a particular theory of neural plasticity, in response to periodic stimulation. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp.pdf">(slides)</a></font>  
 
-<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/teaching/#top">[ back to top ]</a></font>
 
 ## [Precollege](#precollege)
 
-<i>2013-14.</i> I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame.  
+<i>2013-14.</i> In high school, I began tutoring math and made a few lesson packets.   
 
-2014 | <b><font color="green">Optimizing Scintillation and Light Transmission for Use in a High Energy Particle Detector</font></b> | Advisors: Dan Karmgard, Mark Vigneault (Notre Dame) | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
-2013 | <font color="green">Making a Matching Layer for Acoustic Sensors for a COUPP Dark Matter Detector</font> | Advisor: Ilan Levine (IU South Bend) | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(poster)</a></font>  
+2014 | <b><font color="green">The Physics Behind an Egg Drop: A Lively Story</font></b> | I made a lesson on the physics behind an egg drop experiment, for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">(packet)</a></font>  
 
-<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
+<font size="1" color="blue"><a href="http://www.jpskycak.com/teaching/#top">[ back to top ]</a></font>
