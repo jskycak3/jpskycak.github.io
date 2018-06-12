@@ -45,7 +45,7 @@ In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Lea
 
 ## [Undergrad](#undergrad)
 
-<i>2014-16.</i> As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
+<i>2014-18.</i> As an underclassman at Notre Dame, I used simulation and numerical methods to explore problems in neuroscience and math.  
 
 2016 | <b><font color="green">Topological Consequences of STDP in Neuronal Networks</font></b> | Advisor: Dervis Can Vural (Notre Dame) | Began laying mathematical foundations for previous neural simulation results. Solved a few special cases, but the project was cut short once I began working as a data scientist. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp2.pdf">(unfinished writeup)</a></font>  
 2016 | <font color="green">On the Effectiveness of Social Distancing Advice During Epidemics</font> | Course Instructor: Vijay Gupta (Notre Dame) | For a final project, used game theory to analyze the effectiveness of social distancing advice in epidemics. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(writeup)</a></font>  
