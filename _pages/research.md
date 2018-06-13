@@ -21,7 +21,7 @@ I've done research in physics, neuroscience, math, and business. The projects Iâ
 
 ## [Master's](#masters)
 
-<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD and move towards data science research / teaching in academia.  
+<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science in industry, or take on a PhD in computational biology.  
 
 In Progress | <font color="green">Programmable Self-Assembly into Any Shape of 2 or 3 Dimensions</font> | | Extending the self-assembly algorithm presented by Rubenstein et al. in the paper <i>Programmable self-assembly in a thousand-robot swarm</i>.    
 
