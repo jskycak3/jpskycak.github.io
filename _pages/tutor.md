@@ -16,7 +16,7 @@ I've tutored hundreds of students for thousands of hours. Because I tailor each 
 <li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_primer.pdf">An Intuitive Primer on Calculus</a></font> - an introductory lesson to build intuition behind core concepts in calculus.</li>  
 <li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_connections.pdf">Connecting Calculus to the Real World</a></font> - a compilation of connections between calculus and not only science, technology, and engineering; but also history, philosophy, business, art, and athletics!</li></ul></font>  
 
-In addition to presenting the subject matter in an interesting way, I also maintain a comfortable learning environment where my students can learn to overcome problems without feeling embarrassed. My first part-time job was as a counselor at Children's Dispensary, a program for undernourished and special-needs kids, where I often had to calm children prone to explosive behavior (e.g. violence, screaming, running away) and assist those prone to hygiene issues.
+In addition to presenting the subject matter in an interesting way, I also maintain a comfortable learning environment where my students can learn to overcome problems without feeling embarrassed. This is especially important for students whose challenges are emotional as well as academic. My first part-time job was as a counselor at Children's Dispensary, a program for undernourished and special-needs kids, where I often had to calm children prone to explosive behavior (e.g. violence, screaming, running away) and assist those prone to hygiene issues.
 
 <font size="2"><ul style="list-style-type:none"><li><details><summary>Click the triangle to see a photo slideshow I put together for one of CD's holiday programs!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul></font>  
 
@@ -57,7 +57,7 @@ Here is my availability for this week, next week, and the week after. I am avail
 | 6/18-6/24 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
 | 9-10am    |        |        |        | x      |        | x      |        |  
-| 10-11am   | x      |        |        | x      |        | x      |        |  
+| 10-11am   |        | x      |        | x      |        | x      |        |  
 | 11am-12pm |        |        |        | x      |        | x      |        |  
 | 12-1pm    |        |        |        |        |        | x      |        |  
 | 1-2pm     |        |        |        |        |        | x      |        |  
