@@ -7,15 +7,7 @@ author_profile: true
 
 # [<center>Teaching</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/teach/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teach/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teach/#undergrad">Undergrad</a></font></b></center>
-
-## [Selected](#selected)
-
-The teaching projects I’m most proud of in each phase are in bold. Here are some of my favorites!
-
-2015 | <font color="green">A Single-Sentence Snapshot of the Brain</font> | Explained the basic functional principles of how the brain computes. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-snapshot_brain.pdf">(article)</a></font>  
-
-<font size="1" color="blue"><a href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/teach/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/teach/#undergrad">Undergrad</a></font></b></center>
 
 ## [Master's](#masters)
 
