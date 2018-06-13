@@ -29,7 +29,7 @@ I also offer enrichment for curious, advanced students who find joy in math.
  | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
  | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
  | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
- | <font color="green">Instruction Formats</font> | One-on-one, group, classroom  
+ | <font color="green">Instruction Formats</font> | One-on-one, group (up to 5)  
  
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
