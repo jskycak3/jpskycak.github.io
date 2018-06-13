@@ -57,8 +57,8 @@ Here is my availability for this week, next week, and the week after. I am avail
 | 6/18-6/24 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
 | --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
 | 9-10am    |        |        |        | x      |        | x      |        |  
-| 10-11am   |        |        | x      | x      |        | x      |        |  
-| 11am-12pm |        |        |        | x      |        | x      |        |  
+| 10-11am   |        |        |        | x      |        | x      |        |  
+| 11am-12pm |        |        | x      | x      |        | x      |        |  
 | 12-1pm    |        |        |        |        |        | x      |        |  
 | 1-2pm     |        |        |        |        |        | x      |        |  
 | 2-3pm     |        |        |        |        |        | x      |        |  
