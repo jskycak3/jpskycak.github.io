@@ -7,17 +7,9 @@ author_profile: true
 
 # [<center>Research</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#precollege">Precollege</a></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font> • <font color="blue"><a href="http://www.jpskycak.com/research/#precollege">Precollege</a></font></b></center>
 
-## [Selected](#selected)
-
-I've done research in physics, neuroscience, math, and business. The projects I’m most proud of in each phase are in bold. Here are some of my favorites!
-
-2017 | <b><font color="green">The Data Scientist's Guide to Topological Data Analysis</font></b> | Advisors: Mark Behrens (Notre Dame), Dave Cieslak (Aunalytics) | Wrote an honors bachelor's thesis explaining the basic theory behind topological data analysis and demonstrating its applications in visualizing high-dimensional data. Gave a talk for the honors program. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">(thesis)</a></font> <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-tdathesis_talk.pdf">(slides)</a></font>  
-2016 | <font color="green">Code Profiles of Activity Clusters</font> | Advisor: Dave Cieslak (Aunalytics) | Generated a hierarchical clustering visualization of consumer service usage for a banking client, which led to the discovery of a sales funnel. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">(slide)</a></font>  
-2014 | <font color="green">Optimizing Scintillation and Light Transmission for Use in a High Energy Particle Detector</font> | Advisors: Dan Karmgard, Mark Vigneault (Notre Dame) | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
-
-<font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
+I've done research in physics, math, neuroscience, and business. The projects I’m most proud of are in bold.
 
 ## [Master's](#masters)
 
