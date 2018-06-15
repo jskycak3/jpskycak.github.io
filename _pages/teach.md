@@ -22,7 +22,7 @@ In Progress | <font color="green">Intuiting Algorithms in Supervised Machine Lea
 <i>2014-18.</i> As an underclassman at Notre Dame, I made packets for math tutoring and wrote articles on the basics of neuroscience and computers.
 
 
-2017 | <font color="green">Connecting Calculus to the Real World</font> | Showed how calculus connects to not only science, technology, and engineering; but also history, philosophy, business, art, and athletics. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_connections.pdf">(packet)</a></font>  
+2017 | <font color="green">Connecting Calculus to the Real World</font> | Showed how calculus connects not only to science, technology, and engineering; but also to history, philosophy, business, art, and athletics. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_connections.pdf">(packet)</a></font>  
 2017 | <font color="green">An Intuitive Primer on Calculus</font> | Wrote an introductory lesson to build intuition behind core concepts in calculus. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_primer.pdf">(packet)</a></font>  
 2015 | <font color="green">Computers, for the Confused</font> | Explained the basics of how computers work, from circuitry to the internet. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-computers_confused.pdf">(article)</a></font>  
 2015 | <font color="green">The Brain in One Sentence</font> | Explained the basic functional principles of how the brain computes. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-brain_sentence.pdf">(article)</a></font>  
