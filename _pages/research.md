@@ -15,7 +15,7 @@ I've done research in physics, math, neuroscience, and business. The projects Iâ
 
 <i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether I want to return to data science or take on a PhD (likely in computational biology).  
 
-In Progress | <b><font color="green">Topological Consequences of STDP in Neuronal Networks</font></b> | |  </font>  
+In Progress | <b><font color="green">Connectivity Dynamics in STDP Neuronal Networks</font></b> | | Understanding how a neural network's connectivity changes in response to periodic stimulation. </font>  
 In Progress | <font color="green">Modeling Programmable Self-Assembly with Cellular Automata</font> | | Implementing a robot swarm self-assembly algorithm using cellular automata.  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
