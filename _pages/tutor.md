@@ -34,7 +34,7 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 ## [Availability](#availability)
 
-Here is my availability for this week, next week, and the week after. I am available during any empty time slot (an "x" means I am unavailable during that slot). You can contact me at jpskycak@gmail.com to schedule a session.  
+Here is my availability for this week, next week, and the week after. You can contact me at jpskycak@gmail.com to schedule a session.  
 
 |           | Mon        | Tue      | Wed      | Thu         | Fri     | Sat         | Sun     |  
 | --------- |: -------- :|: ------ :|: ------ :|: --------- :|: ----- :|: --------- :|: ----- :|  
