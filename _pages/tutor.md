@@ -36,14 +36,16 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 Here is my availability for this week, next week, and the week after. I am available during any empty time slot (an "x" means I am unavailable during that slot). You can contact me at jpskycak@gmail.com to schedule a session.  
 
-| --------- | Mon        | Tue      | Wed      | Thu         | Fri     | Sat         | Sun     |  
+|           | Mon        | Tue      | Wed      | Thu         | Fri     | Sat         | Sun     |  
 | --------- |: -------- :|: ------ :|: ------ :|: --------- :|: ----- :|: --------- :|: ----- :|  
 | 6/18-6/24 | 9am-3:30pm | 9am-11pm | 9am-11pm | 2:30pm-11pm | 9am-6pm |             | 9am-6pm |  
-| --------- | 6:30pm-9pm |          |          |             |         |             |         |  
+|           | 6:30pm-9pm |          |          |             |         |             |         |  
+| --------- |: -------- :|: ------ :|: ------ :|: --------- :|: ----- :|: --------- :|: ----- :|  
 | 6/25-7/1  | 9am-3:30pm | 9am-11pm | 9am-11pm | 12pm-11pm   | 9am-6pm | 12:30pm-6pm | 9am-6pm |  
-| --------- | 6:30pm-9pm |          |          |             |         |             |         |  
+|           | 6:30pm-9pm |          |          |             |         |             |         |  
+| --------- |: -------- :|: ------ :|: ------ :|: --------- :|: ----- :|: --------- :|: ----- :|  
 | 7/2-7/8   | 9am-3:30pm | 9am-11pm | 9am-11pm | 12pm-11pm   | 9am-6pm | 9am-11:30am | 9am-6pm |  
-| --------- | 6:30pm-9pm |          |          |             |         | 2:30pm-6pm  |         |  
+|           | 6:30pm-9pm |          |          |             |         | 2:30pm-6pm  |         |  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
