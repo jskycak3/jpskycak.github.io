@@ -36,56 +36,14 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
 Here is my availability for this week, next week, and the week after. I am available during any empty time slot (an "x" means I am unavailable during that slot). You can contact me at jpskycak@gmail.com to schedule a session.  
 
-| 6/11-6/17 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
-| --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| 9-10am    |        |        |        | x      |        | x      |        |  
-| 10-11am   |        |        |        | x      |        | x      |        |  
-| 11am-12pm | x      |        | x      | x      | x      | x      |        |  
-| 12-1pm    | x      |        | x      |        | x      | x      |        |  
-| 1-2pm     |        | x      |        |        |        | x      |        |  
-| 2-3pm     |        | x      |        |        |        | x      |        |  
-| 3-4pm     |        |        |        |        |        | x      |        |  
-| 4-5pm     |        |        |        |        | x      | x      |        |  
-| 5-6pm     |        |        |        |        | x      | x      |        |  
-| 6-7pm     |        |        |        |        | x      | x      | x      |  
-| 7-8pm     |        |        |        |        | x      | x      | x      |  
-| 8-9pm     |        |        |        |        | x      | x      | x      |  
-| 9-10pm    |        |        |        |        | x      | x      | x      |  
-| 10-11pm   |        |        |        |        | x      | x      | x      |  
-
-| 6/18-6/24 | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
-| --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| 9-10am    |        |        |        | x      |        | x      |        |  
-| 10-11am   |        |        |        | x      |        | x      |        |  
-| 11am-12pm |        |        |        | x      |        | x      |        |  
-| 12-1pm    |        |        |        |        |        | x      |        |  
-| 1-2pm     |        |        |        | x      |        | x      |        |  
-| 2-3pm     |        |        |        |        |        | x      |        |  
-| 3-4pm     |        |        |        |        |        | x      |        |  
-| 4-5pm     | x      |        |        |        |        | x      |        |  
-| 5-6pm     | x      |        |        |        |        | x      |        |  
-| 6-7pm     |        |        |        |        |        | x      | x      |  
-| 7-8pm     |        |        |        |        |        | x      | x      |  
-| 8-9pm     |        |        |        |        | x      | x      | x      |  
-| 9-10pm    |        |        |        |        | x      | x      | x      |  
-| 10-11pm   |        |        |        |        | x      | x      | x      |  
-
-| 6/25-7/1  | Mon    | Tue    | Wed    | Thu    | Fri    | Sat    | Sun    |  
-| --------- |: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|: ---- :|  
-| 9-10am    |        |        |        | x      |        | x      |        |  
-| 10-11am   |        |        |        | x      |        | x      |        |  
-| 11am-12pm |        |        |        | x      |        | x      |        |  
-| 12-1pm    |        |        |        |        |        |        |        |  
-| 1-2pm     |        |        |        |        |        |        |        |  
-| 2-3pm     |        |        |        |        |        |        |        |  
-| 3-4pm     |        |        |        |        |        |        |        |  
-| 4-5pm     | x      |        |        |        |        |        |        |  
-| 5-6pm     | x      |        |        |        |        |        |        |  
-| 6-7pm     |        |        |        |        |        | x      | x      |  
-| 7-8pm     |        |        |        |        |        | x      | x      |  
-| 8-9pm     |        |        |        |        | x      | x      | x      |  
-| 9-10pm    |        |        |        |        | x      | x      | x      |  
-| 10-11pm   |        |        |        |        | x      | x      | x      |  
+| --------- | Mon        | Tue      | Wed      | Thu         | Fri     | Sat         | Sun     |  
+| --------- |: -------- :|: ------ :|: ------ :|: --------- :|: ----- :|: --------- :|: ----- :|  
+| 6/18-6/24 | 9am-3:30pm | 9am-11pm | 9am-11pm | 2:30pm-11pm | 9am-6pm |             | 9am-6pm |  
+| --------- | 6:30pm-9pm |          |          |             |         |             |         |  
+| 6/25-7/1  | 9am-3:30pm | 9am-11pm | 9am-11pm | 12pm-11pm   | 9am-6pm | 12:30pm-6pm | 9am-6pm |  
+| --------- | 6:30pm-9pm |          |          |             |         |             |         |  
+| 7/2-7/8   | 9am-3:30pm | 9am-11pm | 9am-11pm | 12pm-11pm   | 9am-6pm | 9am-11:30am | 9am-6pm |  
+| --------- | 6:30pm-9pm |          |          |             |         | 2:30pm-6pm  |         |  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
