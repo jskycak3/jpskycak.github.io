@@ -15,7 +15,7 @@ I've done research in physics, math, neuroscience, and business. The projects Iâ
 
 <i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether to return to data science or take on a PhD in computational biology.  
 
-In Progress | <font color="green">Connectivity Transitions in STDP Neuronal Networks Resulting from Periodic Stimulation</font> | | Understanding how a neural network's connectivity changes in response to periodic stimulation.  
+In Progress | <font color="green">Shaping Acyclic STDP Neural Networks with Periodic Stimulation</font> | | Understand how to stimulate a neural network to obtain a desired connectivity.  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
