@@ -27,8 +27,8 @@ I also offer enrichment for curious, advanced students who find joy in math.
 
  | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
  | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
- | <font color="green">Ages</font> | High school and college, but willing to take on highly advanced younger students  
- | <font color="green">Instruction Formats</font> | One-on-one private sessions, group tutorials   
+ | <font color="green">Grades</font> | High school juniors/seniors and undergrads  
+ | <font color="green">Instruction Formats</font> | One-on-one private sessions  
  
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
@@ -46,9 +46,9 @@ Here is my availability for this week, next week, and the week after. You can co
 
 ## [Experience](#experience)
 
-Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~ 50 hours (10 students) | Group tutorials and private one-on-one tutoring in math (SAT, ACT, College Calculus I/II)  
-Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 50 hours (5 students) | One-on-one tutoring in math (GRE, CHSPE, AP Calculus AB/BC)  
-Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 100 hours (20 students) | Group tutorials and private one-on-one tutoring in math (Enrichment, SAT, ACT, Geometry, Precalculus, AP Calculus AB)  
+Feb 2018 - Present | <font color="green">FLEX College Prep</font> | ~ 50 hours (10 students) | Group tutorials and one-on-one private tutoring in math (SAT, ACT, College Calculus I/II)  
+Jan 2018 - Present | <font color="green">LA Tutors 123</font> | ~ 50 hours (5 students) | One-on-one private tutoring in math (GRE, CHSPE, AP Calculus AB/BC)  
+Jan 2018 - Present | <font color="green">HBar Tutoring</font> | ~ 100 hours (20 students) | Group tutorials and one-on-one private tutoring in math (Enrichment, SAT, ACT, Geometry, Precalculus, AP Calculus AB)  
 Sept 2017 - Present | <font color="green">Study.com</font> | ~ 300 hours (1500 solutions) | Online content writing in math (solutions in Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Differential Equations, Linear Algebra)  
 Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 2,500 hours (300 students) | Group and on-on-one tutoring in math (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II)  
 June 2010 - Dec 2012 | <font color="green">Children's Dispensary</font> | ~ 700 hours (100 kids) | General supervision / activities at a camp for children and young adults with learning differences  
