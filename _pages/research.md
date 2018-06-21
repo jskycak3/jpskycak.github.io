@@ -13,7 +13,7 @@ I've done research in physics, math, neuroscience, and business. The projects Iâ
 
 ## [Master's](#masters)
 
-<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether to return to data science or take on a PhD in bioinformatics / computational biology.  
+<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether to return to data science or take on a PhD in bioinformatics.  
 
 In Progress | <font color="green">Shaping STDP Neural Networks with Periodic Stimulation, in the case of Tree Networks</font> | | Solving a special case of how to periodically stimulate a neural network to obtain a desired connectivity.  <!--<font color="blue"><a href="https://docs.google.com/document/d/1H_GI8O5sQ9xzJ0jHwKPl3yHl12YAmKaLdUk57QjJl7o/edit?usp=sharing">(draft)</a></font>-->  
 
@@ -21,7 +21,7 @@ In Progress | <font color="green">Shaping STDP Neural Networks with Periodic Sti
 
 ## [Consulting](#consulting)
 
-<i>2016-18.</i> As an upperclassman at Notre Dame, I also worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between
+<i>2016-18.</i> As an upperclassman at Notre Dame, I simultaneously worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between
 1. production models (such as a random forest to predict customer churn),
 2. exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and
 3. R&D (topological data analysis).  
@@ -36,7 +36,7 @@ In Progress | <font color="green">Shaping STDP Neural Networks with Periodic Sti
 
 ## [Undergrad](#undergrad)
 
-<i>2014-18.</i> As an undergrad at Notre Dame, my research interests shifted from pure math, to experimental math, to computational neuroscience. After my sophomore year, I left academic research to work as a data scientist at a local analytics consulting company. My industry research projects and honors bachelor's thesis are included in the <i>Consulting</i> section above.  
+<i>2014-18.</i> As an undergrad at Notre Dame, I worked on projects in math and computational neuroscience and then took a job at a local analytics consulting company. My math and computational neuroscience projects are included here, while my industry research projects and honors bachelor's thesis are included in the <i>Consulting</i> section above.  
 
 2016 | <b><font color="green">Plastic Neural Network Simulations</font></b> | Advisor: Dervis Can Vural (Notre Dame) | Found a general principle of network reorganization for random sparse neuronal networks in response to periodic stimulation. Showed that "seizure-like" activity can arise if the refractory period is sufficiently low. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-stdp_simulations.pdf">(slides)</a></font>  
 2016 | <b><font color="green">On the Effectiveness of Social Distancing Advice During Epidemics</font></b> | Course Instructor: Vijay Gupta (Notre Dame) | Used game theory to show that social distancing advice during epidemics is generally useful, and extremely useful when very few people are immune to the disease. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-gametheory.pdf">(writeup)</a></font>  
