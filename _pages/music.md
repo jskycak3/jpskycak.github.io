@@ -7,7 +7,7 @@ author_profile: true
 
 # [<center>Music</center>](#top)
 
-<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <a href="http://www.jpskycak.com/music/#h4rmonics">H4rmonics</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score17">Score17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv15">Improv15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers14">Covers14</a></font></b></center>
+<center><b><font color="blue"><a href="http://www.jpskycak.com/music/#selected">Selected</a></font> • <a href="http://www.jpskycak.com/music/#h4rmonics">h4rmonics</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#score17">Score17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles17">Singles17</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles16">Singles16</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#singles15">Singles15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#improv15">Improv15</a></font> • <font color="blue"><a href="http://www.jpskycak.com/music/#covers14">Covers14</a></font></b></center>
 
 ## [Selected](#selected)
 
@@ -22,9 +22,9 @@ Improv15 | <font color="green">Hope</font> | <audio controls src="https://jpskyc
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [H4rmonics](#h4rmonics)
+## [h4rmonics](#h4rmonics)
 
-<i>In progress </i> I'm returning to guitar, currently practicing techniques to play harmonics simultaneously with chords. We'll see what happens!  
+<i>In progress.</i> I'm returning to guitar, currently practicing techniques to play harmonics simultaneously with chords. We'll see what happens!  
 
 ## [Score17](#score17)
 
