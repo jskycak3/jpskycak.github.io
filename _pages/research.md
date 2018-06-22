@@ -13,7 +13,7 @@ I've done research in physics, math, neuroscience, and business. The projects Iâ
 
 ## [Master's](#masters)
 
-<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether to return to data science or take on a PhD in bioinformatics.  
+<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether to return to data science or take on a PhD in computational biology.  
 
 2018 | <font color="green">Shaping STDP Neural Networks with Periodic Stimulation: a Theoretical Analysis for the Case of Tree Networks</font> | Independent | Solved a special case of how to periodically stimulate a neural network to obtain a desired connectivity. <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-shaping_stdp_neural_networks_with_periodic_stimulation.pdf">(writeup)</a></font>  
 
