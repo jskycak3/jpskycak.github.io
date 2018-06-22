@@ -54,6 +54,6 @@ I've done research in physics, math, neuroscience, and business. The projects Iâ
 <i>2013-14.</i> I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame.  
 
 2014 | <b><font color="green">Optimizing Scintillation and Light Transmission for Use in a High Energy Particle Detector</font></b> | Advisors: Dan Karmgard, Mark Vigneault (Notre Dame) | Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">(poster)</a></font>  
-2013 | <font color="green">Making a Matching Layer for Acoustic Sensors for a COUPP Dark Matter Detector</font> | Advisor: Ilan Levine (IU South Bend) | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(poster)</a></font>  
+2013 | <font color="green">Making a Matching Layer for Acoustic Sensors for a COUPP Dark Matter Detector</font> | Advisor: Ilan Levine (IU South Bend) | Improved data transmission in a sound-based particle detector by creating a sound-absorbing material. <font color="blue"><a href="https://jpskycak.github.io/files/skycak-iusb-particledetector.pdf">(poster)</a></font> <details><summary>More info</summary>More info</details>  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
