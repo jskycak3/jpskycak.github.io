@@ -46,8 +46,8 @@ Here is my availability for this week, next week, and the week after. You can co
 
 ## [Experience](#experience)
 
-<b><font color="green">FLEX College Prep</font> (Feb 2018 - Present, ~ 50 hours, ~ 10 students)</b><br> Group tutorials and one-on-one private tutoring in math (SAT, ACT, College Calculus I/II).<br> <font size="2"><ul style="list-style-type:none"><li><details><br> <u>Summary:</u><br> Coming soon.</details></li></ul></font>
-
+<b><font color="green">FLEX College Prep</font> (Feb 2018 - Present, ~ 50 hours, ~ 10 students)</b><br> Group tutorials and one-on-one private tutoring in math (SAT, ACT, College Calculus I/II).<br>
+<font size="2"><ul style="list-style-type:none"><li><details><br> <u>Summary:</u><br> Coming soon.</details></li></ul></font>
  
 | <b><font color="green">FLEX College Prep</font> (Feb 2018 - Present, ~ 50 hours, ~ 10 students)</b><br> Group tutorials and one-on-one private tutoring in math (SAT, ACT, College Calculus I/II).<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
 | <b><font color="green">LA Tutors 123</font> (Jan 2018 - Present, ~ 50 hours, ~ 5 students)</b><br> One-on-one private tutoring in math (GRE, CHSPE, AP Calculus AB/BC).<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
