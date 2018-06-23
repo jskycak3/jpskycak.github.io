@@ -53,6 +53,10 @@ Sept 2017 - Present | <font color="green">Study.com</font> | ~ 300 hours (1500 s
 Mar 2013 - Dec 2017 | <font color="green">Mathnasium</font> | ~ 2,500 hours (300 students) | Group and on-on-one tutoring in math (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II)  
 June 2010 - Dec 2012 | <font color="green">Children's Dispensary</font> | ~ 700 hours (100 kids) | General supervision / activities at a camp for children and young adults with learning differences  
 
+
+| <b><font color="green">Children's Dispensary</font> (June 2010 - Dec 2012, ~ 700 hours, ~ 100 kids)</b><br> General supervision / activities at a camp for children and young adults with learning differences.<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
+
+
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Education](#education)
