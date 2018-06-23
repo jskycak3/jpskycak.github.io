@@ -13,8 +13,6 @@ I've done research in physics, math, neuroscience, and business. The projects Iâ
 
 ## [Selected](#selected)
 
-Here are the projects I'm most proud of:
-
 | <b><font color="green">â˜… The Data Scientist's Guide to Topological Data Analysis</font> (2017; <font size="2" color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-tdathesis.pdf">thesis</a>, <a href="https://jpskycak.github.io/files/skycak-aunalytics-tdathesis_talk.pdf">slides</a></font>)</b><br> Explained the basic theory behind topological data analysis and demonstrated its applications in visualizing high-dimensional data.<br> <font size="2"><details><br> <u>Advisors</u>: Mark Behrens (Notre Dame), Dave Cieslak (Aunalytics)<br><br> <u>Presented at</u>: Aunalytics tech department<br><br> <u>Summary:</u><br> Coming soon.</details></font> |  
 
 | <b><font color="green">Code Profiles of Activity Clusters</font> (2016; <font size="2" color="blue"><a href="https://jpskycak.github.io/files/skycak-aunalytics-salesfunnel.pdf">slide</a></font>)</b><br> Discovered a sales funnel for a banking client by generating a hierarchical clustering visualization of consumer service usage.<br> <font size="2"><details><br> <u>Advisor</u>: Dave Cieslak (Aunalytics)<br><br> <u>Presented at</u>: Client meeting<br><br> <u>Summary:</u><br> Coming soon.</details></font> |  
