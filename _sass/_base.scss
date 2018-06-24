@@ -5,7 +5,7 @@
 body {
   margin: 0;
   padding: 0;
-  color: $text-color;
+  color: "black"; /*$text-color;*/
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -58,7 +58,7 @@ p {
 u,
 ins {
   text-decoration: none;
-  border-bottom: 1px solid $text-color;
+  border-bottom: 1px solid "black"; /*$text-color;*/
   a {
     color: inherit;
   }
@@ -81,7 +81,7 @@ abbr[title],
 abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
-  border-bottom: 1px dotted $text-color;
+  border-bottom: 1px dotted "black"; /*$text-color;*/
 }
 
 /* blockquotes */
