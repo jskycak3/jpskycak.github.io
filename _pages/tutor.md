@@ -38,9 +38,9 @@ Here is my availability for this week, next week, and the week after. You can co
 
 |           | Mon         | Tue       | Wed      | Thu      | Fri     | Sat     | Sun     |  
 | --------- |: --------- :|: ------- :|: ------ :|: ------ :|: ----- :|: ----- :|: ----- :|  
-| 6/18-6/24 |             | 9am-11pm  | 9am-11pm |          | 9am-6pm |         | 9am-6pm |  
-| 6/25-7/1  |             |           | 9am-11pm |          | 9am-6pm |         | 9am-6pm |  
+| 6/25-7/1  |             |           |          |          | 9am-6pm |         | 9am-6pm |  
 | 7/2-7/8   |             | 9am-11pm  | 9am-11pm |          | 9am-6pm |         | 9am-6pm |  
+| 7/9-7/15  |             | 9am-11pm  | 9am-11pm |          | 9am-6pm |         | 9am-6pm |  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
