@@ -12,12 +12,12 @@ author_profile: true
 ## [Bio](#bio)
 
 I've tutored hundreds of students for thousands of hours. Because I tailor each lesson to the learning style and personal interests of the student, my students not only excel in their classes and tests, but also understand and connect with the subject matter.  
-<font size="2"><ul><li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">Here</a></font> is a lesson I made for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>, and needed to understand the math and physics behind an egg drop experiment.</li>  
+<font size="2.5"><ul><li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-ian.pdf">Here</a></font> is a lesson I made for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>, and needed to understand the math and physics behind an egg drop experiment.</li>  
 <li><font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_primer.pdf">Here</a></font> is a primer I made to introduce core concepts in calculus, and <font color="blue"><a href="https://jpskycak.github.io/files/jpskycak-calc_connections.pdf">here</a></font> is a packet I made connect the subject matter not only to science, technology, and engineering; but also to history, philosophy, business, art, and athletics.</li></ul></font>
 
 In addition to presenting the subject matter in an interesting way, I also maintain a comfortable learning environment where my students can learn to overcome problems without feeling embarrassed. This is especially important for students whose challenges are emotional as well as academic.  
 
-<font size="2"><ul style="list-style-type:none"><li><details><summary>My first part-time job was working as a counselor at a program for children and young adults with learning differences. Click the triangle to see a photo slideshow I put together for one of the holiday parties!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul></font>  
+<font size="2.5"><ul style="list-style-type:none"><li><details><summary>My first part-time job was working as a counselor at a program for children and young adults with learning differences. Click the triangle to see a photo slideshow I put together for one of the holiday parties!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul></font>  
 
 I also offer enrichment for curious, advanced students who find joy in math.  
 
