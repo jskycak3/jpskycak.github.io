@@ -46,17 +46,17 @@ Here is my availability for this week, next week, and the week after. You can co
 
 ## [Experience](#experience)
  
-| <b><font color="green">FLEX College Prep</font> (Feb 2018 - Present, ~ 50 hours, ~ 10 students)</b><br> Group tutorials and one-on-one private tutoring in math (SAT, ACT, College Calculus I/II).<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
+| <b><font color="green">FLEX College Prep</font> (Feb 2018 - Present, ~ 50 hours, ~ 10 students)</b><br> Group tutorials and one-on-one private tutoring in math (SAT, ACT, College Calculus I/II).<br> <details><br> <u>Summary:</u><br> Coming soon.</details> |  
 
-| <b><font color="green">LA Tutors 123</font> (Jan 2018 - Present, ~ 50 hours, ~ 5 students)</b><br> One-on-one private tutoring in math (GRE, CHSPE, AP Calculus AB/BC).<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
+| <b><font color="green">LA Tutors 123</font> (Jan 2018 - Present, ~ 50 hours, ~ 5 students)</b><br> One-on-one private tutoring in math (GRE, CHSPE, AP Calculus AB/BC).<br> <details><br> <u>Summary:</u><br> Coming soon.</details> |  
 
-| <b><font color="green">HBar Tutoring</font> (Jan 2018 - Present, ~ 100 hours, ~ 20 students)</b><br> Group tutorials and one-on-one private tutoring in math (Enrichment, SAT, ACT, Geometry, Precalculus, AP Calculus AB).<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
+| <b><font color="green">HBar Tutoring</font> (Jan 2018 - Present, ~ 100 hours, ~ 20 students)</b><br> Group tutorials and one-on-one private tutoring in math (Enrichment, SAT, ACT, Geometry, Precalculus, AP Calculus AB).<br> <details><br> <u>Summary:</u><br> Coming soon.</details> |  
 
-| <b><font color="green">Study.com</font> (Sept 2017 - Present, ~ 300 hours, ~ 1500 solutions)</b><br> Online content writing in math (solutions in Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Differential Equations, Linear Algebra).<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
+| <b><font color="green">Study.com</font> (Sept 2017 - Present, ~ 300 hours, ~ 1500 solutions)</b><br> Online content writing in math (solutions in Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Differential Equations, Linear Algebra).<br> <details><br> <u>Summary:</u><br> Coming soon.</details> |  
 
-| <b><font color="green">Mathnasium</font> (Mar 2013 - Dec 2017, ~ 2500 hours, ~ 300 students)</b><br> Group and on-on-one tutoring in math (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II).<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
+| <b><font color="green">Mathnasium</font> (Mar 2013 - Dec 2017, ~ 2500 hours, ~ 300 students)</b><br> Group and on-on-one tutoring in math (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II).<br> <details><br> <u>Summary:</u><br> Coming soon.</details> |  
 
-| <b><font color="green">Children's Dispensary</font> (June 2010 - Dec 2012, ~ 700 hours, ~ 100 kids)</b><br> General supervision / activities at a camp for children and young adults with learning differences.<br> <font size="2"><details><br> <u>Summary:</u><br> Coming soon.</details></font> |  
+| <b><font color="green">Children's Dispensary</font> (June 2010 - Dec 2012, ~ 700 hours, ~ 100 kids)</b><br> General supervision / activities at a camp for children and young adults with learning differences.<br> <details><br> <u>Summary:</u><br> Coming soon.</details> |  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
