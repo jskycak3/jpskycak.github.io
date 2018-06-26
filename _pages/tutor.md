@@ -56,7 +56,7 @@ Here is my availability for this week, next week, and the week after. You can co
 
 | <b><font color="green">Mathnasium</font> (Mar 2013 - Dec 2017, ~ 2500 hours, ~ 300 students)</b><br> Group and on-on-one tutoring in math (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II).<br> <details><br> <u>Summary:</u><br> Coming soon.</details> |  
 
-| <b><font color="green">Children's Dispensary</font> (June 2010 - Dec 2012)</b><br> General supervision / activities at a camp for children and young adults with learning differences.<br> <details><br> <u>Hours:</u> ~700<br> <u>Students:</u> ~100<br> <u>Location:</u> South Bend, IN<br> <u>Website:</u> http://childrensdispensary.org/</details> |  
+| <b><font color="green">Children's Dispensary</font> (June 2010 - Dec 2012)</b><br> General supervision / activities at a camp for children and young adults with learning differences.<br> <details><br> <u>Hours:</u> ~700<br> <u>Students:</u> ~100<br> <u>Location:</u> South Bend, IN<br> <u>Website:</u> <font color="blue"><a target="_blank" href="http://childrensdispensary.org/">childrensdispensary.org</a></font></details> |  
 
 <font size="1" color="blue"><a href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
