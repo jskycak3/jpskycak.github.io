@@ -181,7 +181,7 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: #06f; /*$masthead-link-color; */
+    color: #000; /*$masthead-link-color; */
     text-decoration: none;
 
     &:hover {
@@ -197,7 +197,7 @@
     border: 0;
     outline: none;
     background-color: #000; /* $primary-color; */
-    color: #06f; /* #fff; */
+    color: #000; /* #fff; */
     cursor: pointer;
   }
 
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: #000; /*mix(#fff, $primary-color, 50%);*/
+        background: #06f; /*mix(#fff, $primary-color, 50%);*/
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
