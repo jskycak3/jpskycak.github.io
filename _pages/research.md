@@ -4,10 +4,18 @@ title: ""
 permalink: /research/
 author_profile: true
 --- 
+<head>
+    <style type="text/css">
+       a:link {color: #0066ff;}      /* unvisited link */
+       a:visited {color: #0066ff;}   /* visited link */
+       a:hover {color: #0066ff;}     /* mouse over link */
+       a:active {color: #0066ff;}    /* selected link */
+    </style>
+</head>
 
 # [<center>Research</center>](#top)
 
-<center><b><font color="#0066ff"><a href="http://www.jpskycak.com/research/#selected">Selected</a></font> • <font color="#0066ff"><a href="http://www.jpskycak.com/research/#masters">Master's</a></font> • <font color="#0066ff"><a href="http://www.jpskycak.com/research/#consulting">Consulting</a></font> • <font color="#0066ff"><a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a></font> • <font color="#0066ff"><a href="http://www.jpskycak.com/research/#precollege">Precollege</a></font></b></center>
+<center><b><a href="http://www.jpskycak.com/research/#selected">Selected</a> • <a href="http://www.jpskycak.com/research/#masters">Master's</a> • <a href="http://www.jpskycak.com/research/#consulting">Consulting</a> • <a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <a href="http://www.jpskycak.com/research/#precollege">Precollege</a></b></center>
 
 I've done research in physics, math, neuroscience, and data science. The projects I’m most proud of are in <b><font color="green">green</font></b>, and the big projects which required substantial effort are labeled with a star (★).
 
