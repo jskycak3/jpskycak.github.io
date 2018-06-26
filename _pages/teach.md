@@ -29,7 +29,7 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>,
 
 ## [Undergrad](#undergrad)
 
-<i>2014-18.</i> As an underclassman at Notre Dame, I made packets for math tutoring and wrote articles on the basics of neuroscience and computers.
+<i>2014-18.</i> As an underclassman at Notre Dame, I made packets for math tutoring, wrote articles on the basics of neuroscience and computers, and created expository writeups for advanced concepts in pure math.
 
 | <b><font color="black">Connecting Calculus to the Real World</font> (2017; <font size="2" color="blue"><a target="_blank" href="https://jpskycak.github.io/files/jpskycak-calc_connections.pdf">packet</a></font>)</b><br> Showed how calculus connects not only to science, technology, and engineering; but also to history, philosophy, business, art, and athletics.<br> <details><br> <u>Summary:</u><br> Coming soon.</details> |  
 
