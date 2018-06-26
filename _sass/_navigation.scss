@@ -175,17 +175,17 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #000; /*$background-color;*/
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color; /* "black"; */
+    color: #000; /*$masthead-link-color; */
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover; /* "black"; */
+      color: #000; /* $masthead-link-color-hover; */
     }
   }
 
@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: "black"; /* $primary-color; */
+    background-color: #000; /* $primary-color; */
     color: #fff;
     cursor: pointer;
   }
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#000, $primary-color, 50%); /*mix(#fff, $primary-color, 50%);*/
+        background: #000; /*mix(#fff, $primary-color, 50%);*/
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -266,8 +266,8 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        color: #000; /*$masthead-link-color-hover;*/
+        background: #000; /*mix(#fff, $primary-color, 75%);*/
       }
     }
 
