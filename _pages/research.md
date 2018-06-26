@@ -6,8 +6,8 @@ author_profile: true
 --- 
 <head>
     <style type="text/css">
-       a:link {color: #0066ff;}      /* unvisited link */
-       a:visited {color: #0066ff;}   /* visited link */
+       a:link {color: black;}      /* unvisited link */
+       a:visited {color: black;}   /* visited link */
        a:hover {color: #0066ff;}     /* mouse over link */
        a:active {color: #0066ff;}    /* selected link */
     </style>
