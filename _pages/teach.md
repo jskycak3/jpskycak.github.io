@@ -5,6 +5,15 @@ permalink: /teach/
 author_profile: true
 --- 
 
+<head>
+    <style type="text/css">
+       a:link {color: black;}      /* unvisited link */
+       a:visited {color: black;}   /* visited link */
+       a:hover {color: #0066ff;}     /* mouse over link */
+       a:active {color: #0066ff;}    /* selected link */
+    </style>
+</head>
+
 # [<center>Teaching</center>](#top)
 
 <center><b><a href="http://www.jpskycak.com/teach/#masters">Master's</a> • <a href="http://www.jpskycak.com/teach/#consulting">Consulting</a> • <a href="http://www.jpskycak.com/teach/#undergrad">Undergrad</a></b></center>
