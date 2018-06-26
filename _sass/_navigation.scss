@@ -181,11 +181,11 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: "black"; /*$masthead-link-color;*/
+    color: $masthead-link-color; /* "black"; */
     text-decoration: none;
 
     &:hover {
-      color: "black"; /*$masthead-link-color-hover;*/
+      color: $masthead-link-color-hover; /* "black"; */
     }
   }
 
