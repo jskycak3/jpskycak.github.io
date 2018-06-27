@@ -25,7 +25,6 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>,
 <i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'm hoping to TA next semester.  
 
 | <b><font color="green">★ Intuiting Algorithms in Supervised Machine Learning</font> (In progress)</b><br> Explaining various algorithms in supervised machine learning function and relate to each other, to an audience who is familiar with the algorithms but does not yet intuit their underlying math and see how they fit together.<br> |  
-<!--; <font size="2" color="blue"><a target="_blank" href="https://docs.google.com/document/d/1zHOIYDTrnJjwUFwhhHZL6YvMKHQLf9djOsTi3CXzm2g/edit?usp=sharing">draft</a></font>-->
 
 <font size="1"><a href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
 
