@@ -7,8 +7,10 @@ author_profile: true
 
 <head>
     <style type="text/css">
-       a:hover {color: #0066ff; text-decoration: underline;}     /* mouse over link */
-       a:active {color: #0066ff; text-decoration: underline;}    /* selected link */
+       a.nav:link {color: black;}    /* unvisited link */
+       a.nav:visited {color: black;}   /* visited link */
+       a.nav:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
+       a.nav:active {color: #0066ff; text-decoration: underline;}   /* selected link */
        a.body:link {color: maroon;}    /* unvisited link */
        a.body:visited {color: maroon;}   /* visited link */
        a.body:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
@@ -17,14 +19,12 @@ author_profile: true
        a.home:visited {color: #0066ff;}   /* visited link */
        a.home:hover {color: #0066ff; text-decoration: none;}    /* mouse over link */
        a.home:active {color: #0066ff; text-decoration: none;}   /* selected link */
-       a.anchor:hover {color: black; text-decoration: none}     /* mouse over link */
-       a.anchor:active {color: black; text-decoration: none}    /* selected link */
     </style>
 </head>
 
 # [<center>Teaching</center>](#top)
 
-<center><b><a href="http://www.jpskycak.com/teach/#masters">Master's</a> • <a href="http://www.jpskycak.com/teach/#consulting">Consulting</a> • <a href="http://www.jpskycak.com/teach/#undergrad">Undergrad</a></b></center>
+<center><b><a class="nav" href="http://www.jpskycak.com/teach/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/teach/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/teach/#undergrad">Undergrad</a></b></center>
 
 The projects I’m most proud of are in <b><font color="green">green</font></b>, and the big projects which required substantial effort are labeled with a star (★).
 
