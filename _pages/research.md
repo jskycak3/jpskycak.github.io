@@ -8,8 +8,8 @@ author_profile: true
     <style type="text/css">
        a:link {color: black;}      /* unvisited link */
        a:visited {color: black;}   /* visited link */
-       a:hover {color: #0066ff;}     /* mouse over link */
-       a:active {color: #0066ff;}    /* selected link */
+       a:hover {color: #0066ff; text-decoration: underline}     /* mouse over link */
+       a:active {color: #0066ff; text-decoration: underline}    /* selected link */
     </style>
 </head>
 
