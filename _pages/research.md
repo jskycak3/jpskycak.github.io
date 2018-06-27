@@ -10,7 +10,7 @@ author_profile: true
        a:visited {color: black;}   /* visited link */
        a:hover {color: #0066ff; text-decoration: underline}     /* mouse over link */
        a:active {color: #0066ff; text-decoration: underline}    /* selected link */
-       .blue-link a:link {color: #0066ff;}      /* unvisited link */
+       a.blue-link:link {color: #0066ff;}      /* unvisited link */
     </style>
 </head>
 
