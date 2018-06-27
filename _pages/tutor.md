@@ -35,7 +35,7 @@ I've tutored hundreds of students for thousands of hours. Because I tailor each 
 
 In addition to presenting the subject matter in an interesting way, I also maintain a comfortable learning environment where my students can learn to overcome problems without feeling embarrassed. This is especially important for students whose challenges are emotional as well as academic.  
 
-<font size="2.5em"><ul style="list-style-type:none"><li><details><summary>My first part-time job was working as a counselor at a program for children and young adults with learning differences. Click the triangle to see a photo slideshow I put together for one of the holiday parties!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul></font>  
+<font size="3em"><ul style="list-style-type:none"><li><details><summary>My first part-time job was working as a counselor at a program for children and young adults with learning differences. Click the triangle to see a photo slideshow I put together for one of the holiday parties!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul></font>  
 
 I also offer enrichment for curious, advanced students who find joy in math.  
 
