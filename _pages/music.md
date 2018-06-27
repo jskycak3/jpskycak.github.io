@@ -24,7 +24,7 @@ author_profile: true
 
 # [<center>Music</center>](#top)
 
-<center><img src="https://jpskycak.github.io/files/jpskycak-music_img001.jpg" style="border: none; width: 33%;" alt="image of presentation"></center>
+<center><img src="https://jpskycak.github.io/files/jpskycak-music_img001.jpg" style="border: none; width: 25%;" alt="image of presentation"></center>
 
 <center><b><a class="nav" href="http://www.jpskycak.com/music/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/music/#h4rmonics">h4rmonics</a> • <a class="nav" href="http://www.jpskycak.com/music/#score17">Score17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles17">Singles17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles16">Singles16</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles15">Singles15</a> • <a class="nav" href="http://www.jpskycak.com/music/#improv15">Improv15</a> • <a class="nav" href="http://www.jpskycak.com/music/#covers14">Covers14</a></b></center>
 
