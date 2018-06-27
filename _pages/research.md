@@ -16,6 +16,8 @@ author_profile: true
        a:active {color: #0066ff; text-decoration: underline}    /* selected link */
        a.body-link:link {color: purple;}    /* unvisited link */
        a.body-link:visited {color: purple;}   /* visited link */
+       a.anchor:hover {color: black; text-decoration: none}     /* mouse over link */
+       a.anchor:active {color: black; text-decoration: none}    /* selected link */
     </style>
 </head>
 
