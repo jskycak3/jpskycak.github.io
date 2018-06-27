@@ -13,6 +13,10 @@ author_profile: true
        a.body:visited {color: maroon;}   /* visited link */
        a.body:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
        a.body:active {color: #0066ff; text-decoration: underline;}   /* selected link */
+       a.home:link {color: #0066ff;}    /* unvisited link */
+       a.home:visited {color: #0066ff;}   /* visited link */
+       a.home:hover {color: #0066ff; text-decoration: none;}    /* mouse over link */
+       a.home:active {color: #0066ff; text-decoration: none;}   /* selected link */
        a.anchor:hover {color: black; text-decoration: none}     /* mouse over link */
        a.anchor:active {color: black; text-decoration: none}    /* selected link */
     </style>
@@ -34,7 +38,7 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 I also offer enrichment for curious, advanced students who find joy in math.  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Specialties](#specialties)
 
@@ -43,7 +47,7 @@ I also offer enrichment for curious, advanced students who find joy in math.
  | <font color="green">Grades</font> | High school, undergrad  
  | <font color="green">Instruction Formats</font> | One-on-one private sessions, group tutorials  
  
-<font size="1"><a class="body" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Availability](#availability)
 
@@ -55,7 +59,7 @@ Here is my availability for this week, next week, and the week after. You can co
 | 7/2-7/8   |             | 9am-11pm  | 9am-11pm |          |         |         | 9am-6pm |  
 | 7/9-7/15  |             | 9am-11pm  | 9am-11pm |          | 9am-6pm |         | 9am-6pm |  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Experience](#experience)
  
@@ -71,7 +75,7 @@ Here is my availability for this week, next week, and the week after. You can co
 
 | <b><font color="green">Children's Dispensary</font> (June 2010 - Dec 2012)</b><br> General supervision / activities at a camp for children and young adults with learning differences.<br> <details><br> <b>Hours:</b> ~700<br> <b>Students:</b> ~100<br> <b>Location:</b> South Bend, IN<br> <b>Website:</b> <a class="body" target="_blank" href="http://childrensdispensary.org/">childrensdispensary.org</a></details> |  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Education](#education)
 
@@ -79,7 +83,7 @@ Here is my availability for this week, next week, and the week after. You can co
 
 | <b><font color="green">BS Mathematics, University of Notre Dame</font> (2014-2018)</b><br> Honors thesis on Topological Data Analysis |  
  
-<font size="1"><a class="body" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Reviews](#reviews)
 
@@ -89,4 +93,4 @@ Here is my availability for this week, next week, and the week after. You can co
 
 | <b><font color="green">Neal P.</font> (AP Calculus AB/BC)</b><br> <i>"Justin was my math tutor for a year during the time I took AP calculus AB. I found the subject very hard even though I had lots of math background. Justin did a fantastic job of taking the complicated concepts I struggled with in calculus and made them simple. He used a lot of visual examples to help me not just understand the certain question I was doing, but also help me visualize the entire concept which in turn helped me do really well on the tests. Justin also was very focused even when I got frustrated, and he had many tricks up his sleeve to ensure that I knew what I was doing for the next test or homework assignment I had. He also kept it really fun during my tutoring sessions which made learning from him a completely enjoyable experience."</i> |  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
