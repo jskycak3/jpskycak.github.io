@@ -13,6 +13,10 @@ author_profile: true
        a.body:visited {color: maroon;}   /* visited link */
        a.body:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
        a.body:active {color: #0066ff; text-decoration: underline;}   /* selected link */
+       a.home:link {color: #0066ff;}    /* unvisited link */
+       a.home:visited {color: #0066ff;}   /* visited link */
+       a.home:hover {color: #0066ff; text-decoration: none;}    /* mouse over link */
+       a.home:active {color: #0066ff; text-decoration: none;}   /* selected link */
        a.anchor:hover {color: black; text-decoration: none}     /* mouse over link */
        a.anchor:active {color: black; text-decoration: none}    /* selected link */
     </style>
@@ -30,7 +34,7 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>,
 
 | <b><font color="green">★ Intuiting Algorithms in Supervised Machine Learning</font> (In progress)</b><br> Explaining various algorithms in supervised machine learning function and relate to each other, to an audience who is familiar with the algorithms but does not yet intuit their underlying math and see how they fit together.<br> |  
 
-<font size="1"><a href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
 
 ## [Consulting](#consulting)
 
@@ -38,7 +42,7 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>,
 
 | <b><font color="green">★ The Data Scientist's Guide to Topological Data Analysis</font> (2017)</b><br> Explained the basic theory behind topological data analysis and demonstrated its applications in visualizing high-dimensional data.<br> <details><br> <b>Advisors:</b> Mark Behrens (Notre Dame), Dave Cieslak (Aunalytics)<br><br> <b>Presented at:</b> Aunalytics, Glynn Honors Program at Notre Dame<br><br> <b>Links</b>: <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-nd-tdathesis.pdf">thesis</a>, <a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-nd-tdathesis_talk.pdf">slides</a>, <a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-aunalytics-tda.pdf">slides from earlier talk</a></i><br><br> <b>Summary:</b><br> Topological Data Analysis, abbreviated TDA, is a suite of data analytic methods inspired by the mathematical field of algebraic topology. TDA is attractive yet elusive for most data scientists, since its potential as a data exploration tool is often communicated through esoteric terminology unfamiliar to non-mathematicians. The purpose of this guide is to bridge the communication gap between academia and industry, so that non-mathematician data scientists may add current TDA methods to their analytic toolkits and anticipate new developments in the field of TDA.<br><br> The guide begins with an overview of Mapper, a TDA algorithm which has recently transitioned from academia to industry with commercial success. We explain the Mapper algorithm, demo open-source software, and present a handful of its commercial use-cases (some of which are original).<br><br> <center><img src="https://jpskycak.github.io/files/skycak-aunalytics-reddit_img01.png" style="border: none; width: 75%;" alt="image of mapper algorithm"></center><br> Then, we switch to persistent homology, a TDA method which has not yet broken through to industry but is supported by a growing body of academic work. We explain the intuition behind homotopy, approximation, homology, and persistence, and demo open-source persistent homology software.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-nd-tdathesis_talk_img01.png" style="border: none; width: 33%;" alt="image of homology"></center><br> It is hoped that the data scientist reading this guide will be inspired to give Mapper a try in their future analytic work, and be on the lookout for future developments in persistent homology that push it from academia to industry.</details> |  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
 
 ## [Undergrad](#undergrad)
 
@@ -58,4 +62,4 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>,
 
 | <b><font color="green">The Physics Behind an Egg Drop: A Lively Story</font> (2014)</b><br> Explained the math and physics behind an egg drop experiment for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>.<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/jpskycak-ian.pdf">packet</a></font></i><br><br> <b>Summary:</b><br> While being chased by a troll, we learn about concepts like velocity, momentum, force, and pressure. <br><br> <center><img src="https://jpskycak.github.io/files/jpskycak-ian_img01.png" style="border: none; width: 66%;" alt="image of introduction"></center><br> We realize we cannot outrun the troll nor defeat it by throwing rocks at it. However, we come up with a better strategy: we jump off a ledge, and when the troll follows, its stiff legs crack under its own weight. This is analogous to what happens in an egg drop.</details> |  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
