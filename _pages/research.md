@@ -24,6 +24,8 @@ author_profile: true
 
 # [<center>Research</center>](#top)
 
+<center><img src="https://jpskycak.github.io/files/jpskycak-research_img001.png" style="border: none; width: 50%;" alt="image of homology"></center>
+
 <center><b><a class="nav" href="http://www.jpskycak.com/research/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/research/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/research/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <a class="nav" href="http://www.jpskycak.com/research/#precollege">Precollege</a></b></center>
 
 I've done research in physics, math, neuroscience, and data science. The projects I’m most proud of are in <b><font color="green">green</font></b>, and the big projects which required substantial effort are labeled with a star (★).
