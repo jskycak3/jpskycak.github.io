@@ -22,11 +22,11 @@ author_profile: true
     </style>
 </head>
 
-# [<center>Research</center>](#top)
+# [<center>Research</center>](#top)  
 
-<center><b><a class="nav" href="http://www.jpskycak.com/research/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/research/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/research/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <a class="nav" href="http://www.jpskycak.com/research/#precollege">Precollege</a></b></center>
+<center><b><a class="nav" href="http://www.jpskycak.com/research/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/research/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/research/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <a class="nav" href="http://www.jpskycak.com/research/#precollege">Precollege</a></b></center>  
 
-I've done research in physics, math, neuroscience, and data science. The projects I’m most proud of are in <b><font color="green">green</font></b>, and the big projects which required substantial effort are labeled with a star (★).
+I've done research in physics, math, neuroscience, and data science. The projects I’m most proud of are in <b><font color="green">green</font></b>, and the big projects which required substantial effort are labeled with a star (★).  
 
 ## [Selected](#selected)
 
