@@ -13,6 +13,10 @@ author_profile: true
        a.body:visited {color: maroon;}   /* visited link */
        a.body:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
        a.body:active {color: #0066ff; text-decoration: underline;}   /* selected link */
+       a.home:link {color: #0066ff;}    /* unvisited link */
+       a.home:visited {color: #0066ff;}   /* visited link */
+       a.home:hover {color: #0066ff; text-decoration: none;}    /* mouse over link */
+       a.home:active {color: #0066ff; text-decoration: none;}   /* selected link */
        a.anchor:hover {color: black; text-decoration: none}     /* mouse over link */
        a.anchor:active {color: black; text-decoration: none}    /* selected link */
     </style>
@@ -33,7 +37,7 @@ Singles16 | <b><font color="green">Come At Me</font></b> | <audio controls src="
 Singles15 | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv15 | <b><font color="green">Hope</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-hope.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [h4rmonics](#h4rmonics)
 
@@ -54,7 +58,7 @@ Climax | <b><font color="black">Emerging from Chrysalis</font></b> | <audio cont
 Falling Action | <b><font color="black">Scouting</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scouting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Resolution | <b><font color="black">Preparations</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-preparations.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [Singles17](#singles17)
 
@@ -69,7 +73,7 @@ Meditation | <b><font color="black">Jazzy Trip</font></b> | <audio controls src=
 Psychedelic | <b><font color="black">Jungle Dance</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-jungle_dance.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Psychedelic | <b><font color="black">Scatterbrain</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-scatterbrain.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [Singles16](#singles16)
 
@@ -85,7 +89,7 @@ Experimental EDM | <b><font color="black">Bright</font></b> | <audio controls sr
 Experimental EDM | <b><font color="black">Excitement Hairball</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-excitement_hairball.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Pop | <b><font color="black">The Truth About Endings</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-the_truth_about_endings.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [Singles15](#singles15)
 
@@ -95,7 +99,7 @@ Electronic | <b><font color="black">Instrumental A1</font></b> | <audio controls
 Electronic | <b><font color="green">Instrumental A2</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A2.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Electronic | <b><font color="black">Instrumental A3</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-instrumental_A3.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [Improv15](#improv15)
 
@@ -111,7 +115,7 @@ Improv Pattern | <b><font color="black">Instability</font></b> | <audio controls
 Improv Pattern + Vocal | <b><font color="black">Waiting</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-waiting.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Improv Pattern + Vocal | <b><font color="black">Confusion</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-confusion.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
 ## [Covers14](#covers14)
 
@@ -122,4 +126,4 @@ Iron and Wine | <b><font color="black">Love Vigilantes</font></b> | <audio contr
 The White Stripes | <b><font color="black">Love Interruption</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-love_interruption.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 Original | <b><font color="black">The Time Traveler</font></b> | <audio controls src="https://jpskycak.github.io/files/jpskycak-the_time_traveler.mp3">Your browser does not support the <code>audio</code> element.</audio>  
 
-<font size="1"><a class="body" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
