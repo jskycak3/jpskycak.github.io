@@ -14,8 +14,8 @@ author_profile: true
     <style type="text/css">
        a:hover {color: #0066ff; text-decoration: underline;}     /* mouse over link */
        a:active {color: #0066ff; text-decoration: underline;}    /* selected link */
-       a.body:link {color: brown;}    /* unvisited link */
-       a.body:visited {color: brown;}   /* visited link */
+       a.body:link {color: maroon;}    /* unvisited link */
+       a.body:visited {color: maroon;}   /* visited link */
        a.body:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
        a.body:active {color: #0066ff; text-decoration: underline;}   /* selected link */
        a.anchor:hover {color: black; text-decoration: none}     /* mouse over link */
