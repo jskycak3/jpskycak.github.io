@@ -19,8 +19,6 @@ author_profile: true
        a.home:visited {color: #0066ff;}   /* visited link */
        a.home:hover {color: #0066ff; text-decoration: none;}    /* mouse over link */
        a.home:active {color: #0066ff; text-decoration: none;}   /* selected link */
-       a.anchor:hover {color: black; text-decoration: none}     /* mouse over link */
-       a.anchor:active {color: black; text-decoration: none}    /* selected link */
     </style>
 </head>
 
