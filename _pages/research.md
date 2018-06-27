@@ -12,10 +12,12 @@ author_profile: true
 
 <head>
     <style type="text/css">
-       a:hover {color: #0066ff; text-decoration: underline}     /* mouse over link */
-       a:active {color: #0066ff; text-decoration: underline}    /* selected link */
-       a.body-link:link {color: purple;}    /* unvisited link */
-       a.body-link:visited {color: purple;}   /* visited link */
+       a:hover {color: #0066ff; text-decoration: underline;}     /* mouse over link */
+       a:active {color: #0066ff; text-decoration: underline;}    /* selected link */
+       a.body:link {color: purple;}    /* unvisited link */
+       a.body:visited {color: purple;}   /* visited link */
+       a.body:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
+       a.body:active {color: #0066ff; text-decoration: underline;}   /* selected link */
        a.anchor:hover {color: black; text-decoration: none}     /* mouse over link */
        a.anchor:active {color: black; text-decoration: none}    /* selected link */
     </style>
