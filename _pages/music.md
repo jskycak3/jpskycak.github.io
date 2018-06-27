@@ -26,9 +26,7 @@ author_profile: true
 
 <center><b><a class="nav" href="http://www.jpskycak.com/music/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/music/#h4rmonics">h4rmonics</a> • <a class="nav" href="http://www.jpskycak.com/music/#score17">Score17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles17">Singles17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles16">Singles16</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles15">Singles15</a> • <a class="nav" href="http://www.jpskycak.com/music/#improv15">Improv15</a> • <a class="nav" href="http://www.jpskycak.com/music/#covers14">Covers14</a></b></center>
 
-<img style="padding: 0 15px; float: left;" src="https://jpskycak.github.io/files/jpskycak-music_img001.jpg" style="border: none; width: 15%;" alt="image of presentation">
-
-I produce music for fun. The projects I’m most proud of are in <b><font color="green">green</font></b>.  
+<p><img style="padding: 0 15px; float: left;" src="https://jpskycak.github.io/files/jpskycak-music_img001.jpg" style="border: none; width: 15%;" alt="image of presentation">I produce music for fun. The projects I’m most proud of are in <b><font color="green">green</font></b>.</p>
 
 ## [Selected](#selected)
 
