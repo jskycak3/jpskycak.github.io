@@ -22,11 +22,11 @@ author_profile: true
     </style>
 </head>
 
-# [<center>Music</center>](#top)
+# [<center>Music</center>](#top)  
 
-<center><b><a class="nav" href="http://www.jpskycak.com/music/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/music/#h4rmonics">h4rmonics</a> • <a class="nav" href="http://www.jpskycak.com/music/#score17">Score17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles17">Singles17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles16">Singles16</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles15">Singles15</a> • <a class="nav" href="http://www.jpskycak.com/music/#improv15">Improv15</a> • <a class="nav" href="http://www.jpskycak.com/music/#covers14">Covers14</a></b></center>
+<center><b><a class="nav" href="http://www.jpskycak.com/music/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/music/#h4rmonics">h4rmonics</a> • <a class="nav" href="http://www.jpskycak.com/music/#score17">Score17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles17">Singles17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles16">Singles16</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles15">Singles15</a> • <a class="nav" href="http://www.jpskycak.com/music/#improv15">Improv15</a> • <a class="nav" href="http://www.jpskycak.com/music/#covers14">Covers14</a></b></center>  
 
-I produce music for fun. The projects I’m most proud of are in <b><font color="green">green</font></b>.
+I produce music for fun. The projects I’m most proud of are in <b><font color="green">green</font></b>.  
 
 ## [Selected](#selected)
 
