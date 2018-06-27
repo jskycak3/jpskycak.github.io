@@ -24,7 +24,7 @@ author_profile: true
 
 # [<center>Research</center>](#top)
 
-<center><img src="https://jpskycak.github.io/files/jpskycak-research_img001.jpg" style="border: none; width: 25%;" alt="image of presentation"></center>
+<center><img src="https://jpskycak.github.io/files/jpskycak-research_img001.jpg" style="border: none; width: 15%;" alt="image of presentation"></center>
 
 <center><b><a class="nav" href="http://www.jpskycak.com/research/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/research/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/research/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <a class="nav" href="http://www.jpskycak.com/research/#precollege">Precollege</a></b></center>
 
