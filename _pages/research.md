@@ -7,8 +7,10 @@ author_profile: true
 
 <head>
     <style type="text/css">
-       a:hover {color: #0066ff; text-decoration: underline;}     /* mouse over link */
-       a:active {color: #0066ff; text-decoration: underline;}    /* selected link */
+       a.nav:link {color: black;}    /* unvisited link */
+       a.nav:visited {color: black;}   /* visited link */
+       a.nav:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
+       a.nav:active {color: #0066ff; text-decoration: underline;}   /* selected link */
        a.body:link {color: maroon;}    /* unvisited link */
        a.body:visited {color: maroon;}   /* visited link */
        a.body:hover {color: #0066ff; text-decoration: underline;}    /* mouse over link */
@@ -24,7 +26,7 @@ author_profile: true
 
 # [<center>Research</center>](#top)
 
-<center><b><a href="http://www.jpskycak.com/research/#selected">Selected</a> • <a href="http://www.jpskycak.com/research/#masters">Master's</a> • <a href="http://www.jpskycak.com/research/#consulting">Consulting</a> • <a href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <a href="http://www.jpskycak.com/research/#precollege">Precollege</a></b></center>
+<center><b><a class="nav" href="http://www.jpskycak.com/research/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/research/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/research/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <a class="nav" href="http://www.jpskycak.com/research/#precollege">Precollege</a></b></center>
 
 I've done research in physics, math, neuroscience, and data science. The projects I’m most proud of are in <b><font color="green">green</font></b>, and the big projects which required substantial effort are labeled with a star (★).
 
