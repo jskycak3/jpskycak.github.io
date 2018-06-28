@@ -26,7 +26,7 @@ author_profile: true
 
 <center><b><a class="nav" href="http://www.jpskycak.com/research/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/research/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/research/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/research/#undergrad">Undergrad</a> • <a class="nav" href="http://www.jpskycak.com/research/#precollege">Precollege</a></b></center>  
 
-I've done research in physics, math, neuroscience, and data science. The projects I’m most proud of are in <b><font color="green">green</font></b>, and the big projects which required substantial effort are labeled with a dumbbell (☍).  
+I've done projects in physics, math, neuroscience, and data science. The ones I’m most proud of are in <b><font color="green">green</font></b>, and the ones which required substantial effort are labeled with a dumbbell (☍).  
 
 ## [Selected](#selected)
 
