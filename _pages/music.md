@@ -24,7 +24,7 @@ author_profile: true
 
 # [<center>Music</center>](#top)  
 
-<center><b><a class="nav" href="http://www.jpskycak.com/music/#selected">Selected</a> • <a class="nav" href="http://www.jpskycak.com/music/#h4rmonics">h4rmonics</a> • <a class="nav" href="http://www.jpskycak.com/music/#score17">Score17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles17">Singles17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles16">Singles16</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles15">Singles15</a> • <a class="nav" href="http://www.jpskycak.com/music/#improv15">Improv15</a> • <a class="nav" href="http://www.jpskycak.com/music/#covers14">Covers14</a></b></center>  
+<center><b><a class="nav" href="http://www.jpskycak.com/music/#selected">Selected</a><a class="nav" href="http://www.jpskycak.com/music/#score17">Score17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles17">Singles17</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles16">Singles16</a> • <a class="nav" href="http://www.jpskycak.com/music/#singles15">Singles15</a> • <a class="nav" href="http://www.jpskycak.com/music/#improv15">Improv15</a> • <a class="nav" href="http://www.jpskycak.com/music/#covers14">Covers14</a></b></center>  
 
 I make music for fun. The projects I’m most proud of are in <b><font color="green">green</font></b>.  
 
@@ -39,9 +39,6 @@ Improv15 | <b><font color="green">Hope</font></b> | <audio controls src="https:/
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/music/#top">[ back to top ]</a></font>
 
-## [h4rmonics](#h4rmonics)
-
-<i>In progress.</i> I'm returning to guitar, currently practicing techniques to play harmonics simultaneously with chords. We'll see what happens!  
 
 ## [Score17](#score17)
 
