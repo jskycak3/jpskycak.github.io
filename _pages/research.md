@@ -40,7 +40,7 @@ I've done projects in physics, math, neuroscience, and data science. The ones Iâ
 
 ## [Master's](#masters)
 
-<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether to return to industry data science or take on a PhD.  
+<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether to return to industry data science or take on a PhD.  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
