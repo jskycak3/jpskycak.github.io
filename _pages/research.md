@@ -42,7 +42,7 @@ I've done projects in physics, math, neuroscience, and data science. The ones Iâ
 
 <i>2018-20.</i> I'm doing an MS in computer science through Georgia Tech. Classes/projects begin in August 2018! I'll decide by Fall 2019 whether to return to industry data science or take on a PhD.  
 
-| <b><font color="black">PY-TASSER: A Lightweight Python Implementation of I-TASSER</font> (In Progress)</b><br> |  
+| <b><font color="black">Py-TASSER: a Lightweight Python Implementation of I-TASSER</font> (In Progress)</b><br> |  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
