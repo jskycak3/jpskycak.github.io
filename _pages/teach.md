@@ -30,7 +30,7 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>,
 
 ## [Master's](#masters)
 
-<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech OMSCS. Classes/projects begin in August 2018! I'm hoping to TA next semester.  
+<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech. Classes/projects begin in August 2018! I'm hoping to TA next semester.  
 
 | <b><font color="green">☍ Intuiting Algorithms in Supervised Machine Learning</font> (In progress)</b><br> Explaining various algorithms in supervised machine learning function and relate to each other, to an audience who is familiar with the algorithms but does not yet intuit their underlying math and see how they fit together.<br> |  
 
