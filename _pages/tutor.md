@@ -55,10 +55,10 @@ I also offer enrichment for curious, advanced students who find joy in math.
 Here is my availability for this week, next week, and the week after. You can contact me at jpskycak@gmail.com to schedule a session.  
 
 |           | Mon         | Tue       | Wed      | Thu      | Fri     | Sat     | Sun     |  
-| --------- |: --------- :|: ------- :|: ------ :|: ------ :|: ----- :|: ----- :|: ----- :|  
-| 7/2-7/8   |             | 9am-11pm  | 9am-11pm |          |         |         | 9am-6pm |  
-| 7/9-7/15  |             |           | 9am-11pm | 9am-11pm | 9am-6pm |         | 9am-6pm |  
-| 7/16-7/22 |             | 9am-11pm  | 9am-11pm | 9am-11pm | 9am-6pm |         | 9am-6pm |  
+| --------- |: --------- :|: ------- :|: ------ :|: ------ :|: ----- :|: ----- :|: ----- :|   
+| 7/9-7/15  |             |           | 9am-11pm |          |         |         |         |  
+| 7/16-7/22 |             |           | 9am-11pm | 9am-11pm | 9am-6pm |         |         |  
+| 7/23-7/29 |             | 9am-11pm  | 9am-11pm |          | 9am-6pm |         | 9am-6pm |  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
