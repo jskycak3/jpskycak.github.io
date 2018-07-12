@@ -42,7 +42,9 @@ I've done projects in physics, math, neuroscience, and data science. The ones Iâ
 
 ## [Master's](#masters)
 
-<i>2018-20.</i> I'm doing an MS in computer science through Georgia Tech, and will likely pursue a PhD in computational biology.  
+<i>2018-20.</i> While pursuing a MS in computer science through Georgia Tech, I'm working in the general direction of translating (biological) structure-creation problems to cellular automata games and designing algorithms to solve them.  
+
+| <b><font color="black">Expanding the Training Dataset in a Reinforcement Learning Algorithm for RNA Design</font> (In Progress)</b><br> <!-- https://docs.google.com/document/d/18ahuN3LG_xkjjvjfSFz5tncL-eFIc7on2N5OwccXz3s/edit# --> |  
 
 | <b><font color="black">Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> |  
 
