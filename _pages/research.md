@@ -44,9 +44,9 @@ I've done projects in physics, math, neuroscience, and data science. The ones I�
 
 <i>2018-20.</i> While pursuing a MS in computer science through Georgia Tech, I'm working on designing algorithms to solve structural puzzles.
 
-| <b><font color="black">☍ Expanding Training Data for RNA Design with Reinforcement Learning</font> (In Progress)</b><br> Improving performance of a RNA design algorithm by expanding the training dataset to underrepresented examples. <!-- https://docs.google.com/document/d/18ahuN3LG_xkjjvjfSFz5tncL-eFIc7on2N5OwccXz3s/edit# --> |  
+| <b><font color="green">☍ Expanding Training Data for RNA Design with Reinforcement Learning</font> (In Progress)</b><br> Improving performance of a RNA design algorithm by expanding the training dataset to underrepresented examples. <!-- https://docs.google.com/document/d/18ahuN3LG_xkjjvjfSFz5tncL-eFIc7on2N5OwccXz3s/edit# --> |  
 
-| <b><font color="black">☍ Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> |  
+| <b><font color="green">☍ Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> |  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
