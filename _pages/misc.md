@@ -26,8 +26,6 @@ author_profile: true
 
 <center><b><a class="nav" href="http://www.jpskycak.com/misc/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/misc/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/misc/#undergrad">Undergrad</a></b></center>
 
-The projects I’m most proud of are in <b><font color="green">green</font></b>, and the big projects which required substantial time and effort are labeled with a dumbbell (☍).
-
 ## [Master's](#masters)
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/misc/#top">[ back to top ]</a></font>
