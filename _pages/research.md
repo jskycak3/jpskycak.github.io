@@ -42,11 +42,11 @@ I've done projects in physics, math, neuroscience, and data science. The ones I‚
 
 ## [Master's](#masters)
 
-<i>2018-20.</i> While pursuing a MS in computer science through Georgia Tech, I'm working in the general direction of translating (biological) structure-creation problems into cellular automata games and designing algorithms to solve them.  
+<i>2018-20.</i> While pursuing a MS in computer science through Georgia Tech, I'm working on designing algorithms to solve structural puzzles.
 
-| <b><font color="black">Expanding Training Data for RNA Design with Reinforcement Learning</font> (In Progress)</b><br> Improving performance of a RNA design algorithm by expanding the training dataset to underrepresented examples. <!-- https://docs.google.com/document/d/18ahuN3LG_xkjjvjfSFz5tncL-eFIc7on2N5OwccXz3s/edit# --> |  
+| <b><font color="black">‚òç Expanding Training Data for RNA Design with Reinforcement Learning</font> (In Progress)</b><br> Improving performance of a RNA design algorithm by expanding the training dataset to underrepresented examples. <!-- https://docs.google.com/document/d/18ahuN3LG_xkjjvjfSFz5tncL-eFIc7on2N5OwccXz3s/edit# --> |  
 
-| <b><font color="black">Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> |  
+| <b><font color="black">‚òç Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> |  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/research/#top">[ back to top ]</a></font>
 
@@ -55,7 +55,7 @@ I've done projects in physics, math, neuroscience, and data science. The ones I‚
 <i>2016-18.</i> As an upperclassman at Notre Dame, I simultaneously worked full-time as a data scientist at a local analytics consulting company called Aunalytics. My work was split between
 1. production models (such as a random forest to predict customer churn),
 2. exploratory analyses (one of which resulted in the discovery of a sales funnel for a banking client), and
-3. R&D (topological data analysis).  
+3. R&D (e.g. topological data analysis).  
 
 | <b><font color="black">360Giving Challenge</font> (2018)</b><br> Visualized which donors funded which themes throughout the years. (This also required classifying grants into high-level themes based on titles and descriptions.)<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/360Giving-Challenge">site</a></i><br><br> <b>Summary:</b><br> This is a visualization of which donors funded which themes throughout the years. The given dataset consisted of grant records and included donors/recipients, dates/amounts, and titles/descriptions. First, I tagged grants into themes according to keywords in the title and description. Then, for each theme in each year, I computed each donor's average grant amount, total giving, and total giving in that theme as a percent of the donor's total giving in all themes. I visualized the results in an animated dot plot for each theme.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-360giving_challenge-img01.png" style="border: none; width: 75%;" alt="image of dot plot"></center></details> |  
 
@@ -73,7 +73,7 @@ I've done projects in physics, math, neuroscience, and data science. The ones I‚
 
 ## [Undergrad](#undergrad)
 
-<i>2014-18.</i> As an undergrad at Notre Dame, I worked on projects in math and computational neuroscience and then took a job at a local analytics consulting company. My math and computational neuroscience projects are included here, while my industry research projects and honors bachelor's thesis are included in the <i>Consulting</i> section above.  
+<i>2014-18.</i> As an undergrad at Notre Dame, I worked on small projects in math and computational neuroscience and then took a job at a local analytics consulting company. My math and computational neuroscience projects are included here, while my industry research projects and honors bachelor's thesis are included in the <i>Consulting</i> section above.  
 
 | <b><font color="black">Shaping STDP Neural Networks with Periodic Stimulation: a Theoretical Analysis for the Case of Tree Networks</font> (2016)</b><br> Solved a special case of how to periodically stimulate a neural network to obtain a desired connectivity.<br> <details><br> <b>Course:</b> ACMS 80770 (Topics in Applied Mathematics) at Notre Dame<br><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/jpskycak-shaping_stdp_neural_networks_with_periodic_stimulation.pdf">writeup</a></i><br><br> <b>Summary:</b><br> The goal of this project was to create a simple neural network model with a biologically realistic learning rule, whose changes in connectivity could be derived analytically. After creating the model, I derived rules for how periodic stimulation of a single neuron would change the connectivity of the network, in the case of a tree network.<br><br> <center><img src="https://jpskycak.github.io/files/jpskycak-shaping_stdp_neural_networks_with_periodic_stimulation_img01.png" style="border: none; width: 66%;" alt="image of proposition"></center><br> Then, I used those rules to come up wth two-neuron stimulation patterns to solidify or break connections in the tree as desired.</details> |  
 
@@ -97,7 +97,7 @@ I've done projects in physics, math, neuroscience, and data science. The ones I‚
 
 ## [Precollege](#precollege)
 
-<i>2013-14.</i> I got my feet wet in physics research as a high-schooler, working on projects at IU South Bend and Notre Dame.  
+<i>2013-14.</i> I got my feet wet in physics research as a high-schooler, contributing to projects at IU South Bend and Notre Dame.  
 
 | <b><font color="green">‚òç Optimizing Scintillation and Light Transmission for Use in a High Energy Particle Detector</font> (2014)</b><br> Improved data transmission in a light-based particle detector by finding the optimal pair of light-producing and light-propagating materials.<br> <details><br> <b>Advisors:</b> Dan Karmgard, Mark Vigneault (Notre Dame)<br><br> <b>Collaborator:</b>: Andrew Henderson (assisted in data collection)<br><br> <b>Presented at:</b> Indiana Junior Science and Humanities Symposium 2014, Northern Indiana Regional Science/Engineering Fair 2014<br><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-nd-particledetector.pdf">poster</a></i><br><br> <b>Summary:</b><br> The Compact Muon Solenoid (CMS) detector is a general-purpose particle detector located on the Large Hadron Collider at CERN. It gathers particle collision data in the form of light: particle sprays pass through scintillating tiles lining the interior of the detector, causing the tiles to emit light, which is then wavelength-shifted and sent to the data processing center via fiber optic cables.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-nd-particledetector_img01.png" style="border: none; width: 66%;" alt="image of detector"></center><br> The goal of my project was to find the optimal pair of scintillating and wavelength-shifting plastics, to be replaced during the detector upgrade. Using a small radioactive source in a light-tight box, I collected a light output intensity histogram for each pair of scintillating and wavelength-shifting plastics, and found a pair which outperformed the pair previously used in the detector.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-nd-particledetector_img02.png" style="border: none; width: 66%;" alt="image of radioactive source"></center><br> I also found an optimal pairing for long optical fiber arrangements, where minimizing light attenuation becomes more important than maximizing light generation.</details> |  
 
