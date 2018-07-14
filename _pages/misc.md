@@ -22,7 +22,7 @@ author_profile: true
     </style>
 </head>
 
-# [<center>Teaching</center>](#top)
+# [<center>Miscellaneous</center>](#top)
 
 <center><b><a class="nav" href="http://www.jpskycak.com/misc/#masters">Master's</a> • <a class="nav" href="http://www.jpskycak.com/misc/#consulting">Consulting</a> • <a class="nav" href="http://www.jpskycak.com/misc/#undergrad">Undergrad</a></b></center>
 
@@ -30,13 +30,9 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>,
 
 ## [Master's](#masters)
 
-<i>2018-20.</i> I'm doing a master's in computer science through Georgia Tech.  
-
-<font size="1"><a class="home" href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/misc/#top">[ back to top ]</a></font>
 
 ## [Consulting](#consulting)
-
-<i>2016-18.</i> As an upperclassman at Notre Dame, I simultaneously worked full-time as a data scientist at a local analytics consulting company called Aunalytics. Some of my R&D work on Topological Data Analysis also served an educational purpose.
 
 | <b><font color="black">360Giving Challenge</font> (2018)</b><br> Visualized which donors funded which themes throughout the years. (This also required classifying grants into high-level themes based on titles and descriptions.)<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/360Giving-Challenge">site</a></i><br><br> <b>Summary:</b><br> This is a visualization of which donors funded which themes throughout the years. The given dataset consisted of grant records and included donors/recipients, dates/amounts, and titles/descriptions. First, I tagged grants into themes according to keywords in the title and description. Then, for each theme in each year, I computed each donor's average grant amount, total giving, and total giving in that theme as a percent of the donor's total giving in all themes. I visualized the results in an animated dot plot for each theme.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-360giving_challenge-img01.png" style="border: none; width: 75%;" alt="image of dot plot"></center></details> |  
 
@@ -44,14 +40,12 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>,
 
 | <b><font color="black">Data Science Gallery</font> (2016)</b><br> Prototyped a solution for storing and displaying datasets, analytics notebooks, and visualizations.<br> <details><br> <b>Advisor:</b> Dave Cieslak (Aunalytics)<br><br> <b>Presented at:</b> Aunalytics meeting<br><br> <b>Links:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-aunalytics-dsgallery1.pdf">slides 1</a>, <a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-aunalytics-dsgallery2.pdf">slides 2</a>, <a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-aunalytics-dsgallery3.pdf">slides 3</a></i><br><br> <b>Summary:</b><br> The goal of this project was to prototype a system for storing and displaying datasets, analytics notebooks, and visualizations. My first iteration used GitHub Pages, and my second iteration made use of GraphDash. I also wrote functions to integrate the system with iPython notebooks, so that one could upload to the GraphDash server directly from an iPython notebook.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-aunalytics-dsgallery3_img01.png" style="border: none; width: 75%;" alt="image of site"></center></details> |  
 
-<font size="1"><a class="home" href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/misc/#top">[ back to top ]</a></font>
 
 ## [Undergrad](#undergrad)
-
-<i>2014-18.</i> As an underclassman at Notre Dame, I ___.
 
 | <b><font color="black">End-of-Summer 2015 Report</font> (2015)</b><br> Implemented spiking neurons in a deep neural network, in attempt to emulate brain waves.<br> <details><br> <b>Advisor:</b> Garrett Kenyon (Los Alamos National Lab)<br><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-lanl.pdf">work summary</a></i><br><br> <b>Summary:</b><br> The goal of my summer project was to implement spiking neurons and observe "brain oscillations" in an open-source deep learning framework called Petavision. To implement spiking neurons, I had neurons inhibit themselves, so that they would reset whenever they became active.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-lanl_img01.png" style="border: none; width: 33%;" alt="image of spiking neuron"></center><br> However, I did not observe any oscillations in spike rates, and the network performed poorly on image reconstruction tasks, likely because the training algorithm was tailored to non-spiking neurons. It was beyond the scope and duration of the project to create a new training algorithm tailored to spiking neurons.</details> |  
 
 | <b><font color="black">Wixtend: the Free Online Thinktank</font> (2015)</b><br> Prototyped a wiki site where students could collaborate on academic projects.<br> <details><br> <b>Videos:</b><br> <video src="https://jpskycak.github.io/files/jpskycak-wixtend_overview.mp4" width="320" height="200" controls preload></video><br> <video src="https://jpskycak.github.io/files/jpskycak-wixtend_tutorial.mp4" width="320" height="200" controls preload></video><br><br> <b>Summary:</b><br> The goal of this project was to create a collaborative project website where users could host their own projects and contribute to projects hosted by other users. I designed the site as a MediaWiki wiki so that individual users' contributions to a project could be tracked precisely: potential collaborators would submit edits to projects, project hosts would decide whether or not to approve the edits, and every submission and approval would be written into the logs. After the initial prototype, the project was ended in favor of using GitHub.</details> |  
 
-<font size="1"><a class="home" href="http://www.jpskycak.com/teach/#top">[ back to top ]</a></font>
+<font size="1"><a class="home" href="http://www.jpskycak.com/misc/#top">[ back to top ]</a></font>
