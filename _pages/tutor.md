@@ -55,10 +55,10 @@ I also offer enrichment for curious, advanced students who find joy in math.
 Here is my availability for this week, next week, and the week after. You can contact me at jpskycak@gmail.com to schedule a session.  
 
 |           | Mon         | Tue       | Wed      | Thu      | Fri     | Sat     | Sun     |  
-| --------- |: --------- :|: ------- :|: ------ :|: ------ :|: ----- :|: ----- :|: ----- :|  
-| 7/2-7/8   |             | 9am-11pm  | 9am-11pm |          |         |         | 9am-6pm |  
-| 7/9-7/15  |             | 9am-11pm  | 9am-11pm | 9am-11pm | 9am-6pm |         | 9am-6pm |  
-| 7/16-7/22 |             | 9am-11pm  | 9am-11pm | 9am-11pm | 9am-6pm |         | 9am-6pm |  
+| --------- |: --------- :|: ------- :|: ------ :|: ------ :|: ----- :|: ----- :|: ----- :|   
+| 7/9-7/15  |             |           | 9am-11pm |          |         |         |         |  
+| 7/16-7/22 |             |           | 9am-11pm | 9am-11pm | 9am-6pm |         |         |  
+| 7/23-7/29 |             |           | 9am-11pm |          | 9am-6pm |         | 9am-6pm |  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
@@ -74,7 +74,7 @@ Here is my availability for this week, next week, and the week after. You can co
 
 | <b><font color="green">Mathnasium</font> (Mar 2013 - Dec 2017)</b><br> Group and on-on-one tutoring in math (Counting, Arithmetic, Pre-Algebra, Algebra 1, Geometry, Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II).<br> <details><br> <b>Hours:</b> ~2,500<br> <b>Students:</b> ~300<br> <b>Location:</b> Granger, IN<br> <b>Website:</b> <a class="body" target="_blank" href="http://www.mathnasium.com/granger">mathnasium.com/granger</a></details> |  
 
-| <b><font color="green">Children's Dispensary</font> (June 2010 - Dec 2012)</b><br> Counseling at a camp for children and young adults with learning and behavioral differences.<br> <details><br> <b>Hours:</b> ~700<br> <b>Kids:</b> ~100<br> <b>Location:</b> South Bend, IN<br> <b>Website:</b> <a class="body" target="_blank" href="http://childrensdispensary.org/">childrensdispensary.org</a><br> <b>Photo Slideshow:</b> <video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details> |  
+| <b><font color="green">Children's Dispensary</font> (June 2010 - Dec 2012)</b><br> Counseling at a camp for children and young adults with learning and behavioral differences.<br> <details><br> <b>Hours:</b> ~700<br> <b>Kids:</b> ~100<br> <b>Location:</b> South Bend, IN<br> <b>Website:</b> <a class="body" target="_blank" href="http://childrensdispensary.org/">childrensdispensary.org</a><br><br> <b>Photo Slideshow:</b><br> <video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details> |  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
