@@ -34,7 +34,7 @@ Now, I'm pursuing a MS in computer science through Georgia Tech. In particular, 
 
 ## [Experience](#experience)
  
-| <b><font color="green">Data Scientist,</font> Aunalytics (Jan 2016 - May 2018)</b><br> <details><br> Jan 2018 - May 2018 | Freelance<br> May 2017 - Jan 2018 | Salaried<br> Jan 2016 - May 2017 | Intern<br><br> • Predicted customer churn with 80% precision using a random forest model.<br> • Generated hierarchical clustering visualizations to discover sales funnels and advertising opportunities.<br> • Presented on cutting-edge analytical methods such as Topological Data Analysis.</details> |  
+| <b><font color="green">Data Scientist,</font> Aunalytics (Jan 2016 - May 2018)</b><br> <details><br> Jan 2018 - May 2018 \| Freelance<br> May 2017 - Jan 2018 \| Salaried<br> Jan 2016 - May 2017 \| Intern<br><br> • Predicted customer churn with 80% precision using a random forest model.<br> • Generated hierarchical clustering visualizations to discover sales funnels and advertising opportunities.<br> • Presented on cutting-edge analytical methods such as Topological Data Analysis.</details> |  
 
 | <b><font color="green">Research Intern - Neural Networks,</font> Los Alamos National Lab (May 2015 - Aug 2015)</b><br> <details><br> Implemented spiking neurons in a deep neural network, in attempt to emulate brain waves. See <i>End-of-Summer 2015 Report</i> in <a class="home" href="http://www.jpskycak.com/compsci/#development">development section</a>.</details> |  
 
