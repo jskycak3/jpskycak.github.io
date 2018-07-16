@@ -38,7 +38,7 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
 
 | <b><font color="green">Research Intern - Physics,</font> University of Notre Dame (Jul 2013 - Mar 2014)</b><br> Improved data transmission in a CERN particle detector by identifying optimal combinations of light-transmitting materials.<br> <details><br> See <i>Optimizing Scintillation and Light Transmission for Use in a High Energy Particle Detector (2014)</i> in <a class="body" href="http://www.jpskycak.com/compsci/#research">research section</a>.</details> |  
 
-| <b><font color="green">Research Intern - Physics,</font> IU South Bend (Oct 2012 - May 2013)</b><br> Improved sensors in a Fermilab dark matter detector by developing a material to reduce signal loss.<br> <details>Intel ISEF finalist.<br> See <i>Making a Matching Layer for Acoustic Sensors for a COUPP Dark Matter Detector (2013)</i> in <a class="body" href="http://www.jpskycak.com/compsci/#research">research section</a>.</details> |  
+| <b><font color="green">Research Intern - Physics,</font> IU South Bend (Oct 2012 - May 2013)</b><br> Improved sensors in a Fermilab dark matter detector by developing a material to reduce signal loss.<br> <details><br> Intel ISEF finalist.<br> See <i>Making a Matching Layer for Acoustic Sensors for a COUPP Dark Matter Detector (2013)</i> in <a class="body" href="http://www.jpskycak.com/compsci/#research">research section</a>.</details> |  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/compsci/#top">[ back to top ]</a></font>
 
