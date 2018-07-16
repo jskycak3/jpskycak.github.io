@@ -24,13 +24,13 @@ author_profile: true
 
 # [<center>Computational Science</center>](#top)  
 
-<center><b><a class="nav" href="http://www.jpskycak.com/compsci/#bio">Bio</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#research">Research</a> • <a class="nav" href="http://www.jpskycak.com/research/#teaching">Teaching</a> • <a class="nav" href="http://www.jpskycak.com/research/#engineering">Engineering</a></b></center>  
+<center><b><a class="nav" href="http://www.jpskycak.com/compsci/#bio">Bio</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#research">Research</a> • <a class="nav" href="http://www.jpskycak.com/research/#teaching">Teaching</a> • <a class="nav" href="http://www.jpskycak.com/research/#webdevelopment">WebDevelopment</a></b></center>  
 
 ## [Bio](#bio)
 
-I got my feet wet in physics research as a high-schooler, contributing to projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I worked on projects in math and computational neuroscience, and as an as an underclassman, I simultaneously worked full-time as a data scientist at a local analytics consulting company called Aunalytics. At Aunalytics, I built production models to predict customer churn, mined business datasets for open-ended actionable insights, and taught/demonstrated new technology such as topological data analysis. Now, I'm pursuing a MS in computer science through Georgia Tech. In particular, I'm working on designing algorithms to solve structural puzzles.
+I got my feet wet in physics research as a high-schooler, contributing to projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I worked on projects in math and computational neuroscience; as an as an upperclassman, I simultaneously worked full-time as a data scientist at a local analytics consulting company called Aunalytics, where I 1) built production models to predict customer churn, 2) mined business datasets for open-ended actionable insights, and 3) taught/demonstrated new technology such as topological data analysis.
 
-The projects I’m most proud of are in <b><font color="green">green</font></b>.
+Now, I'm pursuing a MS in computer science through Georgia Tech. In particular, I'm working on designing algorithms to solve structural puzzles.  
 
 ## [Research](#research)
 
@@ -81,10 +81,9 @@ The projects I’m most proud of are in <b><font color="green">green</font></b>.
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/compsci/#top">[ back to top ]</a></font>
 
-## [Engineering](#engineering)
+## [WebDevelopment](#webdevelopment)
 
-| <b><font color="green">☍ Intuiting Predictive Algorithms</font> (In progress)</b><br> Explaining various predictive algorithms function and relate to each other, to an audience who is familiar with the algorithms but does not yet intuit their underlying math and see how they fit together.<br> <!-- https://docs.google.com/document/d/1zHOIYDTrnJjwUFwhhHZL6YvMKHQLf9djOsTi3CXzm2g/edit --> |  
-| <b><font color="black">360Giving Challenge</font> (2018)</b><br> Visualized which donors funded which themes throughout the years. (This also required classifying grants into high-level themes based on titles and descriptions.)<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/360Giving-Challenge">site</a>, <a class="body" target="_blank" href="https://github.com/jpskycak/360Giving-Challenge/blob/master/360giving.ipynb">code</a></i><br><br> <b>Summary:</b><br> This is a visualization of which donors funded which themes throughout the years. The given dataset consisted of grant records and included donors/recipients, dates/amounts, and titles/descriptions. First, I tagged grants into themes according to keywords in the title and description. Then, for each theme in each year, I computed each donor's average grant amount, total giving, and total giving in that theme as a percent of the donor's total giving in all themes. I visualized the results in an animated dot plot for each theme.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-360giving_challenge-img01.png" style="border: none; width: 75%;" alt="image of dot plot"></center></details> |  
+| <b><font color="green">360Giving Challenge</font> (2018)</b><br> Visualized which donors funded which themes throughout the years. (This also required classifying grants into high-level themes based on titles and descriptions.)<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/360Giving-Challenge">site</a>, <a class="body" target="_blank" href="https://github.com/jpskycak/360Giving-Challenge/blob/master/360giving.ipynb">code</a></i><br><br> <b>Summary:</b><br> This is a visualization of which donors funded which themes throughout the years. The given dataset consisted of grant records and included donors/recipients, dates/amounts, and titles/descriptions. First, I tagged grants into themes according to keywords in the title and description. Then, for each theme in each year, I computed each donor's average grant amount, total giving, and total giving in that theme as a percent of the donor's total giving in all themes. I visualized the results in an animated dot plot for each theme.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-360giving_challenge-img01.png" style="border: none; width: 75%;" alt="image of dot plot"></center></details> |  
 
 | <b><font color="black">AU-Openscoring</font> (2016)</b><br> <details><br> <b>Advisor:</b> Dave Cieslak (Aunalytics)<br><br> <b>Presented at:</b> Aunalytics<br><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-aunalytics-openscoring.pdf">slides</a>, <a class="body" target="_blank" href="https://jpskycak.github.io/files/skycak-aunalytics-openscoring_code.zip">code (zip)</a></i></details> |  
 
