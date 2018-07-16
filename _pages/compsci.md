@@ -32,6 +32,18 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
 
 Now, I'm pursuing a MS in computer science through Georgia Tech. In particular, I'm working on designing algorithms to solve structural puzzles.  
 
+## [Education](#education)
+
+| <b><font color="green">MS Computer Science, Georgia Institute of Technology</font> (2018-2020)</b><br> Specialization in Machine Learning |  
+
+| <b><font color="green">BS Mathematics, University of Notre Dame</font> (2014-2018)</b><br> Honors thesis on Topological Data Analysis |  
+ 
+<font size="1"><a class="home" href="http://www.jpskycak.com/compsci/#top">[ back to top ]</a></font>
+
+## [Experience](#experience)
+ 
+| <b><font color="green">Data Scientist,</font> Aunalytics (Jan 2016 - May 2018)</b><br> <details><br> Jan 2018 - May 2018 | Freelance<br> May 2017 - Jan 2018 | Salaried<br> Jan 2016 - May 2017 | Intern<br><br> • Predicted customer churn with 80% precision using a random forest model.<br> • Generated hierarchical clustering visualizations to discover sales funnels and advertising opportunities.<br> • Presented on cutting-edge analytical methods such as Topological Data Analysis.</details> |  
+
 ## [Research](#research)
 
 <i>2018-20.</i> While pursuing a MS in computer science through Georgia Tech, I'm working on designing algorithms to solve structural puzzles.
