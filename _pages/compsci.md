@@ -46,7 +46,7 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
 
 | <b><font color="green">MS Computer Science, Georgia Institute of Technology</font> (2018-2020)</b><br> Specialization in Machine Learning |  
 
-| <b><font color="green">BS Mathematics, University of Notre Dame</font> (2014-2018)</b><br> Honors thesis: <i>The Data Scientist's Guide to Topological Data Analysis (2017)</i>, in <a class="body" href="http://www.jpskycak.com/compsci/#teaching">teaching section</a>. |  
+| <b><font color="green">BS Mathematics, University of Notre Dame</font> (2014-2018)</b><br> Honors thesis: <i>The Data Scientist's Guide to Topological Data Analysis</i> |  
  
 <font size="1"><a class="home" href="http://www.jpskycak.com/compsci/#top">[ back to top ]</a></font>
 
