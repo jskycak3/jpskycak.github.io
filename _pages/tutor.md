@@ -80,9 +80,9 @@ Here is my availability for this week, next week, and the week after. You can co
 
 ## [Education](#education)
 
-| <b><font color="green">MS Computer Science, Georgia Institute of Technology</font> (2018-2020)</b><br> Specialization in Machine Learning |  
+| <img src="https://jpskycak.github.io/files/icon-gatech.png" align="right" style="border: none; height: 7em;" alt="icon"> <b><font color="green">MS Computer Science, Georgia Institute of Technology</font> (2018-2020)</b><br> Specialization in Machine Learning |  
 
-| <b><font color="green">BS Mathematics, University of Notre Dame</font> (2014-2018)</b><br> Honors thesis on Topological Data Analysis |  
+| <img src="https://jpskycak.github.io/files/icon-nd.png" align="right" style="border: none; height: 7em;" alt="icon"> <b><font color="green">BS Mathematics, University of Notre Dame</font> (2014-2018)</b><br> Honors thesis on Topological Data Analysis |  
  
 <font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
