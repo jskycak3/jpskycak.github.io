@@ -1,7 +1,15 @@
 # main links links
 main:
+  #- title: "Computational Science"
+  #  url: /compsci/
+  
+  # https://mmistakes.github.io/minimal-mistakes/docs/layouts/#custom-sidebar-navigation-menu
   - title: "Computational Science"
-    url: /compsci/
+    children:
+      - title: "Bio"
+        url: /compsci/
+      - title: "Experience"
+        url: /compsci/
     
   - title: "Math Tutoring"
     url: /tutor/
