@@ -90,7 +90,7 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
 
 | <img src="https://jpskycak.github.io/files/jpskycak-ian_icon.png" align="right" style="border: none; height: 7em;" alt="image of introduction"> <b><font color="green">★ The Physics Behind an Egg Drop: A Lively Story</font> (2014)</b><br> Explained the math and physics behind an egg drop experiment for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>.<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/jpskycak-ian.pdf">packet</a></i><br><br> <b>Summary:</b><br> While being chased by a troll, we learn about concepts like velocity, momentum, force, and pressure. <br><br> <center><img src="https://jpskycak.github.io/files/jpskycak-ian_img01.png" style="border: none; width: 66%;" alt="image of introduction"></center><br> We realize we cannot outrun the troll nor defeat it by throwing rocks at it. However, we come up with a better strategy: we jump off a ledge, and when the troll follows, its stiff legs crack under its own weight. This is analogous to what happens in an egg drop.</details> |  
 
-<br><font color="gray"><center><b>― More― </b></center></font><br>
+<br><font color="gray"><center><b>― More ―</b></center></font><br>
 
 | <img src="https://jpskycak.github.io/files/jpskycak-calc_connections_icon.png" align="right" style="border: none; height: 7em" alt="image of string art"> <b><font color="black">Connecting Calculus to the Real World</font> (2017)</b><br> Showed how calculus connects not only to science, technology, and engineering; but also to history, philosophy, business, art, and athletics.<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/files/jpskycak-calc_connections.pdf">packet</a></i><br><br> <b>Summary:</b><br> Calculus is much more fun to learn when we see how it connects to the real world -- and not just STEM subjects, but also business, athletics, and the liberal arts. Even string art has ties to calculus!<br><br> <center><img src="https://jpskycak.github.io/files/jpskycak-calc_connections_img01.png" style="border: none; width: 33%;" alt="image of string art"></center></details> |  
 
@@ -108,11 +108,11 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
 
 ## [Development](#development)
 
-<font color="gray"><center><b>― Selected― </b></center></font><br>
+<font color="gray"><center><b>― Selected ―</b></center></font><br>
 
 | <img src="https://jpskycak.github.io/files/skycak-360giving_challenge_icon.png" align="right" style="border: none; height: 7em;" alt="image of dot plot"> <b><font color="green">★ 360Giving Challenge</font> (2018)</b><br> Visualized which donors funded which themes throughout the years. (This also required classifying grants into high-level themes based on titles and descriptions.)<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/360Giving-Challenge">site</a>, <a class="body" target="_blank" href="https://github.com/jpskycak/360Giving-Challenge/blob/master/360giving.ipynb">code</a></i><br><br> <b>Summary:</b><br> This is a visualization of which donors funded which themes throughout the years. The given dataset consisted of grant records and included donors/recipients, dates/amounts, and titles/descriptions. First, I tagged grants into themes according to keywords in the title and description. Then, for each theme in each year, I computed each donor's average grant amount, total giving, and total giving in that theme as a percent of the donor's total giving in all themes. I visualized the results in an animated dot plot for each theme.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-360giving_challenge-img01.png" style="border: none; width: 75%;" alt="image of dot plot"></center></details> |  
 
-<br><font color="gray"><center><b>― More― </b></center></font><br>
+<br><font color="gray"><center><b>― More ―</b></center></font><br>
 
 | <img src="https://jpskycak.github.io/files/icon-decisiontree.png" align="right" style="border: none; height: 7em;" alt="decision tree icon"> <b><font color="black">Predicting Customer Churn with a Random Forest</font> (2017)</b><br> Built a random forest model to predicted customer churn with 80% precision. <details><br> <b>Advisors:</b> Dave Cieslak & Chirag Mandot (Aunalytics)<br><br><br> <b>Link:</b> <i>code unavailable due to use in production workflow</i><br><br> <b>Summary:</b><br> <details> </details> |  
 
