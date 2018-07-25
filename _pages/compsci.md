@@ -24,7 +24,7 @@ author_profile: true
 
 # [<center>Computational Science</center>](#top)  
 
-<center><b><a class="nav" href="http://www.jpskycak.com/compsci/#bio">Bio</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#experience">Experience</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#education">Education</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#r&d">R&D</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#teaching">Teaching</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#development">Development</a></b></center>  
+<center><b><a class="nav" href="http://www.jpskycak.com/compsci/#bio">Bio</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#experience">Experience</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#education">Education</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#projects">Projects</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#teaching">Teaching</a> • <a class="nav" href="http://www.jpskycak.com/compsci/#development">Development</a></b></center>  
 
 ## [Bio](#bio)
 
@@ -50,7 +50,7 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
  
 <font size="1"><a class="home" href="http://www.jpskycak.com/compsci/#top">[ back to top ]</a></font>
 
-## [R&D](#r&d)  
+## [Projects](#projects)  
 
 <font color="gray"><center><b>― Selected ―</b></center></font><br>
 
