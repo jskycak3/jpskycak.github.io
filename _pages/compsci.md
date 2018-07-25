@@ -28,7 +28,7 @@ author_profile: true
 
 ## [Bio](#bio)
 
-I got my feet wet in physics research as a high-schooler, contributing to projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I worked on projects in math and computational neuroscience; as an as an upperclassman, I simultaneously worked full-time as a data scientist at a local analytics consulting company. I'm currently working on a MS in computer science through Georgia Tech, and am interested in predictive analytics on electronic health records.
+I got my feet wet in physics research as a high-schooler, contributing to projects at IU South Bend and Notre Dame. As an underclassman at Notre Dame, I worked on projects in math and computational neuroscience; as an as an upperclassman, I simultaneously worked full-time as a data scientist at a local analytics consulting company. I'm currently working on a MS in computer science through Georgia Tech, and am interested in applying predictive analytics to electronic health records.
 
 ## [Experience](#experience)
  
