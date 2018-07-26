@@ -37,15 +37,14 @@ In addition to presenting the subject matter in an interesting way, I also maint
 
 <font size="3em"><ul style="list-style-type:none"><li><details><summary>My first part-time job was working as a counselor at a program for kids with learning differences. Click the triangle to see a photo slideshow I put together for one of the holiday parties!</summary><video src="https://jpskycak.github.io/files/jpskycak-childrens_dispensary.mp4" width="320" height="200" controls preload></video></details></li></ul></font>  
 
-I also offer enrichment for curious, advanced students who find joy in math.  
+I also offer enrichment for curious students who find joy in math -- especially highly advanced young students who are considering early-entry college programs.  
 
 <font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Specialties](#specialties)
 
  | <font color="green">Math Subjects</font> | Algebra 2, Precalculus, AP Calculus AB/BC, College Calculus I/II/III, Enrichment  
- | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT  
- | <font color="green">Grades</font> | High school, undergrad  
+ | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
  | <font color="green">Instruction Formats</font> | One-on-one private sessions, small-group tutorials  
  
 <font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
