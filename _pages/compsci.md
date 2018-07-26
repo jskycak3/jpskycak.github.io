@@ -52,7 +52,7 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
 
 ## [Projects](#projects)  
 
-<table><b><font color="black">Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> </table>
+<table><tr><td><b><font color="black">Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> </td></tr></table>
 
 | <b><font color="black">Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> |  
 
