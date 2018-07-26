@@ -28,7 +28,7 @@ author_profile: true
 
 ## [Bio](#bio)
 
-I'm a GaTech CS master's student who is interested in computational approaches to medicine. I come from a broad science background, including industry work in data science and undergraduate research in physics, math, and computational neuroscience.
+I'm a GaTech CS master's student who is interested in computational approaches to medicine. I come from a broad science background, including industry work in data science and undergraduate research in physics / math / computational neuroscience. I also like to write expository documents, since "the best way to learn is to teach."
 
 ## [Experience](#experience)
  
