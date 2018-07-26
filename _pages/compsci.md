@@ -52,7 +52,7 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
 
 ## [Projects](#projects)  
 
-<details><summary>Masters (2018-20)</summary><br>
+<details open><summary>Masters (2018-20)</summary><br>
 
 <table><tr><td><b><font color="green">Modeling Programmable Self-Assembly with Cellular Automata</font> (In Progress)</b><br> Implementing a robot swarm self-assembly algorithm using cellular automata. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> </td></tr></table>
 <br>
@@ -102,7 +102,7 @@ I got my feet wet in physics research as a high-schooler, contributing to projec
 
 ## [Teaching](#teaching)
 
-<details><summary>Masters (2018-20)</summary><br>
+<details open><summary>Masters (2018-20)</summary><br>
 
 <table><tr><td><b><font color="green">Intuiting Predictive Algorithms</font> (In progress)</b><br> Explaining how various predictive algorithms function and relate to each other, to an audience who is familiar with the algorithms but does not yet intuit their underlying math and see how they fit together.<br> <!-- https://docs.google.com/document/d/1zHOIYDTrnJjwUFwhhHZL6YvMKHQLf9djOsTi3CXzm2g/edit --></td></tr></table>  
 <br>
