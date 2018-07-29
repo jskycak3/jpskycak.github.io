@@ -24,7 +24,7 @@ author_profile: true
 
 # [<center>Math Tutoring</center>](#top)
 
-<center><b><a class="nav" href="http://www.jpskycak.com/tutor/#bio">Bio</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#specialties">Specialties</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#availability">Availability</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#experience">Experience</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#education">Education</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></b></center>
+<center><b><a class="nav" href="http://www.jpskycak.com/tutor/#bio">Bio</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#specialties">Specialties</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#experience">Experience</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#education">Education</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></b></center>
 
 ## [Bio](#bio)
 
@@ -49,18 +49,6 @@ I also offer enrichment for curious students who find joy in math -- especially 
  | <font color="green">Math Test Prep</font> | SAT, SAT II, ACT, GMAT, GRE  
  | <font color="green">Instruction Formats</font> | One-on-one private sessions, small-group tutorials  
  
-<font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
-
-## [Availability](#availability)
-
-Here is my availability for this week, next week, and the week after. You can contact me at jpskycak@gmail.com to schedule a session.  
-
-|           | Mon         | Tue       | Wed      | Thu      | Fri     | Sat     | Sun     |  
-| --------- |: --------- :|: ------- :|: ------ :|: ------ :|: ----- :|: ----- :|: ----- :|    
-| 7/23-7/29 |             |           | 9am-11pm |          |         |         | 9am-6pm |  
-| 7/30-8/5  | 9am-11pm    |           | 9am-11pm |          | 9am-6pm |         | 9am-6pm |  
-| 8/6-8/12  | 9am-11pm    | 9am-11pm  | 9am-11pm |          |         |         | 9am-6pm |  
-
 <font size="1"><a class="home" href="http://www.jpskycak.com/tutor/#top">[ back to top ]</a></font>
 
 ## [Experience](#experience)
