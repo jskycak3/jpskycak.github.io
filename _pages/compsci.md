@@ -56,10 +56,8 @@ I'm a GaTech CS master's student who is interested in computational approaches t
 
 <details open><summary>Masters Research</summary><br>
 
-<table><tr><td><b><font color="green">Modeling Self-Assembly of a Robotic Swarm with Cellular Automata</font> (In Progress)</b><br> The goal of this project is to use cellular automata to implement a robot swarm self-assembly algorithm. <!-- https://docs.google.com/document/d/1g3Uc6jvScWirvd1RGGYaZqGvtCjXrgpYeNMVqLI-Cfs/edit# --> </td></tr></table>
+Coming soon!
 
-<!--<table><tr><td><b><font color="green">Expanding the Training Dataset in a Reinforcement Learning Algorithm for RNA Design</font> (In Progress)</b><br> Improving the performance of a reinforcement learning algorithm for RNA design by expanding the training dataset to underrepresented examples. https://docs.google.com/document/d/18ahuN3LG_xkjjvjfSFz5tncL-eFIc7on2N5OwccXz3s/edit# </td></tr></table>-->
-<br>
 </details>
 
 <details open><summary>Masters Expository Writing</summary><br>
