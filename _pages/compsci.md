@@ -58,6 +58,7 @@ I'm a GaTech CS master's student who is interested in computational approaches t
 
 <font size="2em"><i>Coming soon!</i></font>
 <br>
+<br>
 </details>
 
 <details open><summary>Masters Expository Writing</summary><br>
