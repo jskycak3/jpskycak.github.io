@@ -56,7 +56,7 @@ I'm a GaTech CS master's student who is interested in computational approaches t
 
 <details open><summary>Masters Research</summary><br>
 
-<font size="2em"><i>Coming soon!</i></font>
+<i>Coming soon!</i>
 <br>
 <br>
 </details>
