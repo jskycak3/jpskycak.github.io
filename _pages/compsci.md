@@ -28,7 +28,7 @@ author_profile: true
 
 ## [Bio](#bio)
 
-I come from a broad computational background, including industry work in data science and undergraduate research in physics / math / computational neuroscience. Currently, I'm interested in predictive medicine, such as using electronic health records to build risk prediction models for disease. I also like to write expository documents, since "the best way to learn is to teach."
+I come from a broad computational background, including industry work in data science and undergraduate research in physics / math / computational neuroscience. Currently, I'm interested in predictive health/medicine, such as using electronic health records to build risk prediction models for disease. I also like to write expository documents, since "the best way to learn is to teach."
 
 ## [Experience](#experience)
  
