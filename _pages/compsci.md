@@ -28,7 +28,7 @@ author_profile: true
 
 ## [Bio](#bio)
 
-I come from a broad computational background, including industry work in data science and undergraduate research in physics / math / computational neuroscience. Now, I'm interested in computational approaches to medicine. I also like to write expository documents, since "the best way to learn is to teach."
+I come from a broad computational background, including industry work in data science and undergraduate research in physics / math / computational neuroscience. Now, I'm interested in applying machine learning to the analysis of electronic health records. I also like to write expository documents, since "the best way to learn is to teach."
 
 ## [Experience](#experience)
  
