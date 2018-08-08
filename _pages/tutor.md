@@ -27,7 +27,7 @@ author_profile: true
 <center><b><a class="nav" href="http://www.jpskycak.com/tutor/#bio">Bio</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#specialties">Specialties</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#experience">Experience</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#education">Education</a> • <a class="nav" href="http://www.jpskycak.com/tutor/#reviews">Reviews</a></b></center>
 
 ## [Bio](#bio)
-<hr>
+
 I've tutored hundreds of students for thousands of hours. Because I tailor each lesson to the learning style and personal interests of the student, my students not only excel in their classes and tests, but also understand and connect with the subject matter.  
 
 <ul style="list-style-type:none"><li><font size="3em"><details><summary>Examples</summary><br> <a class="body" target="_blank" href="https://jpskycak.github.io/files/jpskycak-ian.pdf">Here</a> is a lesson I made for a student who was interested in <i>Lord of the Rings</i> and <i>Star Wars</i>, and needed to understand the math and physics behind an egg drop experiment.<br><br> <a class="body" target="_blank" href="https://jpskycak.github.io/files/jpskycak-calc_primer.pdf">Here</a> is a primer I made to introduce core concepts in calculus, and <a class="body" target="_blank" href="https://jpskycak.github.io/files/jpskycak-calc_connections.pdf">here</a> is a packet I made to connect the subject matter not only to science, technology, and engineering; but also to history, philosophy, business, art, and athletics.
