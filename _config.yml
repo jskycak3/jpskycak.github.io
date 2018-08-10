@@ -81,7 +81,7 @@ author:
   name             : "Justin Skycak"
   avatar           : "jpskycak.jpg"
   bio              :
-  location         : "Pasadena, CA"
+  location         : # "Pasadena, CA"
   employer         :
   googlescholar    :
   email            : "jpskycak@gmail.com"
