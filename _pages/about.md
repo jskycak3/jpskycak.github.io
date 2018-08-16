@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 Hi! My name is Justin.
-<ul><li>I'm studying a Master's in Computer Science, and I'm interested in applying machine learning to medical imaging.</li>
+<ul><li>I'm studying a Master's in Computer Science, and I'm interested in applying machine learning to health and medicine.</li>
 <li>On the side, I tutor math and make music.</li></ul>
