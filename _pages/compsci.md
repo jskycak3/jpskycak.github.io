@@ -28,7 +28,7 @@ author_profile: true
 
 ## [Bio](#bio)
 
-I come from a broad computational background, including industry work in data science and undergraduate research in physics / math / computational neuroscience. Currently, I'm interested in applying data science to health / medicine. I also like to write expository documents, since "the best way to learn is to teach."
+I come from a broad computational background, including data science consulting and undergraduate research in physics / math / computational neuroscience. Currently, I'm interested in applying data science to health / medicine. I also like to write expository documents, since "the best way to learn is to teach."
 
 ## [Experience](#experience)
  
@@ -79,7 +79,7 @@ I come from a broad computational background, including industry work in data sc
 <br>
 </details>
 
-<details><summary><b>Industry Data Science</b></summary><br>
+<details><summary><b>Data Science Consulting</b></summary><br>
     
 <table><tr><td><img src="https://jpskycak.github.io/files/skycak-360giving_challenge_icon.png" align="right" style="border: none; height: 7em;" alt="image of dot plot"> <b><font color="green">360Giving Challenge</font> (2018)</b><br> Visualized which donors funded which themes throughout the years. (This also required classifying grants into high-level themes based on titles and descriptions.)<br> <details><br> <b>Link:</b> <i><a class="body" target="_blank" href="https://jpskycak.github.io/360Giving-Challenge">site</a>, <a class="body" target="_blank" href="https://github.com/jpskycak/360Giving-Challenge/blob/master/360giving.ipynb">code</a></i><br><br> <b>Summary:</b><br> This is a visualization of which donors funded which themes throughout the years. The given dataset consisted of grant records and included donors/recipients, dates/amounts, and titles/descriptions. First, I tagged grants into themes according to keywords in the title and description. Then, for each theme in each year, I computed each donor's average grant amount, total giving, and total giving in that theme as a percent of the donor's total giving in all themes. I visualized the results in an animated dot plot for each theme.<br><br> <center><img src="https://jpskycak.github.io/files/skycak-360giving_challenge-img01.png" style="border: none; width: 75%;" alt="image of dot plot"></center></details></td></tr></table>  
 
