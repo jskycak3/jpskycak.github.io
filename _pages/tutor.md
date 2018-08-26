@@ -51,6 +51,8 @@ I also offer enrichment for curious students who find joy in math -- especially 
 
 ## [Experience](#experience)
  
+| <b><font color="green">Independent Tutoring</font> (Jan 2014 - Present)</b><br> Word-of-mouth requests for independent private tutoring in math (Algebra 1/2, Precalculus, College Calculus I/II).<br> <details><br> <b>Hours:</b> ~50<br> <b>Students:</b> ~5</details> |  
+
 | <img src="https://jpskycak.github.io/files/icon-flex.png" align="right" style="border: none; height: 7em;" alt="icon"> <b><font color="green">FLEX College Prep</font> (Feb 2018 - Present)</b><br> Group tutorials and one-on-one private tutoring in math (SAT, ACT, College Calculus I/II).<br> <details><br> <b>Hours:</b> ~150<br> <b>Students:</b> ~10<br> <b>Location:</b> South Bend, IN<br> <b>Website:</b> <a class="body" target="_blank" href="https://www.flexcollegeprep.com/locations/pasadena/">flexcollegeprep.com/locations/pasadena</a></details> |  
 
 | <img src="https://jpskycak.github.io/files/icon-latutors.png" align="right" style="border: none; height: 7em;" alt="icon"> <b><font color="green">LA Tutors 123</font> (Jan 2018 - Present)</b><br> One-on-one private tutoring in math (GRE, CHSPE, AP Calculus AB/BC).<br> <details><br> <b>Hours:</b> ~50<br> <b>Students:</b> ~5<br> <b>Location:</b> Pasadena, CA<br> <b>Website:</b> <a class="body" target="_blank" href="http://www.latutors123.com/">latutors123.com</a></details> |  
